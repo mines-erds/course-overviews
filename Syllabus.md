@@ -1,4 +1,4 @@
-# GEOL 5XX Earth Resource Data Science I: Fundamentals
+# Syllabus for GEOL 5XX Earth Resource Data Science I: Fundamentals
 
 ## Description
 A hands-on course intended to introduce basic concepts and give working examples of python code that can be used in daily geoscience workflows. 
