@@ -1,9 +1,12 @@
 # Mines-ERDS
 resources for building course
 
-# Oilish:
+Example repos for projects
 
-# Mineralish:
+## Oilish:
 
-# Others:
-- https://github.com/fastscape-lem
+## Mineralish:
+
+## Point clouds:
+- https://www.pyvista.org/projects/index.html 
+- https://github.com/fastscape-lem nice landscape evolution model - create topo with this, then analyze? PyVista integration?
