@@ -11,3 +11,7 @@ This course is tailored for geologists, geophysicists, petrophysicists, petroleu
 - Introduce python libraries for data import, analysis, plotting, and export 
 - Learn to work with spreadsheets, shapefiles, well log data, and other common geo-data
 - Provide hands on examples of data visualization, data mining, and machine learning techniques
+
+# Schedule
+Week 1. 
+Week 1. 
