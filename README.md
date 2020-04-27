@@ -23,6 +23,9 @@
 -
 
 ## General
+### courses
+- https://github.com/DataScienceUB/introduction-datascience-python-book
+- 
 ### Data types
 - https://realpython.com/python-data-types/
 - https://realpython.com/python-operators-expressions/
