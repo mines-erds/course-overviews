@@ -17,15 +17,20 @@
 - https://github.com/fastscape-lem nice landscape evolution model - create topo with this, then analyze? PyVista integration?
 
 ## ML examples and resources
+ - models https://twitter.com/seanjtaylor/status/1251043814715711489
  - https://developers.google.com/machine-learning/crash-course/ml-intro
  - https://benanne.github.io/2014/08/05/spotify-cnns.html
-- https://d2l.ai/index.html#
--
-
+- https://d2l.ai/index.html
+- sebastianraschka
+  - book https://github.com/rasbt/python-machine-learning-book-3rd-edition
+  - course https://github.com/rasbt/stat479-machine-learning-fs19
+  - paper on model selection https://arxiv.org/pdf/1811.12808.pdf and html https://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html
+  - model examples https://github.com/rasbt/deeplearning-models
+  
 ## General
 ### courses
 - https://github.com/DataScienceUB/introduction-datascience-python-book
-- 
+-
 ### Data types
 - https://realpython.com/python-data-types/
 - https://realpython.com/python-operators-expressions/

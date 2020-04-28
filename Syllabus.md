@@ -120,6 +120,7 @@ While this course will utilize examples from the petroleum industry; any earth s
 ### Theory
 - Do you need to?
 - AI vs. ML: If it is written in Python, it's probably machine learning. If it is written in PowerPoint, it's probably AI https://twitter.com/matvelloso/status/1065778379612282885?s=20
+- model choices https://twitter.com/seanjtaylor/status/1251043814715711489
 - Unsupervised vs. supervised vs. deep
 - Training data and GIGO
 - Model interpretability
