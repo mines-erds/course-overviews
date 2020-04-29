@@ -1,0 +1,17 @@
+16 weeks in the semester, 13 to end before Thanksgiving
+
+Week - Plan
+1  - Introduction to Google Colab and basic python syntax <TM & Zane>
+2  - Introduction to Pandas, and cleaning and loading data <Either>
+3  - Using Matplotlib and Seaborn to plot data <Either>
+4  - Introduction to Lasio, Welly and Striplog <TM Teach>
+5  - Using Cartopy and other spatial tools <ZRJ Teach>
+6  - Using Verde, a contouring and surface modeling package
+7  - Non-code week, going over typical subsurface and geological data formats. 2 page document on a data format of your choice
+8  - SKLearn Descripitave Stats - Part I
+9  - SKLearn Clustering and splitting - Part II
+10 - Basic PDF's and CDF's, when to use and abuse <ZRJ Teach>
+11 - Introducing personal project, with supplied data, or sample data set (production data, well logs, XRF, etc.)
+12 - Intro to ML, law of large numbers, etc. Walk through BHall's example (40 lines of code) Pytorch vs TF, etc.
+13 - ML Part II, current case studies, drawbacks, pitfalls, warning signs, etc.
+14-16 Work on personal project, turn in slide deck and Jupyter notebook
