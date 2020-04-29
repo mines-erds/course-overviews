@@ -26,8 +26,11 @@
   - course https://github.com/rasbt/stat479-machine-learning-fs19
   - paper on model selection https://arxiv.org/pdf/1811.12808.pdf and html https://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html
   - model examples https://github.com/rasbt/deeplearning-models
-  
+
 ## General
+### advice
+- nice thought and code examples https://medium.com/better-programming/9-skills-that-separate-a-beginner-from-an-intermediate-python-programmer-8bbde735c246
+
 ### courses
 - https://github.com/DataScienceUB/introduction-datascience-python-book
 -
