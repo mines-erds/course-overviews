@@ -1,7 +1,7 @@
-# Syllabus for GEOL 557 Earth Resource Data Science I: Fundamentals
+# Syllabus for GEOL 558 Earth Resource Data Science II: Applications and Machine-Learning
 
 ## Course Description:
-A hands-on course intended to introduce basic concepts of data science as it pertains to managing surface and subsurface Earth resources, and give examples that can be used in daily geoscience workflows. This course will use `python`, a modern objective programming language utilized in many earth-science applications, as well as Jupyter notebooks for testing and reporting.
+Hands-on applications (use cases) for Earth resource data science, with examples from the petroleum and minerals industries as well as water resource monitoring and remote-sensing of Earth change. Students are encouraged to provide their own datasets to enable real-world application of the concepts discussed. This course will use `python`, a modern objective programming language utilized in many earth-science applications, as well as Jupyter notebooks for testing and reporting.
 
 While this course will utilize examples from the petroleum industry; any earth scientist will benefit from the geospatial and subsurface data analysis techniques. Applicable fields of earth-science include:
 - petroleum geologists, both conventional and unconventional-focused
@@ -9,149 +9,80 @@ While this course will utilize examples from the petroleum industry; any earth s
 - geological engineers / engineering geologists
 - environmental geologists (e.g., remote-sensing, land-use change)
 - hydro-geologists and hydrologists (water resources)
+- geomorphologists (sand and water resources)
 
 ## Course goals and learning objectives:
-- Review of the python programing language for the earth scientist (syntax, data types, libraries, Jupyter notebooks)
-- Data structures and data cleaning/munging for legacy and modern geoscience data that is often messy
-- Basic and geoscience-specific python libraries for data import, analysis, and visualization, providing hands-on examples using real-world data (e.g., well logs, seismic data, time-series satellite imagery)
-- Data exploration and visualization techniques
-- Integration of surface and subsurface data with remote sensing, geospatial, and GIS data in the python ecosystem
-- Data analysis techniques, including descriptive and comparative statistics, uncertainty, various regression models, and machine-learning (supervised and unsupervised)
+- Digitalization of legacy data and integration with modern, digital data (examples using core data from North Sea oilfields)
+- Data mining, web-APIs, web-scraping, regular expressions, and scheduled tasks to automatically update a dashboard with web-sourced data (examples using Colorado oil production data, river hydrograph data, EIA energy data)
+- Machine-learning, including unsupervised (e.g., clustering), supervised (e.g., decision-trees), and deep-learning (e.g., neural-network) models. Example datasets include well-log data and geochemical core-scanner data.
+- Dive into deep learning: methods, utility, interpretability, and pitfalls (examples using well-log data)
+- For the final project, students will apply these techniques on their own dataset in order to solve a real-world problem
 
-## Details
+## Other details
 
 ### Prerequisites
-None! No prior knowledge of python or other programming languages is necessary
+GEOL 557 or DSCI 403
 
 ### Required Technology:
-e.g., Canvas, calculator, camera, Web-enabled device they can bring to class
+TBA
 
 ### Profile in Canvas:
 As part of the learning experience at the Colorado School of Mines, our class will be utilizing online learning resources and experiences through the Canvas learning management system.  In order to help build community in this online learning environment, you are encouraged to upload your profile picture to Canvas.  Photos should be similar to the photos taken for passports or state identification cards.
 
 ### Assessments
-1.	List the assessments, at least the summative assessments.
-2.	This may be added in a table of class activities and assessments with the schedule, rather than a list of assessments- or you can use a table like the one below
-3.	The assessments should be clearly aligned with the Learning Outcomes
+1.	Weekly quizzes and code reviews (50%)
+2.	Final project (50%)
 
 ### Useful links
-- link 1
-- link 2
+- TBA
 
 # Schedule
 
-## Week 1 - Introduction
-### Theory
-- Why not just use Excel?
-- Python lets you be more efficient
-  - Automation and visualization
-  - Open-source and version control
-
-### Coding
-- Google Colab intro
-  - Variables (e.g., `x=2` or `state="Colorado"`)
-  - simple math and text operations
-  - import packages
-  - follow-along notebooks
-- Other things
-  - Installing python and environments
-  - IDEs (e.g., Atom) and Jupyter notebooks
-  - Github integration
-
-## Week 2 - `python` syntax and data types
-### Theory
-- data types and why they matter
-- indexing
-
-### Coding
-- 0 not 1!
-- array, int, float, str, list, dict, tuple, boolean
-  - intro to np.ndarray here too?
-- indexing and slicing
-- operators (e.g., +, -, \*, /, ==, !=, <, <=)
-- loops
-  - for i in x,for x in range(), ;
-  - pandas loops to pull out variables and plot stuff (for name, group in df.groupby('a'):)
-  - projects
-    - ??
-    - ??
-
-## Week 3 - **data import and munging** with `pandas`
-### Theory
+## Week 1 - Data Munging
 - How to deal with messy, real-world data
-- indexing and split-apply-combine
+- Digitalization of legacy datasets
+  - combining with modern data in a sensible way
 
-### Coding
-  - importing data into series, dataframe (index, columns, data)
-  - munging (dtypes, NaNs, etc)
-  - groupby (agg, sort, mean, etc.)
-  - indexing ([ ], loc, iloc)
-  - split-apply-combine
-  - projects
-    - import USGS core data
-    - B-hall data and plot striplogs and GR;
+## Week 2 - Data Mining and web-API development
+- automated dashboard updates using web APIs
+- intro to web scraping
 
-## Week 4 - **visualization** with `matplotlib` and `seaborn`
-### Theory
-- Making beautiful plots that convey information
-  - Remove to improve https://gfycat.com/improbablefemalebasenji
-  - sns.jointplot(x, y, kind="kde")
-- Perceptually uniform colormaps and #endtherainbow
+## Week 3 - Geospatial data
+- scrape data from websites to build a GIS project
+- image analysis using scikit-image (for satellite imagery)
 
-### Coding
-- plt, fig, ax, plot, scatter, text, subplot, log axes
-- violin, kdeplot, jointplot, pairplot
-- projects
-  - well log cross plot?
-  - others?
-
-## Week 5 - descriptive and statistics with `numpy` and `scipy`
-### Theory
-- 1D distributions (CDF, kde, percentiles)
-  - normal, log-normal, log10, log2
-  KSTest and other comparative statistics
-- 2D distributions and regressions
-
-### Coding
-- operations (* vs @; +=)
-- np.max and argmax, percentile
-- array stacking, indexing
-- scipy.interpolate; scipy.stats
-- projects
-  - grain size
-  - CDF and hist plot of any data and describe distribution with percentiles and an equation
-  - cross-plot and regression
-  - image analysis?
-
-## Week 6 - geospatial data (geopandas, cartopy)
-### Theory
-- Projections and lat-long vs UTM
-- GIS integration
-
-### Coding
-- projections
-- cartopy default data (e.g., states, rivers)
-- possible projects:
-  - pull out lat-long from las files and use geopandas to make shp and plot
-  - reproject coordinates
-
-## Week 7 - Machine-learning
-### Theory
-- Do you need to?
-- AI vs. ML: If it is written in Python, it's probably machine learning. If it is written in PowerPoint, it's probably AI https://twitter.com/matvelloso/status/1065778379612282885?s=20
-- model choices https://twitter.com/seanjtaylor/status/1251043814715711489
+## Week 4 - Machine-learning
 - Unsupervised vs. supervised vs. deep
-- Training data and GIGO
-- Model interpretability
+- Training data and model interpretability
+- scikit-learn, tensorflow, pytorch introduction
 
-### Coding
-- possible projects:
-  - do a simple unsupervised and supervised ML model on brendon hall data
-  - spotify CNN?
-  - clustering with real-world data? por-perm?
+## Week 5 - Unsupervised machine-learning
+- Model Architectures
+- Example models, including:
+   - logistic regression
+   - Clustering using:
+    - hierarchical methods
+    - K-means
+    - principal component analysis
+    - factor analysis
+
+## Week 6 - Supervised machine-learning
+- Classification vs. regression
+- Model Architectures and parameters
+  - cross-validation
+  - gradient descent
+  - accuracy vs F1 vs recall vs precision
+- Example models, including:
+  - random forest
+  - decision trees
+  - gradient-boosted trees (AdaBoost, XGBoost)
+
+## Week 7 - Deep learning
+- Architectures of neural networks
+- Example models, including CNN, RNN/LSTM,
 
 ## Week 8
-Final project??
+Final project, where students munge a real-world dataset and perform a comparative analysis of unsupervised and supervised ML techniques
 
 # Important things
 
