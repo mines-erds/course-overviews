@@ -26,6 +26,7 @@
   - course https://github.com/rasbt/stat479-machine-learning-fs19
   - paper on model selection https://arxiv.org/pdf/1811.12808.pdf and html https://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html
   - model examples https://github.com/rasbt/deeplearning-models
+- soil science deep learning https://towardsdatascience.com/deep-learning-and-soil-science-part-1-8c0669b18097
 
 ## General
 ### advice

@@ -1,7 +1,7 @@
 # Syllabus for GEOL 557 Earth Resource Data Science I: Fundamentals
 
 ## Course Description:
-A hands-on course intended to introduce basic concepts of data science as it pertains to managing surface and subsurface Earth resources, and give examples that can be used in daily geoscience workflows. This course will use python, a modern objective programming language utilized in many earth-science applications, as well as Jupyter notebooks for testing and reporting.
+A hands-on course intended to introduce basic concepts of data science as it pertains to managing surface and subsurface Earth resources, and give examples that can be used in daily geoscience workflows. This course will use `python`, a modern objective programming language utilized in many earth-science applications, as well as Jupyter notebooks for testing and reporting.
 
 While this course will utilize examples from the petroleum industry; any earth scientist will benefit from the geospatial and subsurface data analysis techniques. Applicable fields of earth-science include:
 - petroleum geologists, both conventional and unconventional-focused
