@@ -51,9 +51,10 @@ As part of the learning experience at the Colorado School of Mines, our class wi
 - scrape data from websites to build a GIS project
 - image analysis using scikit-image (for satellite imagery)
 
-## Week 4 - Machine-learning
+## Week 4 - Machine-learning for earth-science data
 - Unsupervised vs. supervised vs. deep
 - Training data and model interpretability
+- 80% of the work is building the dataset
 - scikit-learn, tensorflow, pytorch introduction
 
 ## Week 5 - Unsupervised machine-learning
