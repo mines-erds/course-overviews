@@ -1,6 +1,17 @@
 # Mines-ERDS
 
 # Resources for building course
+
+## Geo-specific courses and datasets
+- https://github.com/DataScienceUB/introduction-datascience-python-book
+- https://geo-python.github.io/site/
+- Datasets
+ - https://github.com/yohanesnuwara/open-geoscience-repository
+ - https://dataunderground.org
+ - https://hackmd.io/iAyNR_TOSguKnlnkrY2Auw
+
+# Applications
+
 ## Oilish
 - lasio
 - welly
@@ -28,38 +39,33 @@
   - model examples https://github.com/rasbt/deeplearning-models
 - soil science deep learning https://towardsdatascience.com/deep-learning-and-soil-science-part-1-8c0669b18097
 
-## Datasets
-- https://github.com/yohanesnuwara/open-geoscience-repository
+# General
 
-## General
-### advice
+## advice
 - nice thought and code examples https://medium.com/better-programming/9-skills-that-separate-a-beginner-from-an-intermediate-python-programmer-8bbde735c246
 
-### courses
-- https://github.com/DataScienceUB/introduction-datascience-python-book
--
-### Data types
+## Data types
 - https://realpython.com/python-data-types/
 - https://realpython.com/python-operators-expressions/
 
-### Loops
+## Loops
 - https://www.learnpython.org/en/Loops
 - https://realpython.com/python-for-loop/
 
-### Numpy and Scipy
+## Numpy and Scipy
 - https://numpy.org/devdocs/user/quickstart.html
 - https://docs.scipy.org/doc/scipy/reference/tutorial/index.html
 
-### matplotlib and seaborn
+## matplotlib and seaborn
 - https://matplotlib.org/tutorials/introductory/usage.html#sphx-glr-tutorials-introductory-usage-py
 - https://matplotlib.org/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py
 - https://seaborn.pydata.org/tutorial/relational.html
 
-### Pandas
+## Pandas
 - https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html
 - http://www.datasciencemadesimple.com/index-select-filter-dataframe-pandas-python/
 - https://medium.com/dunder-data/selecting-subsets-of-data-in-pandas-6fcd0170be9c
 
-### Spatial stuff
+## Spatial stuff
 - http://geopandas.org/mapping.html
 - https://scitools.org.uk/cartopy/docs/latest/matplotlib/feature_interface.html
