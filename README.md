@@ -28,6 +28,9 @@
   - model examples https://github.com/rasbt/deeplearning-models
 - soil science deep learning https://towardsdatascience.com/deep-learning-and-soil-science-part-1-8c0669b18097
 
+## Datasets
+- https://github.com/yohanesnuwara/open-geoscience-repository
+
 ## General
 ### advice
 - nice thought and code examples https://medium.com/better-programming/9-skills-that-separate-a-beginner-from-an-intermediate-python-programmer-8bbde735c246
