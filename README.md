@@ -41,7 +41,8 @@
 
 # General
 
-## advice
+## theory and examples
+- if you cant read that, you better read this https://www.poynter.org/reporting-editing/2015/bloomberg-businessweeks-latest-issue-is-devoted-to-code/
 - nice thought and code examples https://medium.com/better-programming/9-skills-that-separate-a-beginner-from-an-intermediate-python-programmer-8bbde735c246
 
 ## Data types
