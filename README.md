@@ -6,7 +6,7 @@ The Earth Resource Data Science graduate certificate is a new (as of 2020) offer
 ## Why you may want to enroll
 Digitalization has profoundly affected all facets of geoscience, including extractive industries (e..g, oil and gas, minerals, water resources), remote sensing of Earth change, environmental monitoring & remediation, and geological engineering. More data is available for detailed analysis to improve decision making and influence policy at all levels. Changing commodity prices have added to the need to improve the efficiency of operations in order to drive more effective and responsible development of Earth resources and to provide attractive investment returns for shareholders.
 
-Data science is a vitally important skill, particularly when paired with deep domain knowledge pertaining to Earth resource characterization, extraction, and sustainable development. 
+Data science is a vitally important skill, particularly when paired with deep domain knowledge pertaining to Earth resource characterization, extraction, and sustainable development.
 
 ## Courses
 ### Mandatory courses:
@@ -34,5 +34,3 @@ Data science is a vitally important skill, particularly when paired with deep do
   - GEOL 5XX	Uncertainty in Earth Sciences
   - MATH 530 	Statistical Methods I
   - EBGN 525	Business Analytics
-
-## Why
