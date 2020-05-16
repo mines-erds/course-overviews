@@ -11,7 +11,7 @@ While this course will utilize examples from the petroleum industry; any earth s
 - hydro-geologists and hydrologists (water resources)
 - geomorphologists (sand and water resources)
 
-## Course goals and learning objectives:
+## Course goals and learning objectives (UPDATE AFTER EFOL):
 - Review of the python programing language for the earth scientist (syntax, data types, libraries, Jupyter notebooks)
 - Data structures and data cleaning/munging for legacy and modern geoscience data that is often messy
 - Basic and geoscience-specific python libraries for data import, analysis, and visualization, providing hands-on examples using real-world data (e.g., well logs, seismic data, time-series satellite imagery)
