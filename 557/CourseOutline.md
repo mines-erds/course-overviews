@@ -16,8 +16,8 @@ Time - 8 weeks?; Hours - XX
   - Report descriptive and comparative statistics
 
 1. Visualize earth-resource data using `matplotlib` and `seaborn`
-   - Create beautiful plots that convey information
-   - Reflect on the principles of effective graphic design
+  - Create beautiful plots that convey information
+  - Reflect on the principles of effective graphic design
 
 1. Apply earth-resource-specific packages to analyze/visualize data and solve common problems  
   - Examine common earth-resource data types (e.g., satellite imagery using `skimage`, well-logs using `lasio`, time-series data)
@@ -28,4 +28,4 @@ Time - 8 weeks?; Hours - XX
   - Discuss model uncertainty and interpretability, as well as the importance of training data
 
 1. (not sure about this one) Integrate earth-surface and subsurface data in a geospatial framework
-    - Utilize common geospatial packages to co-visualize different data types
+  - Utilize common geospatial packages to co-visualize different data types
