@@ -3,17 +3,29 @@ Time - 8 weeks?
 Hours -
 ## Course-level learning outcomes
 
-- asdasdf
-  - asdf
-  - adsf
+1. Recognize `python` syntax, data types, and common packages
+  - Implement python code to solve common earth-resource problems
+  - Reflect on coding-as-a-language and the Excel-vs-python mindset
 
-- sdf
-  - asdf
-  - asdf 
+1. Construct python notebooks to import, analyze, and visualize earth-science data
+  - Define data types, syntax, and commonly-used packages in python
+  - Understand different python installations and Github integration
 
-- Review of the python programing language for the earth scientist (syntax, data types, libraries, Jupyter notebooks)
-- Data structures and data cleaning/munging for legacy and modern geoscience data that is often messy
-- Basic and geoscience-specific python libraries for data import, analysis, and visualization, providing hands-on examples using real-world data (e.g., well logs, seismic data, time-series satellite imagery)
-- Data exploration and visualization techniques
-- Integration of surface and subsurface data with remote sensing, geospatial, and GIS data in the python ecosystem
-- Data analysis techniques, including descriptive and comparative statistics, uncertainty, various regression models, and machine-learning (supervised and unsupervised)
+1. Explore, organize, and summarize earth-science data using `pandas`, `numpy`, and `scipy`
+  - Clean and sort messy, real-world data   
+  - Report descriptive and comparative statistics
+
+1. Visualize earth-resource data using `matplotlib` and `seaborn`
+   - Create beautiful plots that convey information
+   - Reflect on the principles of effective graphic design
+
+1. Apply earth-resource-specific packages to analyze/visualize data and solve common problems  
+  - Examine common earth-resource data types (e.g., satellite imagery using `skimage`, well-logs using `lasio`, time-series data)
+  - Use python to automate tasks and save time
+
+1. Integrate earth-surface and subsurface data in a geospatial framework
+  - Utilize common geospatial packages to  
+
+1. Implement machine-learning models for earth-resource data
+  - Explain differences in supervised and unsupervised models and when to use each
+  - Discuss model uncertainty and interpretability, as well as the importance of training data
