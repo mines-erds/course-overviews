@@ -3,13 +3,12 @@ Time - 8 weeks?; Hours - XX
 
 ## Course-level learning outcomes
 
-**1. Recognize `python` syntax, data types, and common packages**
+**1. Formulate and execute a strategic plan for earth-resource data analysis**
   - Implement python code to solve common earth-resource problems
   - Reflect on coding-as-a-language and the Excel-vs-python mindset
 
-**2. Construct python notebooks to import, analyze, and visualize earth-resource data**
-  - Define data types, syntax, and commonly-used packages in python
-  - Understand different python installations and Github integration
+**2. Use python syntax, data types, and common packages to import, analyze, and visualize earth-resource data**
+  - Compare useful data types, syntax, and commonly-used earth-science packages in python
 
 **3. Explore, organize, and summarize earth-resource data using `pandas`, `numpy`, and `scipy`**
   - Clean and sort messy, real-world data   
