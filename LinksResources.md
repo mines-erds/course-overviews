@@ -2,6 +2,9 @@
 
 # Resources for building course
 
+## The who-cares argument
+- https://www.nature.com/articles/d41586-020-01366-w and https://www.washingtonpost.com/science/rock-samples-arent-archived-or-shared-they-need-to-be-geologists-warn-pointing-to-a-reproducibility-crisis/2020/05/15/aa858e06-953c-11ea-91d7-cf4423d47683_story.html
+
 ## Geo-specific courses and datasets
 - https://github.com/DataScienceUB/introduction-datascience-python-book
 - https://geo-python.github.io/site/
@@ -12,15 +15,22 @@
 
 # Applications
 
-## Oilish
+## Oil
 - lasio
 - welly
 - corebreakout or depstrat for advanced
 - segio for seismic, or something else?
+- other I/O
+  - segy data and open-d-tect, petrel, etc. https://github.com/agile-geoscience/gio/tree/master/notebooks
 
-## Mineralish
-- core scanner data from Thomas M?
-- Katha TIMA data analysis?
+## Core data
+- corebreakout https://github.com/rgmyr/corebreakout
+-
+
+## Thin sections
+- RockType funded by XStarter http://rocktype.com and https://www.xstarter.io/portfolio
+- core scanner data from Thomas Monecke? Maybe this one? https://minalyze.com
+- http://www.ged.rwth-aachen.de/index.php?cat=Virtual_Microscope and https://m-a-p.expert
 - thin section resources from jae Erickson https://elearning.mines.edu/courses/554/modules
 
 ## Point clouds
@@ -70,3 +80,6 @@
 ## Spatial stuff
 - http://geopandas.org/mapping.html
 - https://scitools.org.uk/cartopy/docs/latest/matplotlib/feature_interface.html
+
+## Colab
+- importing data https://towardsdatascience.com/importing-data-to-google-colab-the-clean-way-5ceef9e9e3c8 
