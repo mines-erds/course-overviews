@@ -12,30 +12,38 @@
  - https://github.com/yohanesnuwara/open-geoscience-repository
  - https://dataunderground.org
  - https://hackmd.io/iAyNR_TOSguKnlnkrY2Auw
-
+- Dan Buscombe ML tutorials https://twitter.com/magic_walnut/status/1265413642788298752?s=11
 # Applications
 
-## Oil
+## Well-log and seismic data
 - lasio
 - welly
-- corebreakout or depstrat for advanced
+- striplog and litholog
+  - corebreakout or depstrat for advanced
 - segio for seismic, or something else?
 - other I/O
   - segy data and open-d-tect, petrel, etc. https://github.com/agile-geoscience/gio/tree/master/notebooks
 
 ## Core data
 - corebreakout https://github.com/rgmyr/corebreakout
--
+- core scanner data from Thomas Monecke? Maybe this one? https://minalyze.com
 
 ## Thin sections
 - RockType funded by XStarter http://rocktype.com and https://www.xstarter.io/portfolio
-- core scanner data from Thomas Monecke? Maybe this one? https://minalyze.com
-- http://www.ged.rwth-aachen.de/index.php?cat=Virtual_Microscope and https://m-a-p.expert
-- thin section resources from jae Erickson https://elearning.mines.edu/courses/554/modules
+- Virtual_Microscope http://www.ged.rwth-aachen.de/index.php?cat=Virtual_Microscope and https://m-a-p.expert
+- thin section resources from Jae Erickson https://elearning.mines.edu/courses/554/modules
 
-## Point clouds
+## Point clouds and topography data
 - https://www.pyvista.org/projects/index.html
 - https://github.com/fastscape-lem nice landscape evolution model - create topo with this, then analyze? PyVista integration?
+- LandLab https://www.earth-surf-dynam.net/8/379/2020/
+
+## Water resources
+- USGS data, with notebooks https://twitter.com/hydrobeth/status/1263961044680138753
+
+## Earthquakes
+- nice time series data examples in obspy https://github.com/obspy/obspy/wiki
+- CNN paper using obspy https://eartharxiv.org/nbmzt
 
 ## ML examples and resources
  - models https://twitter.com/seanjtaylor/status/1251043814715711489
@@ -72,14 +80,19 @@
 - https://matplotlib.org/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py
 - https://seaborn.pydata.org/tutorial/relational.html
 
+## Data-Viz
+- what not to do https://twitter.com/pokateo_/status/1265278980887924736?s=11
+
 ## Pandas
 - https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html
 - http://www.datasciencemadesimple.com/index-select-filter-dataframe-pandas-python/
 - https://medium.com/dunder-data/selecting-subsets-of-data-in-pandas-6fcd0170be9c
 
 ## Spatial stuff
+- GeoJSON from a pandas DF https://geoffboeing.com/2015/10/exporting-python-data-geojson/
+  - then plot with ipyleaflet https://ipyleaflet.readthedocs.io/en/latest/api_reference/geo_json.html
 - http://geopandas.org/mapping.html
 - https://scitools.org.uk/cartopy/docs/latest/matplotlib/feature_interface.html
 
 ## Colab
-- importing data https://towardsdatascience.com/importing-data-to-google-colab-the-clean-way-5ceef9e9e3c8 
+- importing data https://towardsdatascience.com/importing-data-to-google-colab-the-clean-way-5ceef9e9e3c8
