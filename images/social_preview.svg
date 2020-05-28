@@ -129,9 +129,9 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="355.902"
-     inkscape:cx="689.24458"
-     inkscape:zoom="0.55639097"
+     inkscape:cy="132.86751"
+     inkscape:cx="843.70479"
+     inkscape:zoom="0.67349489"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -172,6 +172,10 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="background stuff">
+    <path
+       d="m 10.554688,158.75 c 105.843752,0 211.687502,0 317.531252,0 0,-49.39844 0,-98.796875 0,-148.195312 -105.84375,0 -211.6875,-1e-6 -317.531252,0 -1e-6,49.398437 0,98.796872 0,148.195312 z"
+       style="fill:#f9f9f9;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5141" />
     <g
        transform="matrix(0.02495128,0,0,-0.02495128,12.710092,32.119252)"
        id="g54">
@@ -5152,24 +5156,24 @@
      inkscape:groupmode="layer">
     <text
        id="text24"
-       y="64.882515"
-       x="81.692032"
-       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="59.775448"
+       x="100.15604"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
-         y="64.882515"
-         x="81.692032"
+         y="59.775448"
+         x="100.15604"
          id="tspan22"
          sodipodi:role="line">Earth Resource Data Science</tspan><tspan
          id="tspan5114"
          style="stroke-width:0.264583"
-         y="78.111641"
-         x="81.692032"
+         y="73.004578"
+         x="100.15604"
          sodipodi:role="line" /><tspan
          id="tspan5116"
          style="stroke-width:0.264583"
-         y="91.340767"
-         x="81.692032"
+         y="86.233704"
+         x="100.15604"
          sodipodi:role="line">Social preview tester</tspan></text>
   </g>
 </svg>

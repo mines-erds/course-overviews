@@ -1,0 +1,128 @@
+[data-module="toc"] {
+	position: fixed;
+	width: 360px;
+	height: 100%;
+	top: 0;
+	left: -360px;
+	z-index: 3;
+	transition: left .3s;
+	background: #2800d7;
+}
+
+[data-module="toc"].open {
+	left: 0;
+}
+
+[data-module="toc"] ::-webkit-scrollbar { 
+  display: none; 
+}
+
+#toc-toggle {
+	position: absolute;
+	left: 100%;
+	margin: 10px;
+	width: 30px;
+	height: 30px;
+	background-image: url(../../images/toc_icon.gif);
+	background-size: contain;
+	cursor: pointer;
+	z-index: 4;
+}
+.open #toc-toggle {
+  -webkit-filter: invert(1);
+  filter: invert(1);
+}
+
+.histogram {
+	position: absolute;
+	height: 100%;
+	width: 16px;
+	top: 0;
+	left: 0;
+	background: white;
+}
+
+.histogram .bar {
+	position: absolute;
+	background: #00c770;
+	width: 100%;
+	left: 0;
+	z-index: 1;
+}
+
+.histogram .window {
+	border: 1px solid black;
+	position: absolute;
+	left: 0;
+	height: 50px;
+	width: 100%;
+	z-index: 2;
+}
+
+.histogram .window[data-window="hover"] {
+	border: 1px solid #00f;
+}
+
+.histogram .window[data-window="previous"] {
+	border: 1px dotted black;
+}
+
+.toc {
+	margin-left: 16px;
+	height: 100%;
+	overflow-y: scroll;
+}
+
+
+.toc .toc-section {
+	background: white;
+	padding: 10px;
+	margin: 20px;
+}
+
+.toc .toc-head {
+	cursor: pointer;
+	display: block;
+	text-decoration: none;
+	border-bottom: none;
+}
+
+.toc .toc-head:hover {
+	color: #2800d7;
+}
+
+.toc .toc-head[data-level="H2"] {
+	font-family: "BWHaasText-75Bold", Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	line-height: 18px;
+}
+
+.toc .toc-head[data-level="H3"] {
+	font-family: "BWHaasText-55Roman", Helvetica, Arial, sans-serif;
+	font-size: 13px;
+	line-height: 14px;
+	/*margin-left: 10px;*/
+}
+
+.toc .toc-head[data-level="H3"] .section {
+	font-size: 13px;
+	font-weight: bold;
+}
+
+.toc .toc-section.stats {
+	font-family: "BWHaasText-55Roman", Helvetica, Arial, sans-serif;
+	font-size: 13px;
+	line-height: 14px;
+}
+
+
+
+@media only screen and (max-width: 1020px)  {
+  #toc-toggle{
+    display: none;
+  }
+}
+
+#toc{
+	display: block !important;
+}

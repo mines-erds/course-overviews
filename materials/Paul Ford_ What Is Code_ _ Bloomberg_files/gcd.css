@@ -1,0 +1,81 @@
+[data-module="gcd"]{
+  width: 960px;
+  height: 420px;
+  margin-left: -0px;
+  font-family: "HaasTextBold",Arial,Helvetica;
+  padding-top: 30px;
+  padding-left: 45px;
+}
+
+[data-module="gcd"] text{
+  font-family: "HaasTextBold",Arial,Helvetica;
+
+}
+
+[data-module="gcd"] rect{
+  fill-opacity: 1;
+  stroke: black;
+}
+
+[data-module="gcd"] svg{
+  overflow: visible;
+}
+
+[data-module="gcd"] .tbl{
+  display: inline-block;
+  width: 360px;
+  vertical-align: top;
+}
+
+[data-module="gcd"] .cell{
+  display: inline-block;
+  width: 60px;
+}
+
+[data-module="gcd"] .number{
+  font-size: 500%;
+  /*font-family: monospace;*/
+  text-shadow: 0 1px 0 #ccc, 1px 0 0 #ccc, 0 -1px 0 #ccc, -1px 0 0 #ccc;
+
+}
+
+[data-module="gcd"] .chatter{
+  color: darkgrey;
+  font-family: 'TiemposTextWeb-Regular', Georgia, serif;
+}
+
+[data-module="gcd"] .explanation{
+  max-width: 520px;
+  margin: 0px auto;
+  float: left;
+  margin-right: 20px;
+}
+
+[data-module="gcd"] .svg{
+  float: left;
+}
+
+[data-module="gcd"] .explanation div{
+  padding-bottom: 20px;
+}
+
+[data-module="gcd"] .btn{
+  background: #2800d7;
+  color: white;
+  padding: 8px !important;
+  font-family: "BWHaasText-75Bold",Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  line-height: 16px;
+  width: auto;
+  display: inline-block;
+  vertical-align: middle; 
+  -webkit-transition: background 0.4s;
+       -moz-transition: background 0.4s;
+        -ms-transition: background 0.4s;
+         -o-transition: background 0.4s;
+            transition: background 0.4s;
+}
+[data-module="gcd"] .btn:hover { 
+  background: #6381ff; 
+  cursor: pointer;
+}
