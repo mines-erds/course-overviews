@@ -30,7 +30,7 @@ TBA
 ### Profile in Canvas:
 As part of the learning experience at the Colorado School of Mines, our class will be utilizing online learning resources and experiences through the Canvas learning management system.  In order to help build community in this online learning environment, you are encouraged to upload your profile picture to Canvas.  Photos should be similar to the photos taken for passports or state identification cards.
 
-### Assessments
+### Assessments (To be updated...)
 1.	Weekly quizzes and code reviews (50%)
 2.	Final project (50%)
 
@@ -39,7 +39,7 @@ As part of the learning experience at the Colorado School of Mines, our class wi
 
 # Schedule
 
-## Week 1 - Introduction
+## Week 1 - The `coding mindset` and intro to `python` as a language
 ### Theory
 - Why not just use Excel?
 - Python lets you be more efficient
