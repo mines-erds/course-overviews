@@ -27,7 +27,7 @@
 ## Core data
 - corebreakout https://github.com/rgmyr/corebreakout
 - core scanner data from Thomas Monecke? Maybe this one? https://minalyze.com
-
+- Eagleford from Diana Acero https://www.digitalrocksportal.org/projects/258
 ## Thin sections
 - RockType funded by XStarter http://rocktype.com and https://www.xstarter.io/portfolio
 - Virtual_Microscope http://www.ged.rwth-aachen.de/index.php?cat=Virtual_Microscope and https://m-a-p.expert

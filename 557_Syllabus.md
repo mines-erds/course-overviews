@@ -82,7 +82,7 @@ As part of the learning experience at the Colorado School of Mines, our class wi
 
 ### Coding
   - importing data into series, dataframe (index, columns, data)
-  - munging (dtypes, NaNs, etc)
+  - wrangling (dtypes, NaNs, etc)
   - groupby (agg, sort, mean, etc.)
   - indexing ([ ], loc, iloc)
   - split-apply-combine
@@ -150,7 +150,7 @@ As part of the learning experience at the Colorado School of Mines, our class wi
   - clustering with real-world data? por-perm?
 
 ## Week 8
-Final project, where students bring in a real-world dataset and perform data filtering, visualization, and statistical analysis
+Final project, where students bring in a real-world dataset and perform data wrangling, visualization, and statistical analysis
 
 # Important things
 

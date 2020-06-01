@@ -1,6 +1,6 @@
 # Module 1: The `coding mindset` and intro to `python` as a language
 
-After successful completion of the course, learners will be able to:
+After successful completion of the module, learners will be able to:
 
 **Formulate and execute a strategic plan for earth-resource data analysis**, including:
 - Discuss and debate resources for critical thinking about coding, help on errors, etc.
@@ -8,7 +8,11 @@ After successful completion of the course, learners will be able to:
 - Hack together your first python code!
 
 ## Assessments
-fill this in
+- intro discussion board
+- intro quiz on python knowledge
+  - short essay about what you want out of the course
+- discussion board about design thinking
+- concept map and colab notebook
 
 ## Developing a coding mindset using design thinking
 
