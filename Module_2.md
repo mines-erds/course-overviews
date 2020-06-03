@@ -14,35 +14,41 @@ After successful completion of the module, learners will be able to:
 - Crowd-sourced cheat sheet
 
 ## python syntax
+- BUILD NOTEBOOK FROM Chapter 3 of Wes McKinney
 - 0 not 1
 - array, int, float, str, list, dict, tuple, boolean
-- indexing and slicing
+- indexing and slicing, stacking
 - operators (e.g., +, -, \*, /, ==, !=, <, <=)
 - loops
   - for i in x,for x in range(), ;
+- help using tab completion and `?`, example `'len?`
+- creating simple functions `def`
 
 ### readings
-- asdf
+- Chapter 3 of Wes McKinney
+- other good summaries?????????????
 
 ## pandas
+- TRY THIS http://rcs.bu.edu/examples/python/data_analysis/dataScience.ipynb
 - importing data into series, dataframe (index, columns, data), and head(), describe(), etc.
 - wrangling (dtypes, NaNs, etc)
-- groupby (agg, sort, mean, etc.)
+- methods (describe, quantile, mean, std, etc)
+- groupby vs. value_counts and methods like sort_values, agg, sort, mean, etc.)
 - indexing ([ ], loc, iloc)
-- split-apply-combine
-- operations `apply()``
+- split-apply-combine operations
+  - df[df['grade'] > 80]
+- operations using `apply()` and `lambda`
+  - create new column using `apply.function`
 - pandas loops to pull out variables and plot stuff (for name, group in df.groupby('a'):)
 
-need to write a notebook that finds weird things like 5576..00 and 5,576.00 and 5576.;00 instead of 5576.00
+Also, need to write a notebook that finds weird things like 5576..00 and 5,576.00 and 5576.;00 instead of 5576.00. For a starter, see pg 27 of Henley and Wolf
 
 ### readings
-- asdf
-
-### exercises
-- asdf
-
-### project
-asdf
+- pandas intro online
+- datasciencemadesimple website for pandas operations
+- books
+  - Igual and Segui book has good walk through
+  -
 
 ## reflection
 top 10 one-liners crowd-sourced cheat sheet

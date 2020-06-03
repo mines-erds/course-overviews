@@ -57,10 +57,11 @@ As part of the learning experience at the Colorado School of Mines, our class wi
   - IDEs (e.g., Atom) and Jupyter notebooks
   - Github integration
 
-## Week 2 - `python` syntax and data types
+## Week 2 - `python` syntax, data types, and data wrangling with `pandas`
 ### Theory
 - data types and why they matter
-- indexing
+- How to deal with messy, real-world data
+- indexing and split-apply-combine
 
 ### Coding
 - 0 not 1!
@@ -71,16 +72,7 @@ As part of the learning experience at the Colorado School of Mines, our class wi
 - loops
   - for i in x,for x in range(), ;
   - pandas loops to pull out variables and plot stuff (for name, group in df.groupby('a'):)
-  - projects
-    - ??
-    - ??
-
-## Week 3 - **data import and munging** with `pandas`
-### Theory
-- How to deal with messy, real-world data
-- indexing and split-apply-combine
-
-### Coding
+- pandas
   - importing data into series, dataframe (index, columns, data)
   - wrangling (dtypes, NaNs, etc)
   - groupby (agg, sort, mean, etc.)
@@ -88,7 +80,38 @@ As part of the learning experience at the Colorado School of Mines, our class wi
   - split-apply-combine
   - projects
     - import USGS core data
-    - B-hall data and plot striplogs and GR;
+    - wikipedia table?
+    - import your own data!
+
+## Week 3 - Earth-resource specific data types and packages
+### Theory
+- Making beautiful plots that convey information
+  - Remove to improve https://gfycat.com/improbablefemalebasenji
+  - sns.jointplot(x, y, kind="kde")
+- Perceptually uniform colormaps and #endtherainbow
+
+### Coding
+- spatial data
+  - satellite imagery, NaturalEarth data, shapefiles, other GIS data, point-cloud data
+  - conversions between GCS and projected data (e.g., UTM)
+  - packages
+    - pyvista
+    - ipyleaflet
+    - bokeh
+    - cartopy for different projections
+- water-resource data
+  - stream gauge USGS notebook????????
+  - water models? what are the packages?
+- geomorphology data
+  - Landlab, pyBadlands
+- oil and gas
+  - seismic, well log, core, thin section
+  - packages
+    - welly, lasio, segyio, striplog
+- mineral and ore geology
+  - XRF/XRD chemistry
+  - packages
+    - ????????????
 
 ## Week 4 - **visualization** with `matplotlib` and `seaborn`
 ### Theory
@@ -104,17 +127,16 @@ As part of the learning experience at the Colorado School of Mines, our class wi
   - well log cross plot?
   - others?
 
-## Week 5 - descriptive and statistics with `numpy` and `scipy`
+## Week 5 - descriptive and comparative statistics with `numpy` and `scipy`
 ### Theory
 - 1D distributions (CDF, kde, percentiles)
   - normal, log-normal, log10, log2
-  KSTest and other comparative statistics
+  - KSTest and other comparative statistics
 - 2D distributions and regressions
 
 ### Coding
 - operations (* vs @; +=)
 - np.max and argmax, percentile
-- array stacking, indexing
 - scipy.interpolate; scipy.stats
 - projects
   - grain size
@@ -122,19 +144,7 @@ As part of the learning experience at the Colorado School of Mines, our class wi
   - cross-plot and regression
   - image analysis?
 
-## Week 6 - geospatial data (geopandas, cartopy)
-### Theory
-- Projections and lat-long vs UTM
-- GIS integration
-
-### Coding
-- projections
-- cartopy default data (e.g., states, rivers)
-- possible projects:
-  - pull out lat-long from las files and use geopandas to make shp and plot
-  - reproject coordinates
-
-## Week 7 - Machine-learning
+## Week 6 - Machine-learning
 ### Theory
 - Do you need to?
 - AI vs. ML: If it is written in Python, it's probably machine learning. If it is written in PowerPoint, it's probably AI https://twitter.com/matvelloso/status/1065778379612282885?s=20
@@ -149,8 +159,8 @@ As part of the learning experience at the Colorado School of Mines, our class wi
   - spotify CNN?
   - clustering with real-world data? por-perm?
 
-## Week 8
-Final project, where students bring in a real-world dataset and perform data wrangling, visualization, and statistical analysis
+## Week 7 and 8
+Final project, where students bring in a real-world dataset and perform data wrangling, visualization, statistical analysis, and machine-learning techniques to produce a report
 
 # Important things
 

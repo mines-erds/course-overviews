@@ -42,5 +42,11 @@ Too often companies say "we have some data, let's machine-learn it" instead of r
 - https://www.dataversity.net/data-science-vs-domain-expertise-who-can-best-deliver-solutions/quote "The Domain Expert’s greatest strength is the ability to identify which questions need to be answered, and the Data Scientists role is to maneuver and leverage advanced data technologies to build expert systems to answer those questions."
 - https://towardsdatascience.com/minimum-viable-domain-knowledge-in-data-science-5be7bc99eca9 quote "It is simply not possible to do useful data science without sufficient domain knowledge."
 
-### Apply your knowledge
+## Colab notebooks
+- Markdown cells
+- Importing packages and data
+- Running cells
+- reading errors
+
+## Apply your knowledge
 Design a concept map for a predefined dataset, and using the discussion and readings as a guide, hack together a Colab notebook that does something with it (submit photo of concept map and notebook html as assessment)

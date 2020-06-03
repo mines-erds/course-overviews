@@ -4,7 +4,7 @@ After successful completion of the module, learners will be able to:
 
 **Apply earth-resource-specific packages to solve common problems in the energy, minerals, and environmental industries**, including:
 - Understand data-storage methods and formats and their idiosyncrasies
--
+- 
 
 ## Assessments
 - Discussion board about python packages for niches within earth-science (with crowd-sourced http link list)

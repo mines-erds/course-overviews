@@ -15,8 +15,8 @@ After successful completion of the module, learners will be able to:
     - the mean may be meaningless
 - CDF, KDE, percentiles, other univariate descriptors
   - operations (* vs @; +=)
+    - see page 58 of Python Data Science Handbook by Jake Vanderplas
   - np.max and argmax, percentile
-- array stacking, indexing
 
 ## Comparative statistics
 - Using descriptive statistics qualitatively (e.g., comparing distributions)

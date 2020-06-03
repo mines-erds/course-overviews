@@ -37,6 +37,7 @@
 - https://www.pyvista.org/projects/index.html
 - https://github.com/fastscape-lem nice landscape evolution model - create topo with this, then analyze? PyVista integration?
 - LandLab https://www.earth-surf-dynam.net/8/379/2020/
+- pyBadlands - see this paper https://doi.org/10.1130/G47498.1 and movies in supp data https://gsapubs.figshare.com/articles/Supplemental_Material_How_do_basin_margins_record_long-term_tectonic_and_climatic_changes_/12307454
 
 ## Water resources
 - USGS data, with notebooks https://twitter.com/hydrobeth/status/1263961044680138753

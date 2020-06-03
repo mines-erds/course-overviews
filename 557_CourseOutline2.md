@@ -4,7 +4,7 @@
 
 An 8 week-long asynchronous online course to introduce concepts of data science as it pertains to characterization, extraction, and sustainable development of surface and subsurface Earth resources, and give examples in `python` that can be used in daily geoscience workflows.
 
-The time commitment is approximately 15 hours per week for 8 weeks. The only materials needed are a computer and a google account for using Colab. 
+The time commitment is approximately 15 hours per week for 8 weeks. The only materials needed are a computer and a google account for using Colab.
 
 Applicable fields of earth-science include:
 - petroleum geologists (conventional and unconventional-focused)
@@ -26,9 +26,9 @@ After successful completion of the course, learners will be able to:
   - Compare useful data types, syntax, and commonly-used earth-science packages in python
   - Clean and sort messy, real-world data
 
-**3. Design methods for statistical analysis of earth-resource data using numpy and scipy packages**
-  - Report descriptive and comparative statistics
-  - Use domain knowledge to create and contrast statistics for a given dataset
+**3. Design and implement methods for statistical analysis of earth-resource data**
+  - Report descriptive and comparative statistics using `numpy` and `scipy`
+  - Use domain knowledge to create and contrast appropriate statistics for a given dataset
 
 **4. Visualize earth-resource data**
   - Create beautiful plots that convey information using `matplotlib` and `seaborn`
