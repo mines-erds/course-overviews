@@ -1,12 +1,14 @@
-# Module 1: The `coding mindset` and intro to `python` as a language
+# Module 1: The `coding mindset` and intro to `python` as a language [DATES]
 
+## Overview and Objectives
 
+Learning to code is very similar to learning a new language - there is vocabulary, rules on how to structure 'sentences' and conjugate verbs - it can be difficult and frustrating, but also very rewarding! This first module will help you learn to think like a programmer and design a strategy for a project before you begin coding. Then, you will put this into practice, by building your first data-science project!
 
 After successful completion of the module, learners will be able to:
 
 **Formulate and execute a strategic plan for earth-resource data analysis**, including:
 - Discuss and debate resources for critical thinking about coding, help on errors, etc.
-- Design a concept map for a dataset that you are interested in, using the discussion and readings as a guide
+- Design a concept map for a dataset using the discussion and readings as a guide
 - Hack together your first python code!
 
 ## Assessments
@@ -41,15 +43,16 @@ Too often companies say "we have some data, let's machine-learn it" instead of r
 - The geoscience 'why should you care' https://www.nature.com/articles/d41586-020-01366-w
 
 ### Design thinking
-- https://faculty.ai/blog/powering-data-science-with-design-thinking/
-- https://www.infoq.com/articles/data-science-organization-framework/
-- 2 parts
+- [wiki](https://en.wikipedia.org/wiki/Design_thinking)
+- [Design thinking overview](https://faculty.ai/blog/powering-data-science-with-design-thinking/)
+- Design thinking for data science
   - [Part 1](https://www.linkedin.com/pulse/design-thinking-mindset-data-scientist-part-1-michael-taylor/)
   - [Part 2](https://www.linkedin.com/pulse/design-thinking-mindset-data-scientist-part-2-michael-taylor/)
+- [supplemental reading](https://www.infoq.com/articles/data-science-organization-framework/)
 
 ### Importance of domain knowledge for design thinking
 Required:
-- https://www.linkedin.com/pulse/role-domain-knowledge-data-science-patrick-bangert/
+- [Importance of domain knowledge](https://www.linkedin.com/pulse/role-domain-knowledge-data-science-patrick-bangert/)
 
 Others to skim:
 - https://data-science-blog.com/blog/2017/11/10/the-importance-of-domain-knowledge-a-healthcare-data-science-perspective/
