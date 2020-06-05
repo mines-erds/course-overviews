@@ -24,7 +24,7 @@ After successful completion of the course, learners will be able to:
 
 **2. Import, wrangle, and analyze earth-resource data using python syntax, data types, data storage, and pandas**
   - Compare useful data types, syntax, and commonly-used earth-science packages in python
-  - Clean and sort messy, real-world data
+  - Clean and sort messy, real-world data using `pandas`
 
 **3. Design and implement methods for statistical analysis of earth-resource data**
   - Report descriptive and comparative statistics using `numpy` and `scipy`
