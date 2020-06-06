@@ -13,6 +13,8 @@
  - https://dataunderground.org
  - https://hackmd.io/iAyNR_TOSguKnlnkrY2Auw
 - Dan Buscombe ML tutorials https://twitter.com/magic_walnut/status/1265413642788298752?s=11
+- macrostrat api https://dataunderground.org/dataset/macrostrat-geologic-maps/resource/e412b05e-a45e-4809-82ab-5095ac383ddc
+
 # Applications
 
 ## Well-log and seismic data
@@ -28,6 +30,11 @@
 - corebreakout https://github.com/rgmyr/corebreakout
 - core scanner data from Thomas Monecke? Maybe this one? https://minalyze.com
 - Eagleford from Diana Acero https://www.digitalrocksportal.org/projects/258
+- RealPore https://github.com/bfotland/force-hack-2019/tree/5c57f4d9f9b5b5d229144437778785083d789991
+
+## Mining data
+- https://omf.readthedocs.io/en/latest/ open mining format
+
 ## Thin sections
 - RockType funded by XStarter http://rocktype.com and https://www.xstarter.io/portfolio
 - Virtual_Microscope http://www.ged.rwth-aachen.de/index.php?cat=Virtual_Microscope and https://m-a-p.expert
