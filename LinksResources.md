@@ -18,11 +18,17 @@
 # Applications
 
 ## Well-log and seismic data
-- lasio
-- welly
-- striplog and litholog
+- well data
+  - lasio
+  - welly
+  - check out this log 'imputer' (Didn't Ross make one too?)
+    - https://github.com/mycarta/predict/blob/master/Geoscience_ML_notebook_1.ipynb and https://github.com/mycarta/predict/blob/master/Geoscience_ML_notebook_6.ipynb
+- core data
+  - striplog and litholog
   - corebreakout or depstrat for advanced
-- segio for seismic, or something else?
+- seismic and GPR
+  - segyio for seismic https://github.com/equinor/segyio
+  - GPRpy for GPR data https://github.com/NSGeophysics/GPRPy
 - other I/O
   - segy data and open-d-tect, petrel, etc. https://github.com/agile-geoscience/gio/tree/master/notebooks
 
