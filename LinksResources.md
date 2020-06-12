@@ -15,6 +15,9 @@
 - Dan Buscombe ML tutorials https://twitter.com/magic_walnut/status/1265413642788298752?s=11
 - macrostrat api https://dataunderground.org/dataset/macrostrat-geologic-maps/resource/e412b05e-a45e-4809-82ab-5095ac383ddc
 
+## Transform 2020
+https://transform2020.sched.com 
+
 # Applications
 
 ## Well-log and seismic data
@@ -43,6 +46,7 @@
 
 ## Thin sections
 - RockType funded by XStarter http://rocktype.com and https://www.xstarter.io/portfolio
+- Transform 2020 talk on image recognition https://twitter.com/kwinkunks/status/1271171478940274689?s=20
 - Virtual_Microscope http://www.ged.rwth-aachen.de/index.php?cat=Virtual_Microscope and https://m-a-p.expert
 - thin section resources from Jae Erickson https://elearning.mines.edu/courses/554/modules
 
