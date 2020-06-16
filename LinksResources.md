@@ -2,9 +2,6 @@
 
 # Resources for building course
 
-## The who-cares argument
-- https://www.nature.com/articles/d41586-020-01366-w and https://www.washingtonpost.com/science/rock-samples-arent-archived-or-shared-they-need-to-be-geologists-warn-pointing-to-a-reproducibility-crisis/2020/05/15/aa858e06-953c-11ea-91d7-cf4423d47683_story.html
-
 ## Geo-specific courses and datasets
 - https://github.com/DataScienceUB/introduction-datascience-python-book
 - https://geo-python.github.io/site/
@@ -14,9 +11,10 @@
  - https://hackmd.io/iAyNR_TOSguKnlnkrY2Auw
 - Dan Buscombe ML tutorials https://twitter.com/magic_walnut/status/1265413642788298752?s=11
 - macrostrat api https://dataunderground.org/dataset/macrostrat-geologic-maps/resource/e412b05e-a45e-4809-82ab-5095ac383ddc
+- Nethrelands data https://nlog.nl/en/data
 
 ## Transform 2020
-https://transform2020.sched.com 
+https://transform2020.sched.com
 
 # Applications
 
@@ -40,7 +38,10 @@ https://transform2020.sched.com
 - core scanner data from Thomas Monecke? Maybe this one? https://minalyze.com
 - Eagleford from Diana Acero https://www.digitalrocksportal.org/projects/258
 - RealPore https://github.com/bfotland/force-hack-2019/tree/5c57f4d9f9b5b5d229144437778785083d789991
-
+- core data preservation
+  - BGS core repacking and photos https://youtu.be/HdhrOJGpy2c
+  - article in Nature https://www.nature.com/articles/d41586-020-01366-w
+    - popular news article https://www.washingtonpost.com/science/rock-samples-arent-archived-or-shared-they-need-to-be-geologists-warn-pointing-to-a-reproducibility-crisis/2020/05/15/aa858e06-953c-11ea-91d7-cf4423d47683_story.html
 ## Mining data
 - https://omf.readthedocs.io/en/latest/ open mining format
 
@@ -74,6 +75,7 @@ https://transform2020.sched.com
   - paper on model selection https://arxiv.org/pdf/1811.12808.pdf and html https://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html
   - model examples https://github.com/rasbt/deeplearning-models
 - soil science deep learning https://towardsdatascience.com/deep-learning-and-soil-science-part-1-8c0669b18097
+- clustering examples sklearn https://scikit-learn.org/stable/modules/clustering.html#adding-connectivity-constraints
 
 # General
 
