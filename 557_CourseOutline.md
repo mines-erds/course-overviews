@@ -1,30 +1,41 @@
 # GEOL 557 Course Outline
-Time - 8 weeks?; Hours - XX
 
-## Course-level learning outcomes
+**Earth-Resource Data Science I: Fundamentals**
+
+An 8 week-long asynchronous online course to introduce concepts of data science as it pertains to characterization, extraction, and sustainable development of surface and subsurface Earth resources, and give examples in `python` that can be used in daily geoscience workflows.
+
+The time commitment is approximately 15 hours per week for 8 weeks. The only materials needed are a computer and a google account for using Colab.
+
+Applicable fields of earth-science include:
+- petroleum geologists (conventional and unconventional-focused)
+- economic geologists (mining, ore-deposits, critical minerals)
+- geological engineers / engineering geologists (constrution, tunneling)
+- environmental geologists (remote-sensing, land-use change)
+- hydro-geologists and hydrologists (water-resources)
+- geomorphologists (sand and water resources, landscape evolution)
+
+## Major themes
+
+After successful completion of the course, learners will be able to:
 
 **1. Formulate and execute a strategic plan for earth-resource data analysis**
-  - Implement python code to solve common earth-resource problems
-  - Reflect on coding-as-a-language and the Excel-vs-python mindset
+  - Apply earth-resource-specific packages to solve common problems in the energy, minerals, and environmental industries
+  - Reflect on coding-as-a-language and the Excel vs `python` mindset
 
-**2. Use python syntax, data types, and common packages to import, analyze, and visualize earth-resource data**
+**2. Import, wrangle, and analyze earth-resource data using python syntax, data types, data storage, and pandas**
   - Compare useful data types, syntax, and commonly-used earth-science packages in python
+  - Clean and sort messy, real-world data using `pandas`
+  - Create reproducible python workflows that solve real-world problems  
 
-**3. Explore, organize, and summarize earth-resource data using `pandas`, `numpy`, and `scipy`**
-  - Clean and sort messy, real-world data   
-  - Report descriptive and comparative statistics
+**3. Design and implement methods for statistical analysis of earth-resource data**
+  - Report descriptive and comparative statistics using `numpy` and `scipy`
+  - Use domain knowledge to create and contrast appropriate statistics for a given dataset
 
-**4. Visualize earth-resource data using `matplotlib` and `seaborn`**
-  - Create beautiful plots that convey information
+**4. Visualize earth-resource data**
+  - Create beautiful, reproducible plots that convey information using `matplotlib` and `seaborn`
+  - Analyze and plot surface and subsurface geospatial data using python mapping packages (e.g., `ipyleaflet`)
   - Reflect on the principles of effective graphic design
 
-**5. Apply earth-resource-specific packages to analyze/visualize data and solve common problems**
-  - Examine common earth-resource data types (e.g., satellite imagery using `skimage`, well-logs using `lasio`, time-series data)
-  - Use python to automate tasks and save time
-
-**6. Implement machine-learning models for earth-resource data**
-  - Explain differences in supervised and unsupervised models and when to use each
-  - Discuss model uncertainty and interpretability, as well as the importance of training data
-
-**7. (not sure about this one) Integrate earth-surface and subsurface data in a geospatial framework**
-  - Utilize common geospatial packages to co-visualize different data types
+**5. Implement machine-learning models for earth-resource data**
+  - Explain differences in supervised and unsupervised models and use-cases for each
+  - Discuss common pitfalls, model uncertainty & interpretability, and the importance of training data

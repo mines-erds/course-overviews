@@ -121,3 +121,6 @@ https://transform2020.sched.com
 
 ## Colab
 - importing data https://towardsdatascience.com/importing-data-to-google-colab-the-clean-way-5ceef9e9e3c8
+
+## Other useful stuff
+- regex regular expressions https://docs.python.org/3/howto/regex.html
