@@ -3,6 +3,8 @@
 # Resources for building course
 
 ## Geo-specific courses and datasets
+- open source Think Python 2nd edition https://github.com/AllenDowney/ThinkPython2
+- Wes McKinney https://github.com/wesm/pydata-book
 - https://github.com/DataScienceUB/introduction-datascience-python-book
 - https://geo-python.github.io/site/
 - Datasets
@@ -11,7 +13,7 @@
  - https://hackmd.io/iAyNR_TOSguKnlnkrY2Auw
 - Dan Buscombe ML tutorials https://twitter.com/magic_walnut/status/1265413642788298752?s=11
 - macrostrat api https://dataunderground.org/dataset/macrostrat-geologic-maps/resource/e412b05e-a45e-4809-82ab-5095ac383ddc
-- Nethrelands data https://nlog.nl/en/data
+- Netherlands data https://nlog.nl/en/data
 
 ## Transform 2020
 https://transform2020.sched.com
