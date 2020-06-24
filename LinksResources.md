@@ -1,19 +1,26 @@
-# Mines-ERDS
-
-# Resources for building course
+# Mines-ERDS Resources for building course
 
 ## Geo-specific courses and datasets
+
+### General python stuff
 - open source Think Python 2nd edition https://github.com/AllenDowney/ThinkPython2
 - Wes McKinney https://github.com/wesm/pydata-book
-- https://github.com/DataScienceUB/introduction-datascience-python-book
-- https://geo-python.github.io/site/
+- Barcelona book https://github.com/DataScienceUB/introduction-datascience-python-book
+
+### GEo-specific
+- Pyrcz demos https://github.com/GeostatsGuy/PythonNumericalDemos
+- Jesse Pisel https://github.com/jessepisel/energy_analytics/tree/master/Python%20Workflows
+- Helsinki course https://geo-python.github.io/site/
+- Dan Buscombe ML tutorials https://twitter.com/magic_walnut/status/1265413642788298752?s=11
+- macrostrat api https://dataunderground.org/dataset/macrostrat-geologic-maps/resource/e412b05e-a45e-4809-82ab-5095ac383ddc
+- Data scrapers
+  - New Mexico https://github.com/jessepisel/New-Mexico-Oil-Conservation-Division
+  - Colorado https://github.com/jessepisel/cogcc_scraping_python
 - Datasets
  - https://github.com/yohanesnuwara/open-geoscience-repository
  - https://dataunderground.org
  - https://hackmd.io/iAyNR_TOSguKnlnkrY2Auw
-- Dan Buscombe ML tutorials https://twitter.com/magic_walnut/status/1265413642788298752?s=11
-- macrostrat api https://dataunderground.org/dataset/macrostrat-geologic-maps/resource/e412b05e-a45e-4809-82ab-5095ac383ddc
-- Netherlands data https://nlog.nl/en/data
+ - Netherlands data https://nlog.nl/en/data
 
 ## Transform 2020
 https://transform2020.sched.com
