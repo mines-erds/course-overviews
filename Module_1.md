@@ -1,4 +1,4 @@
-# Module 1: The `coding mindset` and intro to `python` as a language [DATES]
+# Module 1: The `coding mindset` and intro to `python` as a language
 
 ## Overview and Objectives
 
@@ -13,12 +13,10 @@ After successful completion of the module, learners will be able to:
 
 ## Assessments
 - intro discussion board
-  - Sign up for the slack channel at https://softwareunderground.org/slack
 - intro quiz on python knowledge
   - short essay in Canvas about what you want out of the course
 - discussion board about design thinking (in slack)
 - concept map and colab notebook
-  - submitted through GitHub??????????????????????????????
 
 ## Developing a coding mindset using design thinking
 
@@ -29,8 +27,6 @@ Do you need fancy data science, or can you just use Excel? If you can't do what 
 
 Python also has the added bonus of being open-source (i.e., free!), with TONS of specialized packages, customization, and support via discussion boards available.
 
-Sign up for the slack channel at https://softwareunderground.org/slack
-
 ## Think strategically instead of focusing on what data you may have.
 Too often companies say "we have some data, let's machine-learn it" instead of reflecting on what may be value-adding problems to solve (and thus data to collect).
 
@@ -38,8 +34,6 @@ Too often companies say "we have some data, let's machine-learn it" instead of r
 - excel errors https://www.forbes.com/sites/salesforce/2014/09/13/sorry-spreadsheet-errors/#32d3148856ab
   - actual article, in case someone's interested https://arxiv.org/pdf/1009.2785.pdf
 
-### Why should you care?
-- What is Code? https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
 - The geoscience 'why should you care' https://www.nature.com/articles/d41586-020-01366-w
 
 ### Design thinking
