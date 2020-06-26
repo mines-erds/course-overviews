@@ -7,7 +7,7 @@
 - Wes McKinney https://github.com/wesm/pydata-book
 - Barcelona book https://github.com/DataScienceUB/introduction-datascience-python-book
 
-### GEo-specific
+### Geo-specific
 - Pyrcz demos https://github.com/GeostatsGuy/PythonNumericalDemos
 - Jesse Pisel https://github.com/jessepisel/energy_analytics/tree/master/Python%20Workflows
 - Helsinki course https://geo-python.github.io/site/
@@ -21,6 +21,8 @@
  - https://dataunderground.org
  - https://hackmd.io/iAyNR_TOSguKnlnkrY2Auw
  - Netherlands data https://nlog.nl/en/data
+ - Earth Engine Data on deltas, waves, and tides https://jhnienhuis.users.earthengine.app
+-
 
 ## Transform 2020
 https://transform2020.sched.com
@@ -65,13 +67,16 @@ https://transform2020.sched.com
 - Virtual_Microscope http://www.ged.rwth-aachen.de/index.php?cat=Virtual_Microscope and https://m-a-p.expert
 - thin section resources from Jae Erickson https://elearning.mines.edu/courses/554/modules
 
-## Point clouds and topography data
+## GIS, topography, and point cloud data
+- pyGMT Generic Mapping Toolbox https://www.pygmt.org/latest/
+- Post Storm Imagery https://github.com/UNCG-DAISY/psi-collect
 - https://www.pyvista.org/projects/index.html
 - https://github.com/fastscape-lem nice landscape evolution model - create topo with this, then analyze? PyVista integration?
 - LandLab https://www.earth-surf-dynam.net/8/379/2020/
 - pyBadlands - see this paper https://doi.org/10.1130/G47498.1 and movies in supp data https://gsapubs.figshare.com/articles/Supplemental_Material_How_do_basin_margins_record_long-term_tectonic_and_climatic_changes_/12307454
 
 ## Water resources
+- hydrology and climatology data for watershed analysis https://hydrodata.readthedocs.io/en/latest/
 - USGS data, with notebooks https://twitter.com/hydrobeth/status/1263961044680138753
 
 ## Earthquakes
