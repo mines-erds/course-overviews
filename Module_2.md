@@ -29,6 +29,7 @@ After successful completion of the module, learners will be able to:
 - other good summaries?????????????
 
 ## pandas
+- Read this https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
 - TRY THIS http://rcs.bu.edu/examples/python/data_analysis/dataScience.ipynb
 - importing data into series, dataframe (index, columns, data), and head(), describe(), etc.
 - wrangling (dtypes, NaNs, etc)
