@@ -54,9 +54,11 @@ https://transform2020.sched.com
   - article in Nature https://www.nature.com/articles/d41586-020-01366-w
     - popular news article https://www.washingtonpost.com/science/rock-samples-arent-archived-or-shared-they-need-to-be-geologists-warn-pointing-to-a-reproducibility-crisis/2020/05/15/aa858e06-953c-11ea-91d7-cf4423d47683_story.html
 
-## Reservoir modeling
+## Reservoir modeling and petrophysics
 - xtgeo https://github.com/equinor/xtgeo
 - geostatspy from Michael Pyrcz
+- pypetrophysics https://github.com/Japhiolite/pypetrophysics
+- petropy https://github.com/toddheitmann/PetroPy
 
 ## Mining data
 - https://omf.readthedocs.io/en/latest/ open mining format
@@ -69,6 +71,7 @@ https://transform2020.sched.com
 
 ## GIS, topography, and point cloud data
 - pyGMT Generic Mapping Toolbox https://www.pygmt.org/latest/
+- pyproj projections https://github.com/kwinkunks/notebooks/blob/master/Coordinate_transformations.ipynb
 - Post Storm Imagery https://github.com/UNCG-DAISY/psi-collect
 - https://www.pyvista.org/projects/index.html
 - https://github.com/fastscape-lem nice landscape evolution model - create topo with this, then analyze? PyVista integration?
