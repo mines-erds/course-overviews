@@ -15,7 +15,7 @@ After successful completion of the module, learners will be able to:
 
 ## Assessments
 - intro discussion board
-  - short essay in Canvas about what you want out of the course
+  - short essay in Canvas about what you want to get out of the course
 - notebook showing Syntax notebook
 - discussion board about design thinking (in slack)
 - concept map and colab notebook
