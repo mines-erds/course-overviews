@@ -4,10 +4,11 @@
 
 Learning to code is very similar to learning a new language - there is vocabulary, rules on how to structure 'sentences' and conjugate verbs - it can be difficult and frustrating, but also very rewarding! This first module will help you learn to 'think like a programmer' and design a strategy for a project before you begin coding. Then, you will put this knowledge into practice, by building your first data-science project!
 
-
-
 After successful completion of the module, learners will be able to:
 
+
+
+   
 **Formulate and execute a strategic plan for earth-resource data analysis**, including:
 - Discuss and debate resources for critical thinking about coding, help on errors, etc.
 - Design a concept map for a dataset using the discussion and readings as a guide
