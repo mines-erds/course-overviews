@@ -2,7 +2,7 @@
 
 ## Overview and Objectives
 
-Learning to code is very similar to learning a new language - there is vocabulary, rules on how to structure 'sentences' and conjugate verbs - it can be difficult and frustrating, but also very rewarding! This first module will help you learn to think like a programmer and design a strategy for a project before you begin coding. Then, you will put this into practice, by building your first data-science project!
+Learning to code is very similar to learning a new language - there is vocabulary, rules on how to structure 'sentences' and conjugate verbs - it can be difficult and frustrating, but also very rewarding! This first module will help you learn to 'think like a programmer' and design a strategy for a project before you begin coding. Then, you will put this knowledge into practice, by building your first data-science project! &nbsp
 
 After successful completion of the module, learners will be able to:
 
@@ -13,8 +13,8 @@ After successful completion of the module, learners will be able to:
 
 ## Assessments
 - intro discussion board
-- intro quiz on python knowledge
   - short essay in Canvas about what you want out of the course
+- notebook showing Syntax notebook
 - discussion board about design thinking (in slack)
 - concept map and colab notebook
 

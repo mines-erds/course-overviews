@@ -41,7 +41,7 @@ As part of the learning experience at the Colorado School of Mines, our class wi
 
 ## Week 1 - The `coding mindset` and intro to `python` as a language
 ### Theory
-- Why not just use Excel?
+Why not just use Excel?
 - Python lets you be more efficient and error-free
   - Automation and visualization
   - Open-source and version control
