@@ -156,6 +156,6 @@ THOMAS STUFF GOES HERE
 In the pre-work, you should have had an introduction to Colab - if not, watch the following video to learn a bit about Colab [Colab introduction](https://youtu.be/inN8seMm7UI)
 
 ## Your first python notebook
-Using [this scaffolded Colab notebook](UPDATE LATER), follow along to import the provided dataset and perform some data cleaning, visualization, and summary statistical analysis.
+Using [this scaffolded Colab notebook](UPDATE LATER WITH TITANIC DATA), follow along to import the provided dataset and perform some data cleaning, visualization, and summary statistical analysis.
 
 Upload your notebook as a ipynb.
