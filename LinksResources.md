@@ -22,7 +22,11 @@
  - https://hackmd.io/iAyNR_TOSguKnlnkrY2Auw
  - Netherlands data https://nlog.nl/en/data
  - Earth Engine Data on deltas, waves, and tides https://jhnienhuis.users.earthengine.app
--
+- Kaggle
+  - USGS earthquakes https://www.kaggle.com/usgs/earthquake-database
+  - Volcanic eruptions https://www.kaggle.com/smithsonian/volcanic-eruptions
+  - Landslides after rain https://www.kaggle.com/nasa/landslide-events
+    - parsing dates from these three datasets https://www.kaggle.com/rtatman/data-cleaning-challenge-parsing-dates
 
 ## Transform 2020
 https://transform2020.sched.com
