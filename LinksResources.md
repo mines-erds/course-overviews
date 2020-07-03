@@ -17,7 +17,8 @@
   - New Mexico https://github.com/jessepisel/New-Mexico-Oil-Conservation-Division
   - Colorado https://github.com/jessepisel/cogcc_scraping_python
 - Datasets
- - https://github.com/yohanesnuwara/open-geoscience-repository
+- Pyrcz datasets https://github.com/GeostatsGuy/GeoDataSets
+- https://github.com/yohanesnuwara/open-geoscience-repository
  - https://dataunderground.org
  - https://hackmd.io/iAyNR_TOSguKnlnkrY2Auw
  - Netherlands data https://nlog.nl/en/data

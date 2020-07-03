@@ -9,7 +9,7 @@ The time commitment is approximately 15 hours per week for 8 weeks. The only mat
 Applicable fields of earth-science include:
 - petroleum geologists (conventional and unconventional-focused)
 - economic geologists (mining, ore-deposits, critical minerals)
-- geological engineers / engineering geologists (constrution, tunneling)
+- geological engineers / engineering geologists (construction, tunneling)
 - environmental geologists (remote-sensing, land-use change)
 - hydro-geologists and hydrologists (water-resources)
 - geomorphologists (sand and water resources, landscape evolution)

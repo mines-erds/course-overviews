@@ -116,8 +116,8 @@ Please use the attached rubric to help guide your writing.
 ## Concept map creation
 Now comes the time to consider a dataset and create a concept map of how you would go about cleaning and exploring it. Consider what you have learned about integrating domain knowledge into a design thinking framework, and how that might inform your data analysis plan-of-attack.
 
-- Take a look at the [*Titanic* dataset](https://www.openml.org/d/40945) using Google Sheets (don't worry, we will use python later to more efficiently do this!)
-- Use your 'domain knowledge' to consider who had the best chance for survival. If you need to gather some domain knowledge, go [here][(https://web.stanford.edu/class/archive/cs/cs109/cs109.1166/problem12.html).
+- Take a look at the [*Titanic* dataset](https://www.openml.org/d/40945) using Google Sheets (don't worry, we will use python later to more efficiently do this type of data exploration!)
+- Use your 'domain knowledge' about the Titanic and socioeconomics to consider who had the best chance for survival. If you need to gather some domain knowledge, go [here][(https://web.stanford.edu/class/archive/cs/cs109/cs109.1166/problem12.html).
 - Sketch out (using pen and paper) a concept map of the path you would take through data analysis. Consider the following:
   - Which parts of the data are already clean, and which are messy and need cleaning?
   - What is a possible hypothesis that you would like to test with this dataset?
