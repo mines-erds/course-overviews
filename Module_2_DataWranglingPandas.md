@@ -1,5 +1,10 @@
 # Module 2: `python` syntax and data wrangling
 
+## Assessments
+- Data wrangling Colab notebook
+- Crowd-sourced pandas cheat sheet
+
+
 After successful completion of the module, learners will be able to:
 
 **Import, wrangle, and analyze earth-resource data using python syntax, data types, data storage, and common packages (e.g., pandas)**, including:
@@ -7,26 +12,38 @@ After successful completion of the module, learners will be able to:
 - Differentiate common data types (e.g., string, float), the importance of selecting the correct data type, and how to manipulate data types
 - Apply concepts of indexing and split-apply-combine methods to clean, sort, and distill real-world data
 
-## Assessments
-- fill-in-the-blank quiz about syntax, data types, etc.
-- Colab notebook about syntax that gets peer-reviewed
-- Data wrangling Colab notebook
-- Crowd-sourced cheat sheet
 
-## python syntax
-- BUILD NOTEBOOK FROM Chapter 3 of Wes McKinney
-- 0 not 1
-- array, int, float, str, list, dict, tuple, boolean
-- indexing and slicing, stacking
-- operators (e.g., +, -, \*, /, ==, !=, <, <=)
-- loops
-  - for i in x,for x in range(), ;
-- help using tab completion and `?`, example `'len?`
-- creating simple functions `def`
+# Module overview
 
-### readings
-- Chapter 3 of Wes McKinney
-- other good summaries?????????????
+
+
+
+## readings
+
+
+Supplemental readings
+- Regular expressions - Chapter 11 of Python for Everybody
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## pandas
 - Read this https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html

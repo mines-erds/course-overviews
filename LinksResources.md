@@ -3,13 +3,16 @@
 ## Books I will use:
 
 ### Open source
-- Python for Everybody http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf
-- Think Python https://greenteapress.com/wp/think-python/
-
+- Think Python https://greenteapress.com/wp/think-python-2e/
+- Python for Everybody (remixed from Think Python) http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf
+- Automate the Boring Stuff https://automatetheboringstuff.com
 
 ### Closed source
 - Python for Data Analysis (google "python for data analysis book second edition pdf")
-
+  - github repo https://github.com/wesm/pydata-book
+- Python data science handbook (google "python data science handbook pdf")
+  - read for free online https://jakevdp.github.io/PythonDataScienceHandbook/
+  - github repo for notebooks https://github.com/jakevdp/PythonDataScienceHandbook
 
 ## Geo-specific courses and datasets
 
