@@ -9,6 +9,11 @@ After successful completion of the module, learners will be able to:
 ## Assessments
 - asdf
 
+## Nice pages
+From the Think Python book guy:
+- https://allendowney.blogspot.com/2013/08/are-my-data-normal.html
+- https://www.allendowney.com/blog/2019/08/13/watch-your-tail/
+
 ## Distributions, log-normality, and the log10 scale
 - 1D distributions
   - normal, log-normal, log10, log2

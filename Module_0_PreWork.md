@@ -3,6 +3,7 @@
 ## Sign up for the slack channel (10 minutes)
 - What is the name of the slack channel we will use?
 - make a test post introducing yourself
+- take the poll about "Your experience in programming of any kind, including python (perfectly fine to say none!)"
 
 ## Colab intro (15 minutes)
 We will be using Google Colab throughout the course. Watch the following video to learn a bit about Colab, and then complete the following tutorial to familiarize yourself with Colab and the python language.

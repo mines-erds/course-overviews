@@ -1,41 +1,53 @@
 # Module 1: The `coding mindset` and intro to `python` as a language
 
+## Assessments
+- video intro and follow-up discussion
+- reflection on readings discussion
+- concept map and peer review
+- syntax notebook
+- colab notebook for Titanic
+
 ## Let's get to know each other!
 Please use this discussion to introduce yourself to the class. Tell us a little about yourself by posting a 1-2 minute video to this discussion board. In your video, address the following points:
 
 - Name
-- Role and/or specialty (e.g., ops-geo, sedimentologist)
+- Role and/or specialty (e.g., sedimentologist, operations geologist)
 - Company or University, and how long you have been there
--  Something interesting about yourself - hobbies, family, etc.
+- What you most want to be able to accomplish after finishing this course that you cannot do now (i.e., why are you here?!)
+- Something interesting about yourself - hobbies, family, etc.
 
-We also want to know your initial thoughts on earth-resource data science. Please include responses to the following questions in your video:
-
--  Your experience in programming of any kind, including python (perfectly fine to say none!)
--  What you most want to be able to accomplish after finishing this course that you cannot do now
-
-Once you have posted your own video, review and respond to the videos of at least two (2) of your peers. Feel free to respond to more if you like and have the time. Your response should welcome your colleague and respond to one or more of the points that they raise in their video, noting what you found of interest or what you would like to learn more about from them. You can respond using text. Please double-check the [Discussion Board Guidelines](https://elearning.mines.edu/courses/27785/pages/discussion-board-guidelines) for tips on how to respond to your peers.
+Once you have posted your own video, respond to the videos of at least two of your peers. Your response should welcome your colleague and respond to one or more of the points that they raise in their video, noting what you found of interest or what you would like to learn more about from them. You can respond using text, or a video. Please double-check the [Discussion Board Guidelines](https://elearning.mines.edu/courses/27785/pages/discussion-board-guidelines) for tips on how to respond to your peers.
 
 # Module overview
-Here is some python code - can you understand it?
+This was the cover of a 2015 Bloomberg Business Week [article](https://github.com/bloombergmedia/whatiscode) about code:
 
-![Temperature conversion in python](module_1/First_Code_Example.png)
+<img src="module_1/Bloomberg_6.15.15.jpg" alt="Can you read this?" width="400">
+
+So, can you read it? It is written in python - can you tell what it is trying to do?
+
+---
+
+Here is a simpler example (also in python):
+
+<img src="module_1/First_Code_Example.png" alt="Temperature conversion in python" width="600">
 
 It does the following:
 
-1. defines a function to convert temperature units called "C_to_F",
-
+1. defines a function to convert temperature units called `C_to_F`
 1. Does the math to convert Celsius to Fahrenheit
+1. Asks why you would ever want to convert from Celsius (the standard SI unit)
+1. Returns the value `Celsius_input` as the value `Fahrenheit`.
 
-1. Asks why you would ever want to convert from Celsius (the standard SI unit), and finally
+The last line `C_to_F(0)` calls the function with Celsius input `0` and returns the Fahrenheit value `32`.
 
-1. Returns the value in Fahrenheit.
+---
 
-The last line `C_to_F(0)` calls the function with Celsius input `0` and returns the value `32`, the value in Fahrenheit.
+You may ask yourself *Isn't it just easier to do this in Excel?* Honestly, sometimes the answer is yes. But, if you have to do the same task over and over, doing it manually in Excel can get pretty tedious. Furthermore, there are just some things that very difficult or impossible to do in Excel that languages like `python` are optimized for (e.g., vector math like adding 3.14 to a big column of values). In Excel, that requires creating a new column of values, and dragging an equation (`=A1+3.14`) all the way down the list of values. In python, if that list of values is called x, you just type `x+3.14` and python does the work for you.
 
-You may ask yourself *Do I need fancy data science, or can I just use Excel?* If you find yourself limited by Excel, `python` will allow you to:
-- analyze and visualize data in ways impossible for Excel
-- make fewer errors (those Excel equations are insidious)
+If you find yourself limited by Excel, `python` will allow you to:
 - be more efficient by automating tasks that are mundane and boring, but that you have to do over and over.
+- make fewer errors (Excel files are notorious for having cell-reference errors)
+- analyze and visualize data in ways impossible for Excel
 
 Python also has the added bonus of being open-source (i.e., free!), with TONS of specialized packages, customization, and support via discussion boards like [stackoverflow](https://stackoverflow.com/questions/32409802/basic-explanation-of-python-functions) available. The whole idea behind python is to share code and knowledge with others, so that we all build up the ecosystem together. That doesn't mean you can't have proprietary code that's just for you (or your company), but if you find yourself needing a function to do something, and you think *someone must have already made this!*, then someone probably has! Searching open-source code repositories like [GitHub](https://github.com/) can be amazingly useful, saving you literal weeks of time of recreating the wheel.
 
@@ -46,13 +58,6 @@ After successful completion of the module, learners will be able to **formulate 
 - Discuss and debate resources for critical thinking about coding, help on errors, etc.
 - Design a concept map for a dataset using the discussion and readings as a guide
 - Hack together your first python code!
-
-## Assessments
-- intro discussion board
-  - short essay in Canvas about what you want to get out of the course
-- notebook showing Syntax notebook
-- discussion board about design thinking (in slack)
-- concept map and colab notebook
 
 # The coding mindset
 
@@ -108,12 +113,14 @@ Questions to ask yourself while reading:
 - What do you think is the appropriate mixture of data science skills and domain knowledge?
 - If a dataset is labeled/categorized, how reliable/uncertain are those labels? Would two different earth scientists categorize data in the same way, with the same labels?
 
-## Reflection on readings
-In the assigned readings, you have learned about the importance of data, design thinking, and domain knowledge in data-science projects. Revisit the "Take note" sections, and choose three questions to answer - each answer should be no more than three sentences.
+## Assignment: Reflection on readings discussion
+In the assigned readings, you have learned about the importance of data, design thinking, and domain knowledge in data-science projects. Revisit the "Take note" sections, and choose three questions to answer - each answer should be no more than three sentences. Please use the attached rubric to help guide your writing.
 
-Please use the attached rubric to help guide your writing.
+After everyone has submitted their reflection, reply to at least two of your colleagues, responding to one or more of the points that they made that resonated with you, or you would like to know more about.
 
-## Concept map creation
+---
+
+## Assignment: Concept map creation
 Now comes the time to consider a dataset and create a concept map of how you would go about cleaning and exploring it. Consider what you have learned about integrating domain knowledge into a design thinking framework, and how that might inform your data analysis plan-of-attack.
 
 - Take a look at the [*Titanic* dataset](https://www.openml.org/d/40945) using Google Sheets (don't worry, we will use python later to more efficiently do this type of data exploration!)
@@ -125,7 +132,20 @@ Now comes the time to consider a dataset and create a concept map of how you wou
 
 Take a photo of the sketch, and upload the image. Pro tip: The mobile Canvas app allows you to upload photos taken by your phone.
 
+**Congrats, you just wrote your first program!**
+
 # Syntax and data structures in `python`
+Zane notes:
+- BUILD NOTEBOOK FROM Chapter 3 of Wes McKinney
+- 0 not 1
+- array, int, float, str, list, dict, tuple, boolean
+- indexing and slicing, stacking
+- operators (e.g., +, -, \*, /, ==, !=, <, <=)
+- loops
+  - for i in x,for x in range(), ;
+- help using tab completion and `?`, example `'len?`
+- creating simple functions `def`
+
 THOMAS STUFF GOES HERE
 
 THOMAS STUFF GOES HERE

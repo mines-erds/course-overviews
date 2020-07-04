@@ -1,13 +1,26 @@
 # Mines-ERDS Resources for building course
 
+## Books I will use:
+
+### Open source
+- Python for Everybody http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf
+- Think Python https://greenteapress.com/wp/think-python/
+
+
+### Closed source
+- Python for Data Analysis (google "python for data analysis book second edition pdf")
+
+
 ## Geo-specific courses and datasets
 
 ### General python stuff
 - open source Think Python 2nd edition https://github.com/AllenDowney/ThinkPython2
 - Wes McKinney https://github.com/wesm/pydata-book
 - Barcelona book https://github.com/DataScienceUB/introduction-datascience-python-book
+- Python for Everybody open source http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf and https://www.py4e.com
 
 ### Geo-specific
+- Matt Bauer 1.5 hour video https://www.youtube.com/watch?v=GXMDJSRrKzw
 - Pyrcz demos https://github.com/GeostatsGuy/PythonNumericalDemos
 - Jesse Pisel https://github.com/jessepisel/energy_analytics/tree/master/Python%20Workflows
 - Helsinki course https://geo-python.github.io/site/
