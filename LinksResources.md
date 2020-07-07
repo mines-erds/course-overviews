@@ -3,8 +3,8 @@
 ## Books I will use:
 
 ### Open source
-- Think Python https://greenteapress.com/wp/think-python-2e/
-- Python for Everybody (remixed from Think Python) http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf
+- Think Python https://greenteapress.com/wp/think-python-2e/ and https://github.com/AllenDowney/ThinkPython2
+- Python for Everybody (remixed from Think Python) http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf and https://www.py4e.com
 - Automate the Boring Stuff https://automatetheboringstuff.com
 
 ### Closed source
@@ -13,14 +13,9 @@
 - Python data science handbook (google "python data science handbook pdf")
   - read for free online https://jakevdp.github.io/PythonDataScienceHandbook/
   - github repo for notebooks https://github.com/jakevdp/PythonDataScienceHandbook
+- Barcelona book https://github.com/DataScienceUB/introduction-datascience-python-book
 
 ## Geo-specific courses and datasets
-
-### General python stuff
-- open source Think Python 2nd edition https://github.com/AllenDowney/ThinkPython2
-- Wes McKinney https://github.com/wesm/pydata-book
-- Barcelona book https://github.com/DataScienceUB/introduction-datascience-python-book
-- Python for Everybody open source http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf and https://www.py4e.com
 
 ### Geo-specific courses
 - Matt Bauer 1.5 hour video https://www.youtube.com/watch?v=GXMDJSRrKzw

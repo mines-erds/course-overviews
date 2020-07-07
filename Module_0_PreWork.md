@@ -16,3 +16,5 @@ Embed video
 - [Browse this tutorial](https://docs.python.org/3/tutorial/introduction.html)
 - [Automate the boring stuff](https://automatetheboringstuff.com/2e/chapter0/)
    - stop at the section "About this book"
+
+-[12 things I wish I'd known before starting as a data scientist](https://medium.com/deliberate-data-science/12-things-i-wish-id-known-before-starting-as-a-data-scientist-45989be6300e). A classic click-bait title, but this article is actually pretty good)

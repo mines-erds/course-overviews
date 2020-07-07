@@ -1,5 +1,15 @@
 # Module 1: The `coding mindset` and intro to `python` as a language
 
+# Course overview
+In this course, you will learn to:
+**1. Formulate and execute a strategic plan for earth-resource data analysis**
+**2. Import, wrangle, and analyze earth-resource data using python syntax, data types, data storage, and pandas**
+**3. Design and implement methods for statistical analysis of earth-resource data**
+**4. Visualize earth-resource data**
+**5. Implement machine-learning models for earth-resource data**
+
+After working to develop these learning outcomes, I found this [article](https://medium.com/@dataoptimal9/5-data-science-projects-that-will-get-you-hired-in-2018-9e51525084e) that lists five skills that will get you a job in data science. Read that article and think about how similar the two lists are, and which topic of either list you are most excited about.
+
 ## Assessments
 - video intro and follow-up discussion
 - reflection on readings discussion
@@ -70,6 +80,8 @@ The readings below focus on the 'why', as in "why should you learn data science?
 - [Why not just use Excel? Because almost all spreadsheets are full of errors](https://www.forbes.com/sites/salesforce/2014/09/13/sorry-spreadsheet-errors/#32d3148856ab)
   - Here is a [link](https://arxiv.org/pdf/1009.2785.pdf) to the actual article where Excel files were analyzed for errors
 - [Why geoscientists should care about data creation and curation](https://www.nature.com/articles/d41586-020-01366-w)
+- What takes up most of a data scientist's time? [2017 CrowdFlower report](https://visit.figure-eight.com/rs/416-ZBE-142/images/CrowdFlower_DataScienceReport.pdf)
+  - also see this [blog post about cleaning data](https://blog.ldodds.com/2020/01/31/do-data-scientists-spend-80-of-their-time-cleaning-data-turns-out-no/)
 
 ### Take note
 Questions to ask yourself while reading:
@@ -80,7 +92,7 @@ Questions to ask yourself while reading:
 - Can you think of an interesting earth-science dataset that is already curated and cleaned? What about one that is interesting, but super messy and/or incomplete?
 
 ## Design thinking and domain knowledge
-The following texts focus on 'design thinking', a method for framing a problem or project before you jump in and start doing the work. This does not happen often in earth science, as much of our work is still about discovery, rather than the formulaic hypothesis + experiment = result. For example, when you gather data from a new outcrop or a new seismic volume, do you know what you are going to find?
+The following texts focus on 'design thinking', a method for framing a problem or project before you jump in and start doing the work. Design thinking is otherwise known as critical-thinking, but perhaps in a more thoughtful, reflective way. This does not happen often in earth science, as much of our work is still about discovery, rather than the formulaic hypothesis + experiment = result. For example, when you gather data from a new outcrop or a new seismic volume, do you know what you are going to find?
 
 Instead of just exploring, we can design a project from the beginning to test hypotheses rather than just exploring. Design thinking is reflecting on what may be value-adding problems to solve, and then collecting data to answer that question. With existing datasets, too often the mindset is "here is some data, let's machine-learn it". Rather, design thinking encourages you to step back and think about the 'why' before just jumping in to see what's in the data.
 
@@ -98,7 +110,7 @@ Importantly, you need domain knowledge to know what questions to ask and what hy
 
 #### Importance of domain knowledge for design thinking
 - [The oil and gas perspective](https://www.linkedin.com/pulse/role-domain-knowledge-data-science-patrick-bangert/)
-
+- []()
 Supplemental readings:
 - [Who's side are you on?](https://www.dataversity.net/data-science-vs-domain-expertise-who-can-best-deliver-solutions/)
   - nice quote "The Domain Expert’s greatest strength is the ability to identify which questions need to be answered, and the Data Scientists role is to maneuver and leverage advanced data technologies to build expert systems to answer those questions."

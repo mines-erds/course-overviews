@@ -42,9 +42,6 @@ Supplemental readings
 
 
 
-
-
-
 ## pandas
 - Read this https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
 - TRY THIS http://rcs.bu.edu/examples/python/data_analysis/dataScience.ipynb
