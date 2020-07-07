@@ -10,14 +10,24 @@ In this course, you will learn to:
 
 After working to develop these learning outcomes, I found this [article](https://medium.com/@dataoptimal9/5-data-science-projects-that-will-get-you-hired-in-2018-9e51525084e) that lists five skills that will get you a job in data science. Read that article and think about how similar the two lists are, and which topic of either list you are most excited about.
 
-## Assessments
+---
+
+When asked what tools they use the most to accomplish machine-learning, data scientists say:
+
+<img src="module_1/CrowdFlower_2018_pg14.png" alt="Popular python packages for machine-learning" width="600">
+
+[Source: 2018 CrowdFlower survey](https://visit.figure-eight.com/rs/416-ZBE-142/images/Data-Scientist-Report.pdf)
+
+You can see that `pandas` and `numpy` and `scikit-learn` and `matplotlib` are all at the top of the list. These names might not mean much to you now, but they are the python packages that you will use during this course to import, wrangle, analyze, and visualize earth-resource data.
+
+# Assessments
 - video intro and follow-up discussion
 - reflection on readings discussion
 - concept map and peer review
 - syntax notebook
 - colab notebook for Titanic
 
-## Let's get to know each other!
+# Let's get to know each other!
 Please use this discussion to introduce yourself to the class. Tell us a little about yourself by posting a 1-2 minute video to this discussion board. In your video, address the following points:
 
 - Name
