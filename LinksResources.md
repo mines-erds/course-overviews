@@ -22,7 +22,7 @@
 - Barcelona book https://github.com/DataScienceUB/introduction-datascience-python-book
 - Python for Everybody open source http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf and https://www.py4e.com
 
-### Geo-specific
+### Geo-specific courses
 - Matt Bauer 1.5 hour video https://www.youtube.com/watch?v=GXMDJSRrKzw
 - Pyrcz demos https://github.com/GeostatsGuy/PythonNumericalDemos
 - Jesse Pisel https://github.com/jessepisel/energy_analytics/tree/master/Python%20Workflows
@@ -32,13 +32,16 @@
 - Data scrapers
   - New Mexico https://github.com/jessepisel/New-Mexico-Oil-Conservation-Division
   - Colorado https://github.com/jessepisel/cogcc_scraping_python
-- Datasets
+
+### Datasets
+- DZ data from Magallanes Basin
+  - https://doi.org/10.1130/B31757.1 - see "Supplemental Information 2" down at the bottom. 2 tabs in that xls are high throughput and low throughput ages from Tres Pasos
 - Pyrcz datasets https://github.com/GeostatsGuy/GeoDataSets
 - https://github.com/yohanesnuwara/open-geoscience-repository
- - https://dataunderground.org
- - https://hackmd.io/iAyNR_TOSguKnlnkrY2Auw
- - Netherlands data https://nlog.nl/en/data
- - Earth Engine Data on deltas, waves, and tides https://jhnienhuis.users.earthengine.app
+- https://dataunderground.org
+- https://hackmd.io/iAyNR_TOSguKnlnkrY2Auw
+- Netherlands data https://nlog.nl/en/data
+- Earth Engine Data on deltas, waves, and tides https://jhnienhuis.users.earthengine.app
 - Kaggle
   - USGS earthquakes https://www.kaggle.com/usgs/earthquake-database
   - Volcanic eruptions https://www.kaggle.com/smithsonian/volcanic-eruptions
@@ -83,6 +86,12 @@ https://transform2020.sched.com
 
 ## Mining data
 - https://omf.readthedocs.io/en/latest/ open mining format
+
+## Geochronology
+- detritalpy https://onlinelibrary.wiley.com/doi/full/10.1002/dep2.45
+- mixture modeling code
+- Sam's bayesian stuff
+- see Figshare for GSA data, e.g., https://gsapubs.figshare.com/search?q=sharman
 
 ## Thin sections
 - RockType funded by XStarter http://rocktype.com and https://www.xstarter.io/portfolio
@@ -144,7 +153,9 @@ https://transform2020.sched.com
 - https://seaborn.pydata.org/tutorial/relational.html
 
 ## Data-Viz
-- what not to do https://twitter.com/pokateo_/status/1265278980887924736?s=11
+- what not to do
+  - https://twitter.com/pokateo_/status/1265278980887924736?s=11
+  - https://twitter.com/amihaiglazer/status/1277769775855235072?s=11
 
 ## Pandas
 - https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html

@@ -21,7 +21,7 @@ Once you have posted your own video, respond to the videos of at least two of yo
 # Module overview
 This was the cover of a 2015 Bloomberg Business Week [article](https://github.com/bloombergmedia/whatiscode) about code:
 
-<img src="module_1/Bloomberg_6.15.15.jpg" alt="Can you read this?" width="400">
+<img src="module_1/Bloomberg_6.15.15.jpg" alt="Can you read this?" width="600">
 
 So, can you read it? It is written in python - can you tell what it is trying to do?
 
@@ -138,7 +138,8 @@ Take a photo of the sketch, and upload the image. Pro tip: The mobile Canvas app
 Zane notes:
 - BUILD NOTEBOOK FROM Chapter 3 of Wes McKinney
 - 0 not 1
-- array, int, float, str, list, dict, tuple, boolean
+- array, int, float, str, boolean
+- list, dict, tuple, ndarray
 - indexing and slicing, stacking
 - operators (e.g., +, -, \*, /, ==, !=, <, <=)
 - loops

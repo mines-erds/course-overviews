@@ -10,6 +10,7 @@ After successful completion of the module, learners will be able to:
 ## matplotlib
 - plt, fig, ax, plot, scatter, text, subplot, log axes
 - bar, stacked bar, hist, box plot
+- https://github.com/matplotlib/cheatsheets
 
 ## seaborn
 - violin, kdeplot, jointplot, pairplot, ridgeline plot (of your home state/country?)

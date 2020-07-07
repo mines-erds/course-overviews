@@ -39,6 +39,7 @@ As part of the learning experience at the Colorado School of Mines, our class wi
 # Schedule
 
 ## Week 1 - Data Munging
+- Setting up a project https://github.com/equinor/data-science-template
 - How to deal with messy, real-world data
 - Digitalization of legacy datasets
   - combining with modern data in a sensible way
@@ -66,6 +67,9 @@ As part of the learning experience at the Colorado School of Mines, our class wi
     - K-means
     - principal component analysis
     - factor analysis
+- Geochronology data
+  - clustering, NMF https://www.sciencedirect.com/science/article/abs/pii/S0012821X19300706
+  - mixture modeling, etc.
 
 ## Week 6 - Supervised machine-learning
 - Classification vs. regression
@@ -77,10 +81,13 @@ As part of the learning experience at the Colorado School of Mines, our class wi
   - random forest
   - decision trees
   - gradient-boosted trees (AdaBoost, XGBoost)
+- non geo data_analysis - http://archive.ics.uci.edu/ml/datasets/Census+Income
 
 ## Week 7 - Deep learning
 - Architectures of neural networks
 - Example models, including CNN, RNN/LSTM,
+- tensorflow
+- pytorch https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf
 
 ## Week 8
 Final project, where students munge a real-world dataset and perform a comparative analysis of unsupervised and supervised ML techniques
