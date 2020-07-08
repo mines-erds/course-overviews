@@ -142,27 +142,6 @@ https://transform2020.sched.com
 - https://numpy.org/devdocs/user/quickstart.html
 - https://docs.scipy.org/doc/scipy/reference/tutorial/index.html
 
-## matplotlib and seaborn
-- https://matplotlib.org/tutorials/introductory/usage.html#sphx-glr-tutorials-introductory-usage-py
-- https://matplotlib.org/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py
-- https://seaborn.pydata.org/tutorial/relational.html
-
-## Data-Viz
-- what not to do
-  - https://twitter.com/pokateo_/status/1265278980887924736?s=11
-  - https://twitter.com/amihaiglazer/status/1277769775855235072?s=11
-
-## Pandas
-- https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html
-- http://www.datasciencemadesimple.com/index-select-filter-dataframe-pandas-python/
-- https://medium.com/dunder-data/selecting-subsets-of-data-in-pandas-6fcd0170be9c
-
-## Spatial stuff
-- GeoJSON from a pandas DF https://geoffboeing.com/2015/10/exporting-python-data-geojson/
-  - then plot with ipyleaflet https://ipyleaflet.readthedocs.io/en/latest/api_reference/geo_json.html
-- http://geopandas.org/mapping.html
-- https://scitools.org.uk/cartopy/docs/latest/matplotlib/feature_interface.html
-
 ## Colab
 - importing data https://towardsdatascience.com/importing-data-to-google-colab-the-clean-way-5ceef9e9e3c8
 

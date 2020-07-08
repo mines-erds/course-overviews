@@ -32,6 +32,9 @@ Supplemental readings
 
 
 
+- https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html
+- http://www.datasciencemadesimple.com/index-select-filter-dataframe-pandas-python/
+- https://medium.com/dunder-data/selecting-subsets-of-data-in-pandas-6fcd0170be9c
 
 
 

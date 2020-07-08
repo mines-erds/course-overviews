@@ -62,10 +62,10 @@ The last line `C_to_F(0)` calls the function with Celsius input `0` and returns 
 
 ---
 
-You may ask yourself *Isn't it just easier to do this in Excel?* Honestly, sometimes the answer is yes. But, if you have to do the same task over and over, doing it manually in Excel can get pretty tedious. Furthermore, there are just some things that very difficult or impossible to do in Excel that languages like `python` are optimized for (e.g., vector math like adding 3.14 to a big column of values). In Excel, that requires creating a new column of values, and dragging an equation (`=A1+3.14`) all the way down the list of values. In python, if that list of values is called x, you just type `x+3.14` and python does the work for you.
+You may ask yourself *Isn't it just easier to do this in Excel?* Honestly, sometimes the answer is [yes](https://xkcd.com/1319/). But, if you have to do the same task over and over, doing it manually in Excel can get pretty tedious. Furthermore, there are just some things that very difficult or impossible to do in Excel that languages like `python` are optimized for (e.g., vector math like adding 3.14 to a big column of values). In Excel, that requires creating a new column of values, and dragging an equation (`=A1+3.14`) all the way down the list of values. In python, if that list of values is called x, you just type `x+3.14` and python does the work for you.
 
 If you find yourself limited by Excel, `python` will allow you to:
-- be more efficient by automating tasks that are mundane and boring, but that you have to do over and over.
+- be more efficient by automating tasks that are mundane and boring, but that you have to do over and over. Use this [calculator](https://xkcd.com/1205/) to figure out if it's worth it to automate the task
 - make fewer errors (Excel files are notorious for having cell-reference errors)
 - analyze and visualize data in ways impossible for Excel
 
@@ -82,16 +82,18 @@ After successful completion of the module, learners will be able to **formulate 
 # The coding mindset
 
 ## Data is everywhere, right?
-We keep hearing about it - petabytes of data are created every day and we need AI to solve all of our problems - just dump the data into a machine-learning model, and insights come out the other side. Of course, it is not quite that easy, as data is usually (1) not available, or (2) messy and needs significant cleaning/wrangling/munging. Earth-science data is especially messy, as much of it is analog (e.g., scanned paper copies of well logs) or has been collected over many years with different methods (again, well logs are a great example). The last reading puts in perspective the amount of time that data scientists spend cleaning data vs. deploying fancy machine-learning models.
+We keep hearing about it - petabytes of data are created every day and we only need to rely on `AI` to solve all of our problems - just dump the data into a machine-learning model, and insights come out the other side. Of course, it isn't quite that easy! 'Big data' is a buzzword, but what does it mean? Can 'Small Data' bring big value? [This article](https://www.enthought.com/small-data-big-value/) seems to think so, and I think they are on the right track. Sometimes more data is not necessarily better, particularly if that data is messy (i.e., quality over quantity).
+
+In reality, data is usually (1) not available or accessible, (2) small rather than big, or (3) messy and needs significant cleaning/wrangling/munging. Earth-science data is especially messy, as much of it is analog (e.g., scanned paper copies of well logs) or has been collected over many years with different methods (again, well logs are a great example). The last reading puts in perspective the amount of time that data scientists spend cleaning data vs. deploying fancy machine-learning models.
 
 ### Read
 The readings below focus on the 'why', as in "why should you learn data science?" instead of just using Excel to curate and analyze data?
 
 - [Why not just use Excel? Because almost all spreadsheets are full of errors](https://www.forbes.com/sites/salesforce/2014/09/13/sorry-spreadsheet-errors/#32d3148856ab)
-  - Here is a [link](https://arxiv.org/pdf/1009.2785.pdf) to the actual article where Excel files were analyzed for errors
+  - Here is a [link](https://arxiv.org/pdf/1009.2785.pdf) to the original study where Excel files were analyzed for errors
 - [Why geoscientists should care about data creation and curation](https://www.nature.com/articles/d41586-020-01366-w)
 - What takes up most of a data scientist's time? [2017 CrowdFlower report](https://visit.figure-eight.com/rs/416-ZBE-142/images/CrowdFlower_DataScienceReport.pdf)
-  - also see this [blog post about cleaning data](https://blog.ldodds.com/2020/01/31/do-data-scientists-spend-80-of-their-time-cleaning-data-turns-out-no/)
+  - Would you rather do these tasks manually in Excel, or in an automated way?
 
 ### Take note
 Questions to ask yourself while reading:
@@ -99,12 +101,12 @@ Questions to ask yourself while reading:
 - Have you ever found an error in a spreadsheet? How big of a deal was it?
 - How much time do you usually spend organizing data vs. analyzing it?
 - How important is domain knowledge (i.e., earth science expertise) in cleaning and curating data?
-- Can you think of an interesting earth-science dataset that is already curated and cleaned? What about one that is interesting, but super messy and/or incomplete?
+- Can you think of an interesting earth-science dataset that is already curated and cleaned? What about one that is interesting, but super messy and/or incomplete? How 'big' is the dataset?
 
 ## Design thinking and domain knowledge
 The following texts focus on 'design thinking', a method for framing a problem or project before you jump in and start doing the work. Design thinking is otherwise known as critical-thinking, but perhaps in a more thoughtful, reflective way. This does not happen often in earth science, as much of our work is still about discovery, rather than the formulaic hypothesis + experiment = result. For example, when you gather data from a new outcrop or a new seismic volume, do you know what you are going to find?
 
-Instead of just exploring, we can design a project from the beginning to test hypotheses rather than just exploring. Design thinking is reflecting on what may be value-adding problems to solve, and then collecting data to answer that question. With existing datasets, too often the mindset is "here is some data, let's machine-learn it". Rather, design thinking encourages you to step back and think about the 'why' before just jumping in to see what's in the data.
+However, there is Instead of just exploring, we can design a project from the beginning to test hypotheses rather than just exploring. Design thinking is reflecting on what may be value-adding problems to solve, and then collecting data to answer that question. With existing datasets, too often the mindset is "here is some data, let's machine-learn it". Rather, design thinking encourages you to step back and think about the 'why' before just jumping in to see what's in the data.
 
 Importantly, you need domain knowledge to know what questions to ask and what hypotheses to pose!
 
@@ -120,11 +122,12 @@ Importantly, you need domain knowledge to know what questions to ask and what hy
 
 #### Importance of domain knowledge for design thinking
 - [The oil and gas perspective](https://www.linkedin.com/pulse/role-domain-knowledge-data-science-patrick-bangert/)
-- []()
-Supplemental readings:
-- [Who's side are you on?](https://www.dataversity.net/data-science-vs-domain-expertise-who-can-best-deliver-solutions/)
+- [The Domain Expert’s greatest strength](https://www.dataversity.net/data-science-vs-domain-expertise-who-can-best-deliver-solutions/)
   - nice quote "The Domain Expert’s greatest strength is the ability to identify which questions need to be answered, and the Data Scientists role is to maneuver and leverage advanced data technologies to build expert systems to answer those questions."
 - ["It is simply not possible to do useful data science without sufficient domain knowledge."](https://towardsdatascience.com/minimum-viable-domain-knowledge-in-data-science-5be7bc99eca9)
+- [](https://xkcd.com/2327/)
+
+Supplemental readings:
 - [A healthcare perspective on domain knowledge](https://data-science-blog.com/blog/2017/11/10/the-importance-of-domain-knowledge-a-healthcare-data-science-perspective/)
 
 ### Take note

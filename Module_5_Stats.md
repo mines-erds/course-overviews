@@ -14,6 +14,18 @@ From the Think Python book guy:
 - https://allendowney.blogspot.com/2013/08/are-my-data-normal.html
 - https://www.allendowney.com/blog/2019/08/13/watch-your-tail/
 
+
+
+
+
+- [Statistical significance](https://xkcd.com/882/)
+- [Correlation vs. Causality](https://xkcd.com/925/)
+
+- [Oily House Index](https://xkcd.com/2327/)
+
+- [If you pay doctors enough, they bring people back to life](https://twitter.com/amihaiglazer/status/1277769775855235072?s=11)
+  - Related to this, see [Linear regression](https://xkcd.com/1725/) and [Curve fitting](https://xkcd.com/2048/) and [Extrapolating](https://xkcd.com/605/)... I could go on, xkcd has more of these
+
 ## Distributions, log-normality, and the log10 scale
 - 1D distributions
   - normal, log-normal, log10, log2
