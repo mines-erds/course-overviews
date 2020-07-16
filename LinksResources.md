@@ -60,6 +60,7 @@ https://transform2020.sched.com
 - seismic and GPR
   - segyio for seismic https://github.com/equinor/segyio
   - GPRpy for GPR data https://github.com/NSGeophysics/GPRPy
+  - swiss army knife https://github.com/trhallam/segysak
 - other I/O
   - segy data and open-d-tect, petrel, etc. https://github.com/agile-geoscience/gio/tree/master/notebooks
 
