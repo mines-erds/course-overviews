@@ -19,43 +19,57 @@ Applicable fields of earth-science include:
 After successful completion of the course, learners will be able to:
 
 ### 1. Formulate and execute a strategic plan for earth-resource data analysis
+**Summative assessment:** Week 8 presentation and documentation of final project that shows pythonic execution of a strategic data-analysis plan
+
+Subthemes:
 - Apply earth-resource-specific packages to solve common problems in the energy, minerals, and environmental industries
-- Reflect on coding-as-a-language and the Excel vs `python` mindset
-- Assessments:
-  - week 1 discussion
-  - week 1, 7 concept map creation
-  - week 8 video presentation of final project
+  - Formative assessment: Week 3 scaffolded notebooks
+- Discuss the coding mindset and the importance of design thinking and domain knowledge in data-science projects
+  - Formative assessments:
+    - Week 1 discussion/essay on resources for critical thinking, debugging, etc.
+    - Week 1 concept map (i.e., strategic plan) creation
+    - Week 7 concept map (i.e., strategic plan) creation
 
-### 2. Import, wrangle, and analyze earth-resource data using python syntax, data types, data storage, and pandas
+### 2. Import, wrangle, and analyze (often messy) earth-resource data using python syntax, data types, data storage, and `pandas`
+**Summative assessment:** Week 2 scaffolded notebooks testing knowledge of syntax, data types, and pandas
+
+Subthemes:
 - Compare useful data types, syntax, and commonly-used earth-science packages in python
-- Clean and sort messy, real-world data using `pandas`
-- Create reproducible python workflows that solve real-world problems  
-- Assessments:
-  - week 2 essay on data storage best practices
-  - week 1, 2 scaffolded notebooks testing knowledge of syntax, data types, and pandas
-  - week 3 crowd-sourced list and description of geo-specific python packages
+  - Formative assessments:
+    - Week 2 crowd-sourced list of useful pandas one-liners
+    - Week 3 crowd-sourced list and description of geo-specific python packages
+- Discuss best practices for organization, storage, and curation of earth-resource data
+  - Formative assessments:
+    - Week 2 data reorganization exercise
+    - Week 2 essay on data storage best practices
 
-### 3. Visualize earth-resource data
-- Create beautiful, reproducible plots that convey information using `matplotlib` and `seaborn`
-- Analyze and plot surface and subsurface geospatial data using python mapping packages (e.g., `ipyleaflet`)
+### 3. Create beautiful, informative, reproducible visualizations for earth-resource data (e.g., surface, subsurface, geospatial, analytical datasets)
+**Summative assessments:**
+- Week 4 scaffolded notebooks testing knowledge of data visualization
+- Week 7 visualization of final project data
+
+Subtheme:
 - Reflect on the principles of effective graphic design
-- Assessments:
-  - week 4 discussion on the good, bad, and ugly in data-viz
-  - week 4 scaffolded notebooks
-  - week 7 visualization of final project data
+  - Formative assessment: Week 4 discussion on the good, bad, and ugly in data-viz
 
 ### 4. Design and implement methods for statistical analysis of earth-resource data
-- Report descriptive and comparative statistics using `numpy` and `scipy`
-- Use domain knowledge to create and contrast appropriate statistics for a given dataset
-- Assessments:
-  - week 5 quiz on descriptive statistics
-  - week 2, 5 crowd-sourced stats cheatsheet
-  - week 7 comparative statistical analysis
+**Summative assessments:**
+- Week 5 quiz testing knowledge of descriptive and comparative statistics and how to utilize them in `numpy` and `scipy`
+- Week 7 comparative statistical analysis of final project data
+
+Subthemes:
+- Evaluate parametric and non-parametric statistical approaches for data comparisons
+  - Formative assessment: Week 5 scaffolded notebook
+- Use domain knowledge to contrast appropriate statistics for a given dataset
+  - Formative assessments:
+    - Week 5 discussion on relevant statistics and the rabbit-hole of p values
+    - Week 5 crowd-sourced list of useful scipy one-liners
 
 ### 5. Implement machine-learning models for earth-resource data
-- Explain differences in supervised and unsupervised models and use-cases for each
+**Summative assessment:** Week 7 implementation of a machine-learning model for final project data
+
+Subthemes:
+- Identify differences in supervised and unsupervised ML models and use-cases for each
+  - Formative assessment: Week 6 quiz on ML terminology and architecture
 - Discuss common pitfalls, model uncertainty & interpretability, and the importance of training data
-- Assessments:
-  - week 6 quiz on ML terminology and architecture
-  - week 6 essay on ML pros, cons, and pitfalls
-  - week 7 ML implementation for final project
+  - Formative assessment: week 6 essay on ML pros, cons, and pitfalls
