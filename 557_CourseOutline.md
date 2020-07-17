@@ -21,7 +21,7 @@ After successful completion of the course, learners will be able to:
 ### 1. Formulate and execute a strategic plan for earth-resource data analysis
 **Summative assessment:** Week 8 presentation and documentation of final project that shows pythonic execution of a strategic data-analysis plan
 
-Subthemes:
+#### Subthemes:
 - Apply earth-resource-specific packages to solve common problems in the energy, minerals, and environmental industries
   - Formative assessment: Week 3 scaffolded notebooks
 - Discuss the coding mindset and the importance of design thinking and domain knowledge in data-science projects
@@ -33,7 +33,7 @@ Subthemes:
 ### 2. Import, wrangle, and analyze (often messy) earth-resource data using python syntax, data types, data storage, and `pandas`
 **Summative assessment:** Week 2 scaffolded notebooks testing knowledge of syntax, data types, and pandas
 
-Subthemes:
+#### Subthemes:
 - Compare useful data types, syntax, and commonly-used earth-science packages in python
   - Formative assessments:
     - Week 2 crowd-sourced list of useful pandas one-liners
@@ -48,7 +48,7 @@ Subthemes:
 - Week 4 scaffolded notebooks testing knowledge of data visualization
 - Week 7 visualization of final project data
 
-Subtheme:
+#### Subtheme:
 - Reflect on the principles of effective graphic design
   - Formative assessment: Week 4 discussion on the good, bad, and ugly in data-viz
 
@@ -57,7 +57,7 @@ Subtheme:
 - Week 5 quiz testing knowledge of descriptive and comparative statistics and how to utilize them in `numpy` and `scipy`
 - Week 7 comparative statistical analysis of final project data
 
-Subthemes:
+#### Subthemes:
 - Evaluate parametric and non-parametric statistical approaches for data comparisons
   - Formative assessment: Week 5 scaffolded notebook
 - Use domain knowledge to contrast appropriate statistics for a given dataset
@@ -68,8 +68,8 @@ Subthemes:
 ### 5. Implement machine-learning models for earth-resource data
 **Summative assessment:** Week 7 implementation of a machine-learning model for final project data
 
-Subthemes:
+#### Subthemes:
 - Identify differences in supervised and unsupervised ML models and use-cases for each
   - Formative assessment: Week 6 quiz on ML terminology and architecture
 - Discuss common pitfalls, model uncertainty & interpretability, and the importance of training data
-  - Formative assessment: week 6 essay on ML pros, cons, and pitfalls
+  - Formative assessment: week 6 essay/discussion on ML pros, cons, and pitfalls
