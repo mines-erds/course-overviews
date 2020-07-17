@@ -1,1 +1,4 @@
 theme: jekyll-theme-midnight
+include:
+- README.md
+- 557_CourseOutline.md
