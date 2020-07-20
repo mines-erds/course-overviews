@@ -21,7 +21,8 @@ While this course will utilize examples from the petroleum industry; any earth s
 ## Other details
 
 ### Prerequisites
-GEOL 557 or DSCI 403
+1. DSCI 403
+1. GEOL 557
 
 ### Required Technology:
 TBA
@@ -47,6 +48,8 @@ As part of the learning experience at the Colorado School of Mines, our class wi
 ## Week 2 - Data Mining and web-API development
 - automated dashboard updates using web APIs
 - intro to web scraping
+  - https://github.com/derrickturk/rrc-scraper
+  -
 
 ## Week 3 - Geospatial data
 - scrape data from websites to build a GIS project

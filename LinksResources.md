@@ -95,6 +95,11 @@ https://transform2020.sched.com
 - Virtual_Microscope http://www.ged.rwth-aachen.de/index.php?cat=Virtual_Microscope and https://m-a-p.expert
 - thin section resources from Jae Erickson https://elearning.mines.edu/courses/554/modules
 
+STERONETS!!
+https://github.com/joferkington/mplstereonet
+TERNARY PLOTS
+https://agilescientific.com/blog/2019/3/21/x-lines-of-python-ternary-diagrams
+
 ## GIS, topography, and point cloud data
 - pyGMT Generic Mapping Toolbox https://www.pygmt.org/latest/
 - pyproj projections https://github.com/kwinkunks/notebooks/blob/master/Coordinate_transformations.ipynb
@@ -103,6 +108,7 @@ https://transform2020.sched.com
 - https://github.com/fastscape-lem nice landscape evolution model - create topo with this, then analyze? PyVista integration?
 - LandLab https://www.earth-surf-dynam.net/8/379/2020/
 - pyBadlands - see this paper https://doi.org/10.1130/G47498.1 and movies in supp data https://gsapubs.figshare.com/articles/Supplemental_Material_How_do_basin_margins_record_long-term_tectonic_and_climatic_changes_/12307454
+- relay ramps https://twitter.com/_absrp/status/1284164490787864576?s=11
 
 ## Water resources
 - hydrology and climatology data for watershed analysis https://hydrodata.readthedocs.io/en/latest/
@@ -128,7 +134,6 @@ https://transform2020.sched.com
 # General
 
 ## theory and examples
-- if you cant read that, you better read this https://www.poynter.org/reporting-editing/2015/bloomberg-businessweeks-latest-issue-is-devoted-to-code/
 - nice thought and code examples https://medium.com/better-programming/9-skills-that-separate-a-beginner-from-an-intermediate-python-programmer-8bbde735c246
 
 ## Data types
@@ -147,4 +152,3 @@ https://transform2020.sched.com
 - importing data https://towardsdatascience.com/importing-data-to-google-colab-the-clean-way-5ceef9e9e3c8
 
 ## Other useful stuff
-- regex regular expressions https://docs.python.org/3/howto/regex.html
