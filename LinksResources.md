@@ -1,5 +1,7 @@
 # Mines-ERDS Resources for building course
 
+This is a messy document, but has lots of good info. Will be updated irregularly.
+
 ## Books I will use:
 
 ### Open source
