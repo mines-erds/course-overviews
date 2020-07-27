@@ -54,6 +54,7 @@ https://transform2020.sched.com
   - welly
   - check out this log 'imputer' (Didn't Ross make one too?)
     - https://github.com/mycarta/predict/blob/master/Geoscience_ML_notebook_1.ipynb and https://github.com/mycarta/predict/blob/master/Geoscience_ML_notebook_6.ipynb
+  - wellpathpy https://pypi.org/project/wellpathpy/
 - core data
   - striplog and litholog
   - corebreakout or depstrat for advanced
@@ -73,6 +74,11 @@ https://transform2020.sched.com
   - BGS core repacking and photos https://youtu.be/HdhrOJGpy2c
   - article in Nature https://www.nature.com/articles/d41586-020-01366-w
     - popular news article https://www.washingtonpost.com/science/rock-samples-arent-archived-or-shared-they-need-to-be-geologists-warn-pointing-to-a-reproducibility-crisis/2020/05/15/aa858e06-953c-11ea-91d7-cf4423d47683_story.html
+
+## Grain size
+- SediNet
+  - repo https://github.com/MARDAScience/SediNet
+  - paper https://onlinelibrary.wiley.com/doi/abs/10.1002/esp.4760
 
 ## Reservoir modeling and petrophysics
 - xtgeo https://github.com/equinor/xtgeo
@@ -106,6 +112,7 @@ https://agilescientific.com/blog/2019/3/21/x-lines-of-python-ternary-diagrams
 - Post Storm Imagery https://github.com/UNCG-DAISY/psi-collect
 - https://www.pyvista.org/projects/index.html
 - https://github.com/fastscape-lem nice landscape evolution model - create topo with this, then analyze? PyVista integration?
+- OpenTopo tools https://opentopography.org/otsoftware
 - LandLab https://www.earth-surf-dynam.net/8/379/2020/
 - pyBadlands - see this paper https://doi.org/10.1130/G47498.1 and movies in supp data https://gsapubs.figshare.com/articles/Supplemental_Material_How_do_basin_margins_record_long-term_tectonic_and_climatic_changes_/12307454
 - relay ramps https://twitter.com/_absrp/status/1284164490787864576?s=11
