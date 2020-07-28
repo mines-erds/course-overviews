@@ -32,8 +32,8 @@ After successful completion of the course, learners will be able to:
 
 ### 2. Import, wrangle, and analyze (often messy) earth-resource data using python syntax, data types, data storage, and `pandas`
 **Summative assessments:**
-1. Week 1 scaffolded notebooks testing knowledge of python syntax and data types
-1. Week 2 scaffolded notebooks testing knowledge of pandas
+- Week 1 scaffolded notebooks testing knowledge of python syntax and data types
+- Week 2 scaffolded notebooks testing knowledge of pandas
 
 #### Subthemes:
 - Compare useful data types, syntax, and commonly-used earth-science packages in python
