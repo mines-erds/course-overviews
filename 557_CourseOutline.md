@@ -45,7 +45,7 @@ After successful completion of the course, learners will be able to:
     - Week 2 data reorganization exercise
     - Week 2 reflection (in essay form) on data storage best practices
 
-### 3. Create beautiful, informative, reproducible visualizations for earth-resource data (e.g., surface, subsurface, geospatial, analytical datasets)
+### 3. Create visualizations for earth-resource data (e.g., surface, subsurface, geospatial, analytical datasets)
 **Summative assessments:**
 - Week 4 scaffolded notebooks testing knowledge of data visualization
 - Week 7 visualization of final project data
