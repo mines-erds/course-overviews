@@ -43,7 +43,7 @@ After successful completion of the course, learners will be able to:
 - Discuss best practices for organization, storage, and curation of earth-resource data
   - Formative assessments:
     - Week 2 data reorganization exercise
-    - Week 2 essay on data storage best practices
+    - Week 2 reflection (in essay form) on data storage best practices
 
 ### 3. Create beautiful, informative, reproducible visualizations for earth-resource data (e.g., surface, subsurface, geospatial, analytical datasets)
 **Summative assessments:**
