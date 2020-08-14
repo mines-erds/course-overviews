@@ -110,6 +110,7 @@ https://transform2020.sched.com
 - STERONETS https://github.com/joferkington/mplstereonet
 - modeling gempy https://www.gempy.org/
 - aspg https://github.com/ondrolexa/apsg
+- https://app.visiblegeology.com/
 
 ## GIS, topography, and point cloud data
 - pyGMT Generic Mapping Toolbox https://www.pygmt.org/latest/
