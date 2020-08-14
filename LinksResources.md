@@ -29,6 +29,7 @@ This is a messy document, but has lots of good info. Will be updated irregularly
 - Data scrapers
   - New Mexico https://github.com/jessepisel/New-Mexico-Oil-Conservation-Division
   - Colorado https://github.com/jessepisel/cogcc_scraping_python
+- CSDMS portal https://csdms.colorado.edu/wiki/Labs_portal
 
 ### Datasets
 - DZ data from Magallanes Basin
@@ -82,6 +83,7 @@ https://transform2020.sched.com
 - SediNet
   - repo https://github.com/MARDAScience/SediNet
   - paper https://onlinelibrary.wiley.com/doi/abs/10.1002/esp.4760
+- TERNARY PLOTS https://agilescientific.com/blog/2019/3/21/x-lines-of-python-ternary-diagrams
 
 ## Reservoir modeling and petrophysics
 - xtgeo https://github.com/equinor/xtgeo
@@ -104,10 +106,10 @@ https://transform2020.sched.com
 - Virtual_Microscope http://www.ged.rwth-aachen.de/index.php?cat=Virtual_Microscope and https://m-a-p.expert
 - thin section resources from Jae Erickson https://elearning.mines.edu/courses/554/modules
 
-STERONETS!!
-https://github.com/joferkington/mplstereonet
-TERNARY PLOTS
-https://agilescientific.com/blog/2019/3/21/x-lines-of-python-ternary-diagrams
+## Structural geology
+- STERONETS https://github.com/joferkington/mplstereonet
+- modeling gempy https://www.gempy.org/
+- aspg https://github.com/ondrolexa/apsg
 
 ## GIS, topography, and point cloud data
 - pyGMT Generic Mapping Toolbox https://www.pygmt.org/latest/

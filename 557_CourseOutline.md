@@ -34,6 +34,7 @@ After successful completion of the course, learners will be able to:
 **Summative assessments:**
 - Week 1 scaffolded notebooks testing knowledge of python syntax and data types
 - Week 2 scaffolded notebooks testing knowledge of pandas
+- Week 3 scaffolded notebooks testing knowledge of earth-resource python packages
 
 #### Subthemes:
 - Compare useful data types, syntax, and commonly-used earth-science packages in python
