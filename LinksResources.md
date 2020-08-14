@@ -116,12 +116,13 @@ https://transform2020.sched.com
 - pyproj projections https://github.com/kwinkunks/notebooks/blob/master/Coordinate_transformations.ipynb
 - Post Storm Imagery https://github.com/UNCG-DAISY/psi-collect
 - https://www.pyvista.org/projects/index.html
-- https://github.com/fastscape-lem nice landscape evolution model - create topo with this, then analyze? PyVista integration?
-- OpenTopo tools https://opentopography.org/otsoftware
-- LandLab https://www.earth-surf-dynam.net/8/379/2020/
-- pyBadlands - see this paper https://doi.org/10.1130/G47498.1 and movies in supp data https://gsapubs.figshare.com/articles/Supplemental_Material_How_do_basin_margins_record_long-term_tectonic_and_climatic_changes_/12307454
-- Fastscape https://fastscape.org/
+- - landscape evolution models
+  - https://github.com/fastscape-lem nice landscape evolution model - create topo with this, then analyze? PyVista integration?
+  - LandLab https://www.earth-surf-dynam.net/8/379/2020/
+  - pyBadlands - see this paper https://doi.org/10.1130/G47498.1 and movies in supp data https://gsapubs.figshare.com/articles/Supplemental_Material_How_do_basin_margins_record_long-term_tectonic_and_climatic_changes_/12307454
+  - Fastscape https://fastscape.org/
 - relay ramps https://twitter.com/_absrp/status/1284164490787864576?s=11
+- OpenTopo tools https://opentopography.org/otsoftware
 
 ## Water resources
 - hydrology and climatology data for watershed analysis https://hydrodata.readthedocs.io/en/latest/
