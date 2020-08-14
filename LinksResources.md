@@ -120,6 +120,7 @@ https://transform2020.sched.com
 - OpenTopo tools https://opentopography.org/otsoftware
 - LandLab https://www.earth-surf-dynam.net/8/379/2020/
 - pyBadlands - see this paper https://doi.org/10.1130/G47498.1 and movies in supp data https://gsapubs.figshare.com/articles/Supplemental_Material_How_do_basin_margins_record_long-term_tectonic_and_climatic_changes_/12307454
+- Fastscape https://fastscape.org/
 - relay ramps https://twitter.com/_absrp/status/1284164490787864576?s=11
 
 ## Water resources
