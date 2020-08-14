@@ -57,6 +57,7 @@ https://transform2020.sched.com
   - check out this log 'imputer' (Didn't Ross make one too?)
     - https://github.com/mycarta/predict/blob/master/Geoscience_ML_notebook_1.ipynb and https://github.com/mycarta/predict/blob/master/Geoscience_ML_notebook_6.ipynb
   - wellpathpy https://pypi.org/project/wellpathpy/
+  - FracPaQ https://github.com/DaveHealy-Aberdeen/FracPaQ
 - core data
   - striplog and litholog
   - corebreakout or depstrat for advanced
