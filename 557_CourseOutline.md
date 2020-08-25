@@ -68,8 +68,8 @@ After successful completion of the course, learners will be able to:
     - Week 5 discussion on relevant statistics and the rabbit-hole of p values
     - Week 5 crowd-sourced list of useful scipy one-liners
 
-### 5. Implement machine-learning models for earth-resource data
-**Summative assessment:** Week 7 implementation of a machine-learning model for final project data
+### 5. Differentiate machine-learning models for earth-resource data
+**Summative assessment:** Week 6 successful completion of Google's machine-learning course
 
 #### Subthemes:
 - Identify differences in supervised and unsupervised ML models and use-cases for each
