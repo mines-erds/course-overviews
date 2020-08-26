@@ -53,7 +53,7 @@ After successful completion of the course, learners will be able to:
 
 #### Subtheme:
 - Reflect on the principles of effective graphic design
-  - Formative assessment: Week 4 discussion on the good, bad, and ugly in data-viz
+  - Formative assessment: Week 4 discussion on what makes a beautiful, reproducible figure
 
 ### 4. Design and implement methods for statistical analysis of earth-resource data
 **Summative assessments:**
