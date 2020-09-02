@@ -19,14 +19,16 @@ Applicable fields of earth-science include:
 After successful completion of the course, learners will be able to:
 
 ### 1. Formulate and execute a strategic plan for earth-resource data analysis
-**Summative assessment:** Week 8 presentation and documentation of final project that shows pythonic execution of a strategic data-analysis plan
+**Summative assessments:** 
+- Week 7 documentation of final project showing pythonic execution of a strategic data-analysis plan
+- Week 8 presentation and summary of final project showing pythonic execution of a strategic data-analysis plan
 
 #### Subthemes:
 - Apply earth-resource-specific packages to solve common problems in the energy, minerals, and environmental industries
   - Formative assessment: Week 3 scaffolded notebooks
 - Discuss the coding mindset and the importance of design thinking and domain knowledge in data-science projects
   - Formative assessments:
-    - Week 1 discussion/essay on resources for critical thinking, debugging, etc.
+    - Week 1 discussion/essay on design thinking and domain knowledge
     - Week 1 concept map (i.e., strategic plan) creation for the Titanic dataset
     - Week 4 concept map (i.e., strategic plan) creation for a dataset of your choice (which forms the final project)
 
@@ -35,7 +37,7 @@ After successful completion of the course, learners will be able to:
 - Week 1 scaffolded notebooks testing knowledge of python syntax and data types
 - Week 2 scaffolded notebooks testing knowledge of pandas
 - Week 3 scaffolded notebooks testing knowledge of earth-resource python packages
-- Week 4 new dataset wrangling
+- Week 4 wrangling of final project data
 
 #### Subthemes:
 - Compare useful data types, syntax, and commonly-used earth-science packages in python
