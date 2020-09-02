@@ -27,14 +27,15 @@ After successful completion of the course, learners will be able to:
 - Discuss the coding mindset and the importance of design thinking and domain knowledge in data-science projects
   - Formative assessments:
     - Week 1 discussion/essay on resources for critical thinking, debugging, etc.
-    - Week 1 concept map (i.e., strategic plan) creation
-    - Week 7 concept map (i.e., strategic plan) creation
+    - Week 1 concept map (i.e., strategic plan) creation for the Titanic dataset
+    - Week 4 concept map (i.e., strategic plan) creation for a dataset of your choice (which forms the final project)
 
 ### 2. Import, wrangle, and analyze (often messy) earth-resource data using python syntax, data types, data storage, and `pandas`
 **Summative assessments:**
 - Week 1 scaffolded notebooks testing knowledge of python syntax and data types
 - Week 2 scaffolded notebooks testing knowledge of pandas
 - Week 3 scaffolded notebooks testing knowledge of earth-resource python packages
+- Week 4 new dataset wrangling
 
 #### Subthemes:
 - Compare useful data types, syntax, and commonly-used earth-science packages in python
@@ -49,7 +50,7 @@ After successful completion of the course, learners will be able to:
 ### 3. Create visualizations for earth-resource data (e.g., surface, subsurface, geospatial, analytical datasets)
 **Summative assessments:**
 - Week 4 scaffolded notebooks testing knowledge of data visualization
-- Week 7 visualization of final project data
+- Week 5 visualization of final project data
 
 #### Subtheme:
 - Reflect on the principles of effective graphic design
@@ -58,14 +59,13 @@ After successful completion of the course, learners will be able to:
 ### 4. Design and implement methods for statistical analysis of earth-resource data
 **Summative assessments:**
 - Week 5 quiz testing knowledge of descriptive and comparative statistics and how to utilize them in `numpy` and `scipy`
-- Week 6 comparative statistical analysis of final project data
+- Week 6 statistical analysis of final project data
 
 #### Subthemes:
 - Evaluate parametric and non-parametric statistical approaches for data comparisons
   - Formative assessment: Week 5 scaffolded notebook
 - Use domain knowledge to contrast appropriate statistics for a given dataset
-  - Formative assessments:
-    - Week 5 discussion on relevant statistics for earth-resource data
+  - Formative assessment: Week 5 discussion on relevant statistics for earth-resource data
 
 ### 5. Differentiate machine-learning models for earth-resource data
 **Summative assessment:** Week 6 successful completion of Google's machine-learning course
