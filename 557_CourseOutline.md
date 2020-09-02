@@ -58,15 +58,14 @@ After successful completion of the course, learners will be able to:
 ### 4. Design and implement methods for statistical analysis of earth-resource data
 **Summative assessments:**
 - Week 5 quiz testing knowledge of descriptive and comparative statistics and how to utilize them in `numpy` and `scipy`
-- Week 7 comparative statistical analysis of final project data
+- Week 6 comparative statistical analysis of final project data
 
 #### Subthemes:
 - Evaluate parametric and non-parametric statistical approaches for data comparisons
   - Formative assessment: Week 5 scaffolded notebook
 - Use domain knowledge to contrast appropriate statistics for a given dataset
   - Formative assessments:
-    - Week 5 discussion on relevant statistics and the rabbit-hole of p values
-    - Week 5 crowd-sourced list of useful scipy one-liners
+    - Week 5 discussion on relevant statistics for earth-resource data
 
 ### 5. Differentiate machine-learning models for earth-resource data
 **Summative assessment:** Week 6 successful completion of Google's machine-learning course
