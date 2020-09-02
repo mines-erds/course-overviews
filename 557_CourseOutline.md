@@ -20,8 +20,8 @@ After successful completion of the course, learners will be able to:
 
 ### 1. Formulate and execute a strategic plan for earth-resource data analysis
 **Summative assessments:** 
-- Week 7 documentation of final project showing pythonic execution of a strategic data-analysis plan
-- Week 8 presentation and summary of final project showing pythonic execution of a strategic data-analysis plan
+- Week 7 documentation of group project showing pythonic execution of a strategic data-analysis plan
+- Week 8 documentation of final (solo) project showing pythonic execution of a strategic data-analysis plan
 
 #### Subthemes:
 - Apply earth-resource-specific packages to solve common problems in the energy, minerals, and environmental industries
@@ -30,7 +30,7 @@ After successful completion of the course, learners will be able to:
   - Formative assessments:
     - Week 1 discussion/essay on design thinking and domain knowledge
     - Week 1 concept map (i.e., strategic plan) creation for the Titanic dataset
-    - Week 4 concept map (i.e., strategic plan) creation for a dataset of your choice (which forms the final project)
+    - Week 4 concept map (i.e., strategic plan) creation for a dataset of your choice (which forms the group project)
 
 ### 2. Import, wrangle, and analyze (often messy) earth-resource data using python syntax, data types, data storage, and `pandas`
 **Summative assessments:**
@@ -52,7 +52,7 @@ After successful completion of the course, learners will be able to:
 ### 3. Create visualizations for earth-resource data (e.g., surface, subsurface, geospatial, analytical datasets)
 **Summative assessments:**
 - Week 4 scaffolded notebooks testing knowledge of data visualization
-- Week 5 visualization of final project data
+- Week 5 visualization of group project data
 
 #### Subtheme:
 - Reflect on the principles of effective graphic design
@@ -61,7 +61,7 @@ After successful completion of the course, learners will be able to:
 ### 4. Design and implement methods for statistical analysis of earth-resource data
 **Summative assessments:**
 - Week 5 quiz testing knowledge of descriptive and comparative statistics and how to utilize them in `numpy` and `scipy`
-- Week 6 statistical analysis of final project data
+- Week 6 statistical analysis of group project data
 
 #### Subthemes:
 - Evaluate parametric and non-parametric statistical approaches for data comparisons
