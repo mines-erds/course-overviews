@@ -32,6 +32,7 @@ This is a messy document, but has lots of good info. Will be updated irregularly
 - CSDMS portal https://csdms.colorado.edu/wiki/Labs_portal
 
 ### Datasets
+- Wyoming well logs, tops, etc https://sites.google.com/a/wyo.gov/oil-and-gas/prb-study
 - DZ data from Magallanes Basin
   - https://doi.org/10.1130/B31757.1 - see "Supplemental Information 2" down at the bottom. 2 tabs in that xls are high throughput and low throughput ages from Tres Pasos
 - Pyrcz datasets https://github.com/GeostatsGuy/GeoDataSets
@@ -40,6 +41,7 @@ This is a messy document, but has lots of good info. Will be updated irregularly
 - https://hackmd.io/iAyNR_TOSguKnlnkrY2Auw
 - Netherlands data https://nlog.nl/en/data
 - Earth Engine Data on deltas, waves, and tides https://jhnienhuis.users.earthengine.app
+- oxygen isotope data https://doi.pangaea.de/10.1594/PANGAEA.917503 and the associated paper https://science.sciencemag.org/content/369/6509/1383
 - Kaggle
   - USGS earthquakes https://www.kaggle.com/usgs/earthquake-database
   - Volcanic eruptions https://www.kaggle.com/smithsonian/volcanic-eruptions
@@ -66,6 +68,7 @@ https://transform2020.sched.com
   - segyio for seismic https://github.com/equinor/segyio
   - GPRpy for GPR data https://github.com/NSGeophysics/GPRPy
   - swiss army knife https://github.com/trhallam/segysak
+  - https://www.pygimli.org Geophysical Inversion Modeling Library
 - other I/O
   - segy data and open-d-tect, petrel, etc. https://github.com/agile-geoscience/gio/tree/master/notebooks
 
@@ -113,11 +116,14 @@ https://transform2020.sched.com
 - https://app.visiblegeology.com/
 
 ## GIS, topography, and point cloud data
+- nice tutorial on geospatial plotting https://www.earthdatascience.org/courses/use-data-open-source-python/intro-to-apis/spatial-data-using-apis/
 - pyGMT Generic Mapping Toolbox https://www.pygmt.org/latest/
 - pyproj projections https://github.com/kwinkunks/notebooks/blob/master/Coordinate_transformations.ipynb
 - Post Storm Imagery https://github.com/UNCG-DAISY/psi-collect
 - https://www.pyvista.org/projects/index.html
 - landscape evolution models
+  - CSDMS (runs on Binder) https://github.com/csdms/espin
+  - delta RCM https://esurf.copernicus.org/articles/3/67/2015/
   - LSD topotools https://lsdtopotools.github.io
   - https://github.com/fastscape-lem nice landscape evolution model - create topo with this, then analyze? PyVista integration?
   - LandLab https://www.earth-surf-dynam.net/8/379/2020/
@@ -148,6 +154,8 @@ https://transform2020.sched.com
 - clustering examples sklearn https://scikit-learn.org/stable/modules/clustering.html#adding-connectivity-constraints
 
 # General
+- ESPIN course https://github.com/csdms/espin/tree/main/lessons/python
+- huge list of things https://github.com/amitness/learning
 
 ## theory and examples
 - nice thought and code examples https://medium.com/better-programming/9-skills-that-separate-a-beginner-from-an-intermediate-python-programmer-8bbde735c246
@@ -163,6 +171,9 @@ https://transform2020.sched.com
 ## Numpy and Scipy
 - https://numpy.org/devdocs/user/quickstart.html
 - https://docs.scipy.org/doc/scipy/reference/tutorial/index.html
+
+## Stats
+- https://github.com/eigenfoo/tests-as-linear nice cheatsheets too
 
 ## Colab
 - importing data https://towardsdatascience.com/importing-data-to-google-colab-the-clean-way-5ceef9e9e3c8
