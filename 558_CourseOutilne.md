@@ -15,11 +15,22 @@ Applicable fields of earth-science include:
 - geomorphologists (sand and water resources, landscape evolution)
 
 ## Major course themes and learning outcomes
-1. advanced data analysis
-1. pull data from an API (enverus and macrostrat)
-1. web scraping of CO data, similar to API); browser-based scraper intro
-1. train and test an unsupervised mnodel
-1. train and test supervised models
+- outcome
+ - assessment
+  - notes
+- Synthesize and analyze earth-resource data from multiple sources using python and geoscience domain knowledge
+  - Week 2 project 
+- Construct python code to retrieve earth-resource data using APIs (application programming interfaces) 
+  - Week 3 macrostrat
+  - Week 4 Enverus token
+- Understand web scraping algorithms for retrieving earth-resource data
+  - Week 3? web scraping? 
+   - web scraping of CO data (similar to API) and intro to browser-based scraper intro
+- Develop and implement unsupervised machine-learning models
+  - week 5 stuff
+- Develop and implement (i.e., test and train) supervised machine-learning models
+  - week 6 stuff
+- 
 
 ---
 
