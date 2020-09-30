@@ -17,6 +17,7 @@ Applicable fields of earth-science include:
 ## Major course themes and learning outcomes
 - Synthesize and analyze earth-resource data from multiple sources using python and geoscience domain knowledge
   - Week 2 project 
+  - Week 7 
 - Construct python code to retrieve earth-resource data using APIs (application programming interfaces) 
   - Week 3 macrostrat
   - Week 4 Enverus token
@@ -28,6 +29,16 @@ Applicable fields of earth-science include:
 - Develop and implement (i.e., test and train) supervised machine-learning models
   - week 6 stuff
 - 
+
+Schedule
+1. go find data and do stuff (remember 557?)
+1. peer review and ???????????
+1. APIs
+1. web scraping
+1. unsup ML
+1. sup ML
+1. revisit "go find data and do stuff" 
+1. peer review and wrap up
 
 ---
 
