@@ -15,9 +15,6 @@ Applicable fields of earth-science include:
 - geomorphologists (sand and water resources, landscape evolution)
 
 ## Major course themes and learning outcomes
-- outcome
- - assessment
-  - notes
 - Synthesize and analyze earth-resource data from multiple sources using python and geoscience domain knowledge
   - Week 2 project 
 - Construct python code to retrieve earth-resource data using APIs (application programming interfaces) 
