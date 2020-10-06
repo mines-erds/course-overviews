@@ -31,6 +31,21 @@ Data science is a vitally important skill, particularly when paired with deep do
   - Hydrology focus:
     - CEEN 581	Watershed System Modeling
   - Other options:
-    - GEOL 5XX	Uncertainty in Earth Sciences
+    - GEOL 504	Uncertainty in Earth Sciences
     - MATH 530 	Statistical Methods I
     - EBGN 525	Business Analytics
+
+
+## FAQ
+- Are all the courses online, or are there in-person options?
+  - All courses are online and 'asynchronous', meaning there is no official time that the class meets. In other words, there are no live lecture periods - all the work is done at your own pace. However, there are structured times for students to be able to interact with faculty “live” via office hours and other means (e.g., Slack, Zoom).
+- How much time does each class take?
+  - Each course is 8 weeks long, with a time commitment of about 15 hours per week
+- How much time will this certificate take? 
+   - Ideally, one year (see below). However, the elective option may not be offered in the semester that you require. However, you may be able to take the elective concurrently with another course, itf approved by the professor(s) teaching the courses. 
+- Can I complete the certificate in two semesters? 
+   - Ideally, you can complete the certificate in one year, with the following schedule:
+    - Fall 1st online session (August - October)      DSCI 403
+    - Fall 2nd online session (October - December)    GEOL 557
+    - Spring 1st online session (January - March)     GEOL 558
+    - Spring 2nd online session (March - May)         Elective (if offered)
