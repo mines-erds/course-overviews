@@ -45,7 +45,7 @@ Data science is a vitally important skill, particularly when paired with deep do
    - Ideally, one year (see below). However, the elective option may not be offered in the semester that you require. However, you may be able to take the elective concurrently with another course, itf approved by the professor(s) teaching the courses. 
 - Can I complete the certificate in two semesters? 
    - Ideally, you can complete the certificate in one year, with the following schedule:
-      - Fall 1st online session (August - October)      DSCI 403
-      - Fall 2nd online session (October - December)    GEOL 557
-      - Spring 1st online session (January - March)     GEOL 558
-      - Spring 2nd online session (March - May)         Elective (if offered)
+      - Fall 1st online session (August - October) ----- DSCI 403
+      - Fall 2nd online session (October - December) --- GEOL 557
+      - Spring 1st online session (January - March) ---- GEOL 558
+      - Spring 2nd online session (March - May) -------- Elective (if offered)
