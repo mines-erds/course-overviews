@@ -30,9 +30,9 @@ Applicable fields of earth-science include:
   - week 6 stuff
 - 
 
-Schedule
-1. go find data and do stuff (remember 557?)
-1. peer review and ???????????
+## Schedule
+1. go find data and do stuff (557 refresher)
+1. Making a package, Github, QGIS integration, 
 1. APIs
 1. web scraping
 1. unsup ML
@@ -41,6 +41,8 @@ Schedule
 1. peer review and wrap up
 
 ---
+
+don't read below here for now - storage!
 
 ---
 
