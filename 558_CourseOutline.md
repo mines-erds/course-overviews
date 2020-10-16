@@ -21,22 +21,21 @@ Applicable fields of earth-science include:
 - Construct python code to retrieve earth-resource data using APIs (application programming interfaces) 
   - Week 3 macrostrat
   - Week 4 Enverus token
-- Understand web scraping algorithms for retrieving earth-resource data
-  - Week 3? web scraping? 
-   - web scraping of CO data (similar to API) and intro to browser-based scraper intro
+  - sub theme: understand web scraping algorithms for retrieving earth-resource data
+    - web scraping of CO data (similar to API) and intro to browser-based scraper intro
 - Develop and implement unsupervised machine-learning models
   - week 5 stuff
 - Develop and implement (i.e., test and train) supervised machine-learning models
   - week 6 stuff
-- 
+- Analyze and critique results of nachine-learing results for earth-resource data
 
 ## Schedule
 1. go find data and do stuff (557 refresher)
-1. Making a package, Github, QGIS integration, 
-1. APIs
-1. web scraping
+1. Understanding a package, pip/conda, environments, Github, functions (no copy-paste a long plotting function)
+1. APIs and web scraping
 1. unsup ML
 1. sup ML
+1. whiteboarding an ML project and critique a paper - does it pass the sniff test?
 1. revisit "go find data and do stuff" 
 1. peer review and wrap up
 
