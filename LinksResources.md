@@ -95,6 +95,7 @@ https://transform2020.sched.com
 - petropy https://github.com/toddheitmann/PetroPy
 
 ## Mining data
+- https://gis.colorado.gov/dnrviewer/Index.html?viewer=drms mining permit data
 - https://omf.readthedocs.io/en/latest/ open mining format
 
 ## Geochronology
