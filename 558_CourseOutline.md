@@ -44,11 +44,11 @@ After successful completion of the course, learners will be able to:
 - Week 8 python package creation for solo project 2
 
 #### Subthemes:
-- Installing python, pip/conda, environments
-  - Formative assessment: Week 2 exercises
+- Installing python, pip/conda, environments, IDEs
+  - Formative assessment: Week 2 exercises and scaffolded notebooks
 - Scripts vs. functions
   - Formative assessments:
-    - Week 2 exercises
+    - Week 2 quiz, discussion (when is it worth it to function?), scaffolded notebooks
     - Week 7 implementation of functions into your package
 
 ### 3. Construct python code to retrieve earth-resource data using APIs (application programming interfaces) and web-scraping algorithms
@@ -69,9 +69,10 @@ After successful completion of the course, learners will be able to:
 
 ### 6. Analyze and critique results of machine-learning results for earth-resource data
 **Summative assessments:**
-- Week 6 exercises ??
+- Week 6 report
+- Week 6 reflection
 
 #### Subtheme:
 - How fancy does your ML need to be?
   - Formative assessments:
-    - Week 6 discussion on supervised ML architectures, and if 80% is good enough
+    - Week 6 discussion on supervised ML architectures, and when 80% is good enough
