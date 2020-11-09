@@ -180,3 +180,8 @@ https://transform2020.sched.com
 - importing data https://towardsdatascience.com/importing-data-to-google-colab-the-clean-way-5ceef9e9e3c8
 
 ## Other useful stuff
+
+### Cheatsheets
+- all the things https://gto76.github.io/python-cheatsheet/
+- pandas https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf 
+- matplotlib https://github.com/matplotlib/cheatsheets 
