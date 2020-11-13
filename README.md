@@ -17,7 +17,7 @@ Data science is a vitally important skill, particularly when paired with deep do
 1. Elective (choose from one of the following):
   - Geospatial focus:
     - GEGN 575	Applications of Geographic Information Systems
-  - GEGN 579	Python Scripting for Geographic Information Systems
+    - GEGN 579	Python Scripting for Geographic Information Systems
   - Petroleum focus:
     - GPGN 519 	Advanced Formation Evaluation
     - GPGN 558 	Quantitative Seismic Interpretation
