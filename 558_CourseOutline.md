@@ -71,10 +71,10 @@ After successful completion of the course, learners will be able to:
 
 ## Weekly schedule
 1. go find data and do stuff (557 refresher)
-  - most time is spent on making a notebook/report
+     - most time is spent on making a notebook/report
 
 2. installing python, reading a package, pip/conda, environments, functions vs scripts
-  - most time is spent understanding python for realz
+     - most time is spent understanding python for realz
 
 3. APIs and web scraping (Enverus, macrostrat, COGCC)
   - most time is spent in notebooks doing stuff
