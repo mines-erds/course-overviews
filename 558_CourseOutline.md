@@ -70,28 +70,28 @@ After successful completion of the course, learners will be able to:
 ---
 
 ## Weekly schedule
-- 1. go find data and do stuff (557 refresher)
+1. go find data and do stuff (557 refresher)
   - most time is spent on making a notebook/report
 
-- 2. installing python, reading a package, pip/conda, environments, functions vs scripts
+2. installing python, reading a package, pip/conda, environments, functions vs scripts
   - most time is spent understanding python for realz
 
-- 3. APIs and web scraping (Enverus, macrostrat, COGCC)
+3. APIs and web scraping (Enverus, macrostrat, COGCC)
   - most time is spent in notebooks doing stuff
 
-- 4.  unsup ML
+4.  unsup ML
   - most time is spent in notebooks doing stuff
 
-- 5. sup ML
+5. sup ML
   - most time is spent in notebooks doing stuff
 
-- 6. whiteboarding an ML project and critique a paper - does it pass the sniff test?
+6. whiteboarding an ML project and critique a paper - does it pass the sniff test?
   - time is split between
      - ML critique
      - starting final solo project
 
-- 7. make a package with functions in order to revisit "go find data and do stuff"
+7. make a package with functions in order to revisit "go find data and do stuff"
   - most time is spent doing solo project
 
-- 8. peer review and wrap up
+8. peer review and wrap up
   - most time is spent peer review, fixing stuff, and final documentation
