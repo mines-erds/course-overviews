@@ -23,22 +23,30 @@ Prerequisites:
 ## Weekly schedule
 1. go find data and do stuff (557 refresher)
   - most time is spent on making a notebook/report
+
 1. installing python, reading a package, pip/conda, environments, functions vs scripts
   - most time is spent understanding python for realz
+
 1. APIs and web scraping (Enverus, macrostrat, COGCC)
   - most time is spent in notebooks doing stuff
+
 1. unsup ML
   - most time is spent in notebooks doing stuff
+
 1. sup ML
   - most time is spent in notebooks doing stuff
+
 1. whiteboarding an ML project and critique a paper - does it pass the sniff test?
   - time is split between
      - ML critique
      - starting final solo project
+
 1. make a package with functions in order to revisit "go find data and do stuff"
   - most time is spent doing solo project
+
 1. peer review and wrap up
   - most time is spent peer review, fixing stuff, and final documentation
+
 ---
 
 After successful completion of the course, learners will be able to:
