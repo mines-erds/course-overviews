@@ -22,7 +22,8 @@ Prerequisites:
 
 ## Weekly schedule
 1. go find data and do stuff (557 refresher)
-  - most time is spent on making a notebook/report
+ 
+ - most time is spent on making a notebook/report
 
 1. installing python, reading a package, pip/conda, environments, functions vs scripts
   - most time is spent understanding python for realz
