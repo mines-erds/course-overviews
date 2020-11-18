@@ -39,13 +39,16 @@ After successful completion of the course, learners will be able to:
 - Scripts vs. functions
   - Formative assessments:
     - Week 2 quiz, discussion (when is it worth it to function?), scaffolded notebooks
-    - Week 7 implementation of functions into your package
+    - Week 7 implementation of functions rather than scripts into your package
+  - Documentation
+    - Formative assessment: Week 7 documentation and demo creation for package
 
 ### 3. Construct python code to retrieve earth-resource data using APIs (application programming interfaces) and web-scraping algorithms
 **Summative assessments:**
 - Week 3 scaffolded notebooks testing knowledge of APIs and web-scraping
+- Week 3 crowd-sourced list of websites that can be scraped
 
-#### Subthemes:
+#### Subtheme:
 - Web-scraping ethics
   - Formative assessment: Week 3 reflection
 
@@ -86,9 +89,7 @@ After successful completion of the course, learners will be able to:
      - most time is spent in notebooks doing stuff
 
 6. whiteboarding an ML project and critique a paper - does it pass the sniff test?
-     - time is split between
-      - ML critique
-      - starting final solo project
+     - time is split between ML critique and starting final solo project
 
 7. make a package with functions in order to revisit "go find data and do stuff"
      - most time is spent doing solo project
