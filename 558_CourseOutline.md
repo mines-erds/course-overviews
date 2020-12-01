@@ -25,23 +25,27 @@ Prerequisites:
 After successful completion of the course, learners will be able to:
 
 ### 1. Synthesize and analyze earth-resource data from multiple sources using python and geoscience domain knowledge
-**Summative assessments:**
-- Week 1 documentation of solo project 1 showing data compilation, analysis, and geoscientific importance
+**Summative assessment:**
 - Week 7 documentation of solo project 2 showing data compilation, analysis, and geoscientific importance
+
+**Formative assessment:**
+- Week 1 reflection on 557 project (i.e., What went well, what would you change? What could be better given more skills?)
 
 ### 2. Create a python package for earth-resource data analysis
 **Summative assessments:**
 - Week 8 python package creation for solo project 2
 
 #### Subthemes:
-- Installing python, pip/conda, environments, IDEs
-  - Formative assessment: Week 2 exercises and scaffolded notebooks
+- Installing python, pip/conda, environments, IDEs, CLIs (command-line-interface)
+  - Formative assessment: Week 1 and 2 exercises and scaffolded notebooks
 - Scripts vs. functions
   - Formative assessments:
     - Week 2 quiz, discussion (when is it worth it to function?), scaffolded notebooks
     - Week 7 implementation of functions rather than scripts into your package
   - Documentation
     - Formative assessment: Week 7 documentation and demo creation for package
+- Object-oriented programming
+  - Formative assessment: Week 2 notebooks
 
 ### 3. Construct python code to retrieve earth-resource data using APIs (application programming interfaces) and web-scraping algorithms
 **Summative assessments:**
@@ -73,11 +77,11 @@ After successful completion of the course, learners will be able to:
 ---
 
 ## Weekly schedule
-1. go find data and do stuff (557 refresher)
-     - most time is spent on making a notebook/report
+1. installing python, pip/conda, environments, go find data and do stuff (557 refresher)
+     - time is split between python install and making a notebook/report
 
-2. installing python, reading a package, pip/conda, environments, functions vs scripts
-     - most time is spent understanding python install, pip, etc.
+2. reading a package, functions vs scripts, object-oriented programming
+     - most time is spent learning OOP, accessing methods, building functions, etc.
 
 3. APIs and web scraping (Enverus, macrostrat, COGCC)
      - most time is spent in notebooks doing stuff

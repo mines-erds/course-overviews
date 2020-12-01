@@ -8,6 +8,7 @@ This is a messy document, but has lots of good info. Will be updated irregularly
 - Think Python https://greenteapress.com/wp/think-python-2e/ and https://github.com/AllenDowney/ThinkPython2
 - Python for Everybody (remixed from Think Python) http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf and https://www.py4e.com
 - Automate the Boring Stuff https://automatetheboringstuff.com
+- http://learnpython.org/
 
 ### Closed source
 - Python for Data Analysis (google "python for data analysis book second edition pdf")
@@ -20,6 +21,7 @@ This is a messy document, but has lots of good info. Will be updated irregularly
 ## Geo-specific courses and datasets
 
 ### Geo-specific courses
+- list from Matt Hall https://hackmd.io/@kwinkunks/rkFQOc3KU/edit
 - Matt Bauer 1.5 hour video https://www.youtube.com/watch?v=GXMDJSRrKzw
 - Pyrcz demos https://github.com/GeostatsGuy/PythonNumericalDemos
 - Jesse Pisel https://github.com/jessepisel/energy_analytics/tree/master/Python%20Workflows
@@ -157,7 +159,7 @@ https://transform2020.sched.com
 # General
 - ESPIN course https://github.com/csdms/espin/tree/main/lessons/python
 - huge list of things https://github.com/amitness/learning
-
+- 170+ exercises in python https://link.springer.com/book/10.1007%2F978-3-319-14240-1
 ## theory and examples
 - nice thought and code examples https://medium.com/better-programming/9-skills-that-separate-a-beginner-from-an-intermediate-python-programmer-8bbde735c246
 
@@ -183,5 +185,37 @@ https://transform2020.sched.com
 
 ### Cheatsheets
 - all the things https://gto76.github.io/python-cheatsheet/
-- pandas https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf 
-- matplotlib https://github.com/matplotlib/cheatsheets 
+- pandas https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+- matplotlib https://github.com/matplotlib/cheatsheets
+
+# 558 links and Stuff
+- Excel ML https://www.aapg.org/career/training/in-person/short-courses/details/articleid/56388/excel-based-random-forest-machine-learning-algorithms-programming-and-application
+- online course template https://course.spacy.io/ and https://ines.github.io/course-starter-python/
+- deep learning interpretation paper https://arxiv.org/pdf/2004.14545.pdf and https://arxiv.org/pdf/1802.01933.pdf
+- mycarta
+  - ML quiz https://mycarta.wordpress.com/2019/04/26/machine-learning-quiz-part-1-of-3/
+  - bits and bobs series
+    - https://mycarta.wordpress.com/2019/06/17/geoscience-machine-learning-bits-and-bobs-introduction/
+    - https://mycarta.wordpress.com/2019/06/20/geoscience-machine-learning-bits-and-bobs-data-inspection/
+    - https://mycarta.wordpress.com/2020/09/19/geoscience-machine-learning-bits-and-bobs-data-completeness/
+  - ML methods five articles https://github.com/mycarta/predict/blob/master/README.md
+- Good info on ML from CSEG
+  - https://csegrecorder.com/editions/issue/2018-01
+  - https://csegrecorder.com/articles/view/a-gentle-introduction-to-machine-learning
+  - https://csegrecorder.com/articles/view/geochemical-facies-analysis-using-unsupervised-machine-learning
+- build a course in python https://ines.github.io/course-starter-python/
+- imputation https://github.com/FRI-Energy-Analytics/summer_fellows/blob/master/Feature%20Selection%20-%20Novel%20Viz/ImputationCheatSheet.md
+
+# to add to 557
+- https://www.firstpythonnotebook.org
+- colorbars
+  - end the rainbow stuff
+  - https://mycarta.wordpress.com/2020/09/17/busting-bad-colormaps-with-python-and-panel/
+- well profiles and planning https://well-profile.readthedocs.io/en/latest/
+- ML diagram https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
+- reservoir engineering stuff https://github.com/yohanesnuwara#-tutorials-and-courses
+
+# remote sensing
+- https://content.sciendo.com/downloadpdf/journals/pcr/50/2/article-p61.pdf
+- geospatial https://agilescientific.com/blog/x-lines-of-python-static-basemaps
+- remote sensing semi-automated classification https://fromgistors.blogspot.com/2020/11/scp-7-1-0.html
