@@ -205,6 +205,7 @@ https://transform2020.sched.com
   - https://csegrecorder.com/articles/view/geochemical-facies-analysis-using-unsupervised-machine-learning
 - build a course in python https://ines.github.io/course-starter-python/
 - imputation https://github.com/FRI-Energy-Analytics/summer_fellows/blob/master/Feature%20Selection%20-%20Novel%20Viz/ImputationCheatSheet.md
+- wtfs per minuite http://reviewthecode.blogspot.com/2016/01/wtf-per-minute-actual-measurement-for.html
 
 # to add to 557
 - https://www.firstpythonnotebook.org

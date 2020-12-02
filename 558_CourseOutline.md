@@ -26,14 +26,15 @@ After successful completion of the course, learners will be able to:
 
 ### 1. Synthesize and analyze earth-resource data from multiple sources using python and geoscience domain knowledge
 **Summative assessment:**
-- Week 7 documentation of solo project 2 showing data compilation, analysis, and geoscientific importance
+- Week 7 documentation of solo project showing data compilation, analysis, and geoscientific importance
 
 **Formative assessment:**
 - Week 1 reflection on 557 project (i.e., What went well, what would you change? What could be better given more skills?)
+- Week 6 concept map for solo project
 
 ### 2. Create a python package for earth-resource data analysis
 **Summative assessments:**
-- Week 8 python package creation for solo project 2
+- Week 4 python package creation for repetitive task
 
 #### Subthemes:
 - Installing python, pip/conda, environments, IDEs, CLIs (command-line-interface)
@@ -41,9 +42,9 @@ After successful completion of the course, learners will be able to:
 - Scripts vs. functions
   - Formative assessments:
     - Week 2 quiz, discussion (when is it worth it to function?), scaffolded notebooks
-    - Week 7 implementation of functions rather than scripts into your package
+    - Week 4 implementation of functions rather than scripts into your package
   - Documentation
-    - Formative assessment: Week 7 documentation and demo creation for package
+    - Formative assessment: Week 4 documentation and demo creation for package
 - Object-oriented programming
   - Formative assessment: Week 2 notebooks
 
@@ -55,10 +56,12 @@ After successful completion of the course, learners will be able to:
 #### Subtheme:
 - Web-scraping ethics
   - Formative assessment: Week 3 reflection
+  - What websites can be scraped?
+    - Formative assessment: Week 3 live meeting discussion of website design for scraping
 
 ### 4. Develop and implement unsupervised machine-learning models for earth-resource data
 **Summative assessments:**
-- Week 4 notebooks on unsupervised ML techniques
+- Week 4 notebooks on unsupervised ML techniques (using XRF data)
 
 ### 5. Develop and implement (i.e., test-and-train) supervised machine-learning models for earth-resource data
 **Summative assessments:**
@@ -77,26 +80,63 @@ After successful completion of the course, learners will be able to:
 ---
 
 ## Weekly schedule
-1. installing python, pip/conda, environments, go find data and do stuff (557 refresher)
+
+notes - group project makes a package with documentation and demo notebook, solo project gets data and does ML
+
+1. installing python, pip/conda, environments, reflect on 557 project
      - time is split between python install and making a notebook/report
+     - notes
+      - command line cheat sheet
+      - only explain environments
 
-2. reading a package, functions vs scripts, object-oriented programming
+2. reading a package, functions vs scripts, object-oriented programming (class def), learning to be self-sufficient
      - most time is spent learning OOP, accessing methods, building functions, etc.
+     - notes
+      - packages that dont have documentation - how to read them?
+      - how to write clean, commented code (Uncle Bob and 'black') https://youtu.be/7EmboKQH8lM
+      - stack overflow should be your best friend!
+      - here is how to make and deploy a package on your machine (not on pypi)
+      - here is how to download a github package and install it on your machine
+      - importance of open-source, and support open-source with code and maybe $$
 
-3. APIs and web scraping (Enverus, macrostrat, COGCC)
+3. APIs and web scraping (Enverus, macrostrat, EIA, COGCC)
      - most time is spent in notebooks doing stuff
+     - notes
+      - dont write your own web scraper, but understand basics
+      - requests, selenium, direct API (EIA), token (Enverus)
+      - live discussion - using html inspect element, etc.
+      - ethics: make people check ToS for their website they want
 
 4.  unsup ML
      - most time is spent in notebooks doing stuff
+     - XRF from C. Bone thesis, Thomas' Lewis stuff, Cankut, other theses? Could also use https://mrdata.usgs.gov/geochem/about.php or https://www.geochron.org/gettingdata
+     - notes
+      - PCA, MDS, k-means, DBSCAN
+      - discuss multi-dimensional data and how to reduce to a 2d plot (i.e., what are the axes on a PCA plot)
+      - Making a package (group project)
+        - take a repetitive task and create a function or class or package for it
+        - for example, import data from a folder structure, or wrap an API for nightly updates
 
 5. sup ML
      - most time is spent in notebooks doing stuff
+     - data to use: Kansas dataset, Fryer and Jobe data, pulse neutron logs,
+     - notes
+      - saving model as pickle
+      - transfer learning (pre-trained model, etc)
 
-6. whiteboarding an ML project and critique a paper - does it pass the sniff test?
-     - time is split between ML critique and starting final solo project
+6. ML planning/whiteboarding, ML critique, and Start solo project
+     - time is split between ML critique (does it pass the sniff test?) and starting final solo project (pulling data, concept map of final project)
+     - notes
+      - when does it make sense to talk to a real data scientist?
+      - when is it worth it to use AWS vs your own machine
+      - what models to use depending on data you have (sci-kit learn website)
 
-7. make a package with functions in order to revisit "go find data and do stuff"
+7. Solo project work
      - most time is spent doing solo project
+     - notes
+      - could do a half-way update with peer review
 
 8. peer review and wrap up
      - most time is spent peer review, fixing stuff, and final documentation
+     - notes
+      - collect data and packages and notebooks for open-source
