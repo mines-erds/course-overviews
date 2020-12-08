@@ -30,11 +30,12 @@ After successful completion of the course, learners will be able to:
 
 **Formative assessment:**
 - Week 1 reflection on 557 project (i.e., What went well, what would you change? What could be better given more skills?)
+- Week 4 discussion about interpreting clusters (how many, what do theyn mean, etc.)
 - Week 6 concept map for solo project
 
 ### 2. Create a python package for earth-resource data analysis
 **Summative assessments:**
-- Week 4 python package creation for repetitive task
+- Week 4 python package creation for automating a repetitive task (group project)
 
 #### Subthemes:
 - Installing python, pip/conda, environments, IDEs, CLIs (command-line-interface)
@@ -72,10 +73,11 @@ After successful completion of the course, learners will be able to:
 - Week 6 essay on reproducibility
 - Week 6 find good and bad ML examples to make a crowd-sourced list
 
-#### Subtheme:
+#### Subthemes:
 - How fancy does your ML need to be?
-  - Formative assessments:
-    - Week 6 discussion on supervised ML architectures, and when 80% is good enough
+  - Formative assessment: Week 6 discussion on supervised ML architectures, and when 80% is good enough
+- Machine-learning ethics
+  - Formative assessment: Week 5 discussion on ML ethics and when it goes wrong (e.g., facial recognition)
 
 ---
 
@@ -86,57 +88,57 @@ notes - group project makes a package with documentation and demo notebook, solo
 1. installing python, pip/conda, environments, reflect on 557 project
      - time is split between python install and making a notebook/report
      - notes
-      - command line cheat sheet
-      - only explain environments
+        - command line cheat sheet
+        - only explain environments
 
 2. reading a package, functions vs scripts, object-oriented programming (class def), learning to be self-sufficient
      - most time is spent learning OOP, accessing methods, building functions, etc.
      - notes
-      - packages that dont have documentation - how to read them?
-      - how to write clean, commented code (Uncle Bob and 'black') https://youtu.be/7EmboKQH8lM
-      - stack overflow should be your best friend!
-      - here is how to make and deploy a package on your machine (not on pypi)
-      - here is how to download a github package and install it on your machine
-      - importance of open-source, and support open-source with code and maybe $$
+        - packages that dont have documentation - how to read them?
+        - how to write clean, commented code (Uncle Bob and 'black') https://youtu.be/7EmboKQH8lM
+        - stack overflow should be your best friend!
+        - here is how to make and deploy a package on your machine (not on pypi)
+        - here is how to download a github package and install it on your machine
+        - importance of open-source, and support open-source with code and maybe $$
 
 3. APIs and web scraping (Enverus, macrostrat, EIA, COGCC)
      - most time is spent in notebooks doing stuff
      - notes
-      - dont write your own web scraper, but understand basics
-      - requests, selenium, direct API (EIA), token (Enverus)
-      - live discussion - using html inspect element, etc.
-      - ethics: make people check ToS for their website they want
+        - dont write your own web scraper, but understand basics
+        - requests, selenium, direct API (EIA), token (Enverus)
+        - live discussion - using html inspect element, etc.
+        - ethics: make people check ToS for their website they want
 
 4.  unsup ML
      - most time is spent in notebooks doing stuff
      - XRF from C. Bone thesis, Thomas' Lewis stuff, Cankut, other theses? Could also use https://mrdata.usgs.gov/geochem/about.php or https://www.geochron.org/gettingdata
      - notes
-      - PCA, MDS, k-means, DBSCAN
-      - discuss multi-dimensional data and how to reduce to a 2d plot (i.e., what are the axes on a PCA plot)
-      - Making a package (group project)
-        - take a repetitive task and create a function or class or package for it
-        - for example, import data from a folder structure, or wrap an API for nightly updates
+        - PCA, MDS, k-means, DBSCAN
+        - discuss multi-dimensional data and how to reduce to a 2d plot (i.e., what are the axes on a PCA plot)
+        - Making a package (group project)
+          - take a repetitive task and create a function or class or package for it
+          - for example, import data from a folder structure, or wrap an API for nightly updates
 
 5. sup ML
      - most time is spent in notebooks doing stuff
      - data to use: Kansas dataset, Fryer and Jobe data, pulse neutron logs,
      - notes
-      - saving model as pickle
-      - transfer learning (pre-trained model, etc)
+        - saving model as pickle
+        - transfer learning (pre-trained model, etc)
 
 6. ML planning/whiteboarding, ML critique, and Start solo project
      - time is split between ML critique (does it pass the sniff test?) and starting final solo project (pulling data, concept map of final project)
      - notes
-      - when does it make sense to talk to a real data scientist?
-      - when is it worth it to use AWS vs your own machine
-      - what models to use depending on data you have (sci-kit learn website)
+        - when does it make sense to talk to a real data scientist?
+        - when is it worth it to use AWS vs your own machine
+        - what models to use depending on data you have (sci-kit learn website)
 
 7. Solo project work
      - most time is spent doing solo project
      - notes
-      - could do a half-way update with peer review
+        - could do a half-way update with peer review
 
 8. peer review and wrap up
      - most time is spent peer review, fixing stuff, and final documentation
      - notes
-      - collect data and packages and notebooks for open-source
+        - collect data and packages and notebooks for open-source
