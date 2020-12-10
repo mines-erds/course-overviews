@@ -215,8 +215,12 @@ https://transform2020.sched.com
 - well profiles and planning https://well-profile.readthedocs.io/en/latest/
 - ML diagram https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
 - reservoir engineering stuff https://github.com/yohanesnuwara#-tutorials-and-courses
+- numpy tutuorial https://github.com/rougier/numpy-tutorial
+- welly data without local files https://observablehq.com/@justingosses/a-notebook-using-wellio-js-wellioviz-js-for-quick-looks-of-la
 
 # remote sensing
 - https://content.sciendo.com/downloadpdf/journals/pcr/50/2/article-p61.pdf
 - geospatial https://agilescientific.com/blog/x-lines-of-python-static-basemaps
 - remote sensing semi-automated classification https://fromgistors.blogspot.com/2020/11/scp-7-1-0.html
+- pyGMT https://github.com/GenericMappingTools/pygmt
+- blog https://joemorrison.medium.com
