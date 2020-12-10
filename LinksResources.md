@@ -217,6 +217,7 @@ https://transform2020.sched.com
 - reservoir engineering stuff https://github.com/yohanesnuwara#-tutorials-and-courses
 - numpy tutuorial https://github.com/rougier/numpy-tutorial
 - welly data without local files https://observablehq.com/@justingosses/a-notebook-using-wellio-js-wellioviz-js-for-quick-looks-of-la
+- https://xkcd.com/1205/
 
 # remote sensing
 - https://content.sciendo.com/downloadpdf/journals/pcr/50/2/article-p61.pdf
