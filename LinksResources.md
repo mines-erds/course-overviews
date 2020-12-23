@@ -33,6 +33,10 @@ This is a messy document, but has lots of good info. Will be updated irregularly
   - Colorado https://github.com/jessepisel/cogcc_scraping_python
 - CSDMS portal https://csdms.colorado.edu/wiki/Labs_portal
 
+### Standards
+- omf
+- LOTS OF stuff in here, could make a cool project http://www.cgi-iugs.org/misc/standards.html
+
 ### Datasets
 - Wyoming well logs, tops, etc https://sites.google.com/a/wyo.gov/oil-and-gas/prb-study
 - DZ data from Magallanes Basin
@@ -206,6 +210,8 @@ https://transform2020.sched.com
 - build a course in python https://ines.github.io/course-starter-python/
 - imputation https://github.com/FRI-Energy-Analytics/summer_fellows/blob/master/Feature%20Selection%20-%20Novel%20Viz/ImputationCheatSheet.md
 - wtfs per minuite http://reviewthecode.blogspot.com/2016/01/wtf-per-minute-actual-measurement-for.html
+- Smell https://agilescientific.com/blog/2020/12/15/does-your-machine-learning-smell
+- CNN viz - https://www.cs.ryerson.ca/~aharley/vis/conv/flat.html
 
 # to add to 557
 - https://www.firstpythonnotebook.org
@@ -216,9 +222,11 @@ https://transform2020.sched.com
 - ML diagram https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
 - reservoir engineering stuff https://github.com/yohanesnuwara#-tutorials-and-courses
 - numpy tutuorial https://github.com/rougier/numpy-tutorial
+- numpy 100 https://github.com/rougier/numpy-100
 - welly data without local files https://observablehq.com/@justingosses/a-notebook-using-wellio-js-wellioviz-js-for-quick-looks-of-la
 - https://xkcd.com/1205/
 - https://github.com/jonnymaserati/welleng
+- free books https://www.pythonkitchen.com/legally-free-python-books-list/
 
 # remote sensing
 - https://content.sciendo.com/downloadpdf/journals/pcr/50/2/article-p61.pdf
