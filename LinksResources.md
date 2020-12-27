@@ -87,6 +87,7 @@ https://transform2020.sched.com
   - BGS core repacking and photos https://youtu.be/HdhrOJGpy2c
   - article in Nature https://www.nature.com/articles/d41586-020-01366-w
     - popular news article https://www.washingtonpost.com/science/rock-samples-arent-archived-or-shared-they-need-to-be-geologists-warn-pointing-to-a-reproducibility-crisis/2020/05/15/aa858e06-953c-11ea-91d7-cf4423d47683_story.html
+- https://mirageoscience.com/automated-lithology-relogging
 
 ## Grain size
 - SediNet
@@ -164,6 +165,7 @@ https://transform2020.sched.com
 - ESPIN course https://github.com/csdms/espin/tree/main/lessons/python
 - huge list of things https://github.com/amitness/learning
 - 170+ exercises in python https://link.springer.com/book/10.1007%2F978-3-319-14240-1
+
 ## theory and examples
 - nice thought and code examples https://medium.com/better-programming/9-skills-that-separate-a-beginner-from-an-intermediate-python-programmer-8bbde735c246
 
@@ -209,7 +211,7 @@ https://transform2020.sched.com
   - https://csegrecorder.com/articles/view/geochemical-facies-analysis-using-unsupervised-machine-learning
 - build a course in python https://ines.github.io/course-starter-python/
 - imputation https://github.com/FRI-Energy-Analytics/summer_fellows/blob/master/Feature%20Selection%20-%20Novel%20Viz/ImputationCheatSheet.md
-- wtfs per minuite http://reviewthecode.blogspot.com/2016/01/wtf-per-minute-actual-measurement-for.html
+- wtfs per minute http://reviewthecode.blogspot.com/2016/01/wtf-per-minute-actual-measurement-for.html
 - Smell https://agilescientific.com/blog/2020/12/15/does-your-machine-learning-smell
 - CNN viz - https://www.cs.ryerson.ca/~aharley/vis/conv/flat.html
 

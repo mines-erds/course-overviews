@@ -24,13 +24,13 @@ Prerequisites:
 
 After successful completion of the course, learners will be able to:
 
-### 1. Synthesize and analyze earth-resource data from multiple sources using python and geoscience domain knowledge
+### 1. Synthesize and analyze earth-resource data from multiple sources using python and geoscience domain knowledge, and effectively communicate your results
 **Summative assessment:**
 - Week 7 documentation of solo project showing data compilation, analysis, and geoscientific importance
 
 **Formative assessment:**
 - Week 1 reflection on 557 project (i.e., What went well, what would you change? What could be better given more skills?)
-- Week 4 discussion about interpreting clusters (how many, what do theyn mean, etc.)
+- Week 4 discussion about interpreting clusters (how many, what do they mean, etc.)
 - Week 6 concept map for solo project
 
 ### 2. Create a python package for earth-resource data analysis
