@@ -68,7 +68,7 @@ After successful completion of the course, learners will be able to:
 **Summative assessments:**
 - Week 5 notebooks on supervised ML techniques
 
-### 6. Analyze and critique results of machine-learning results for earth-resource data
+### 6. Analyze and critique machine-learning results for earth-resource data
 **Summative assessments:**
 - Week 6 essay on reproducibility
 - Week 6 find good and bad ML examples to make a crowd-sourced list
