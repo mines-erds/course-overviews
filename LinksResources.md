@@ -144,6 +144,9 @@ https://transform2020.sched.com
 - hydrology and climatology data for watershed analysis https://hydrodata.readthedocs.io/en/latest/
 - USGS data, with notebooks https://twitter.com/hydrobeth/status/1263961044680138753
 
+## Geochem, oceanography, paleoclimate
+- a few datasets and notebooks here https://github.com/danielbabin
+
 ## Earthquakes
 - nice time series data examples in obspy https://github.com/obspy/obspy/wiki
 - CNN paper using obspy https://eartharxiv.org/nbmzt
