@@ -36,6 +36,7 @@ This is a messy document, but has lots of good info. Will be updated irregularly
 ### Standards
 - omf
 - LOTS OF stuff in here, could make a cool project http://www.cgi-iugs.org/misc/standards.html
+- pangeo https://pangeo.io
 
 ### Datasets
 - Wyoming well logs, tops, etc https://sites.google.com/a/wyo.gov/oil-and-gas/prb-study
@@ -58,6 +59,7 @@ This is a messy document, but has lots of good info. Will be updated irregularly
 https://transform2020.sched.com
 
 # Applications
+- lots of stuff based on 'xarray' http://xarray.pydata.org/en/latest/related-projects.html#related-projects
 
 ## Well-log and seismic data
 - well data
@@ -143,6 +145,7 @@ https://transform2020.sched.com
 ## Water resources
 - hydrology and climatology data for watershed analysis https://hydrodata.readthedocs.io/en/latest/
 - USGS data, with notebooks https://twitter.com/hydrobeth/status/1263961044680138753
+- water model, rivers, weathwer stuff here http://gallery.pangeo.io/repos/rsignell-usgs/esip-gallery/
 
 ## Earthquakes
 - nice time series data examples in obspy https://github.com/obspy/obspy/wiki
@@ -193,6 +196,7 @@ https://transform2020.sched.com
 - all the things https://gto76.github.io/python-cheatsheet/
 - pandas https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
 - matplotlib https://github.com/matplotlib/cheatsheets
+- well log https://www.linkedin.com/posts/imene-ferhat_basic-log-interpretation-chart-ugcPost-6747635214073290752-TL0e/
 
 # 558 links and Stuff
 - Excel ML https://www.aapg.org/career/training/in-person/short-courses/details/articleid/56388/excel-based-random-forest-machine-learning-algorithms-programming-and-application
@@ -236,3 +240,5 @@ https://transform2020.sched.com
 - remote sensing semi-automated classification https://fromgistors.blogspot.com/2020/11/scp-7-1-0.html
 - pyGMT https://github.com/GenericMappingTools/pygmt
 - blog https://joemorrison.medium.com
+- make GIF from sat imagery https://geemap.org/notebooks/52_cartoee_gif/
+- temporal volcano data - see thread on twitter https://twitter.com/ragnarheidar/status/1345398250661150729?s=11
