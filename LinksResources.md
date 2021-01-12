@@ -236,6 +236,7 @@ https://transform2020.sched.com
 - https://xkcd.com/1205/
 - https://github.com/jonnymaserati/welleng
 - free books https://www.pythonkitchen.com/legally-free-python-books-list/
+- viz of steronet https://agilescientific.com/blog/2021/01/12/x-lines-of-python-stereonets 
 
 # remote sensing
 - https://content.sciendo.com/downloadpdf/journals/pcr/50/2/article-p61.pdf
