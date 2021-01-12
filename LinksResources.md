@@ -147,6 +147,9 @@ https://transform2020.sched.com
 - USGS data, with notebooks https://twitter.com/hydrobeth/status/1263961044680138753
 - water model, rivers, weathwer stuff here http://gallery.pangeo.io/repos/rsignell-usgs/esip-gallery/
 
+## Geochem, oceanography, paleoclimate
+- a few datasets and notebooks here https://github.com/danielbabin
+
 ## Earthquakes
 - nice time series data examples in obspy https://github.com/obspy/obspy/wiki
 - CNN paper using obspy https://eartharxiv.org/nbmzt
