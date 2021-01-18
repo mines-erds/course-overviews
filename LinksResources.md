@@ -40,8 +40,9 @@ This is a messy document, but has lots of good info. Will be updated irregularly
 
 ### Datasets
 - Wyoming well logs, tops, etc https://sites.google.com/a/wyo.gov/oil-and-gas/prb-study
-- DZ data from Magallanes Basin
-  - https://doi.org/10.1130/B31757.1 - see "Supplemental Information 2" down at the bottom. 2 tabs in that xls are high throughput and low throughput ages from Tres Pasos
+- DZ data from Magallanes Basin https://doi.org/10.1130/B31757.1 - see "Supplemental Information 2" down at the bottom. 2 tabs in that xls are high throughput and low throughput ages from Tres Pasos that could be compared. Warning, messy data!
+- USGS core data https://my.usgs.gov/crcwc/
+  -  also the full csv for cores (similar dataset can be created for cuttings) https://docs.google.com/spreadsheets/d/1fX8ZyF2Pmx7apcBftvWVVOUlPTCRl014cIASIowAVNE/edit?usp=sharing
 - LOTS of stuff in here  https://github.com/yohanesnuwara/open-geoscience-repository
 - LOTS of stuff in here too https://dataunderground.org
   - e.g., - macrostrat api https://dataunderground.org/dataset/macrostrat-geologic-maps/resource/e412b05e-a45e-4809-82ab-5095ac383ddc
