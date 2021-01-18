@@ -42,13 +42,23 @@ This is a messy document, but has lots of good info. Will be updated irregularly
 - Wyoming well logs, tops, etc https://sites.google.com/a/wyo.gov/oil-and-gas/prb-study
 - DZ data from Magallanes Basin
   - https://doi.org/10.1130/B31757.1 - see "Supplemental Information 2" down at the bottom. 2 tabs in that xls are high throughput and low throughput ages from Tres Pasos
-- Pyrcz datasets https://github.com/GeostatsGuy/GeoDataSets
-- https://github.com/yohanesnuwara/open-geoscience-repository
-- https://dataunderground.org
+- LOTS of stuff in here  https://github.com/yohanesnuwara/open-geoscience-repository
+- LOTS of stuff in here too https://dataunderground.org
+  - e.g., - macrostrat api https://dataunderground.org/dataset/macrostrat-geologic-maps/resource/e412b05e-a45e-4809-82ab-5095ac383ddc
+- LOTS of GOM data here (wells, production, etc.) https://www.data.boem.gov/
 - https://hackmd.io/iAyNR_TOSguKnlnkrY2Auw
 - Netherlands data https://nlog.nl/en/data
+- earthquakes https://earthquake.usgs.gov/earthquakes/search/
+- volcanoes https://volcano.si.edu/list_volcano_holocene.cfm
+- water and snow
+  - Water For the Nation https://waterdata.usgs.gov/nwis/rt and API https://help.waterdata.usgs.gov/faq/automated-retrievals
+  - SNOTEL https://www.wcc.nrcs.usda.gov/snow/
 - Earth Engine Data on deltas, waves, and tides https://jhnienhuis.users.earthengine.app
 - oxygen isotope data https://doi.pangaea.de/10.1594/PANGAEA.917503 and the associated paper https://science.sciencemag.org/content/369/6509/1383
+- geothermal data 1 http://repository.stategeothermaldata.org/repository/browse/
+- geothermal data 2 http://geothermal.smu.edu/gtda/
+- paleobiology https://paleobiodb.org/#/
+- space / exoplanets https://exoplanetarchive.ipac.caltech.edu/docs/data.html
 - Kaggle
   - USGS earthquakes https://www.kaggle.com/usgs/earthquake-database
   - Volcanic eruptions https://www.kaggle.com/smithsonian/volcanic-eruptions
@@ -102,6 +112,7 @@ https://transform2020.sched.com
 - geostatspy from Michael Pyrcz
 - pypetrophysics https://github.com/Japhiolite/pypetrophysics
 - petropy https://github.com/toddheitmann/PetroPy
+- petrophysics notebooks https://github.com/andymcdgeo/Petrophysics-Python-Series
 
 ## Mining data
 - https://gis.colorado.gov/dnrviewer/Index.html?viewer=drms mining permit data
@@ -236,7 +247,11 @@ https://transform2020.sched.com
 - https://xkcd.com/1205/
 - https://github.com/jonnymaserati/welleng
 - free books https://www.pythonkitchen.com/legally-free-python-books-list/
-- viz of steronet https://agilescientific.com/blog/2021/01/12/x-lines-of-python-stereonets 
+- viz of steronet https://agilescientific.com/blog/2021/01/12/x-lines-of-python-stereonets
+- add to intro https://blog.jetbrains.com/datalore/2020/12/17/we-downloaded-10-000-000-jupyter-notebooks-from-github-this-is-what-we-learned/
+- 2D interp https://stackoverflow.com/questions/37872171/how-can-i-perform-two-dimensional-interpolation-using-scipy/37872172#37872172
+- pandas merging https://stackoverflow.com/questions/53645882/pandas-merging-101/53645883#53645883
+- petrophysics notebooks https://github.com/andymcdgeo/Petrophysics-Python-Series
 
 # remote sensing
 - https://content.sciendo.com/downloadpdf/journals/pcr/50/2/article-p61.pdf
