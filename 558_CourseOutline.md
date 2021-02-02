@@ -66,7 +66,7 @@ After successful completion of the course, learners will be able to:
 
 ### 5. Develop and implement (i.e., test-and-train) supervised machine-learning models for earth-resource data
 **Summative assessments:**
-- Week 5 notebook on supervised ML techniques
+- Week 5 notebook (Supervised ML assignment)
 
 ### 6. Analyze and critique machine-learning results for earth-resource data
 **Summative assessments:**
@@ -77,7 +77,7 @@ After successful completion of the course, learners will be able to:
 
 #### Subthemes:
 - Reproducibiilty
-- Quality application of ML
+- Quality application of ML (well-log facies as a case study)
 - Does your ML stink?
   - Formative assessment: Week 6 quiz on ML stink article
 - Week 4 unsession about state of the art data analysis in earth-resource assessment
