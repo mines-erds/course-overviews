@@ -26,12 +26,12 @@ After successful completion of the course, learners will be able to:
 
 ### 1. Synthesize and analyze earth-resource data from multiple sources using python and geoscience domain knowledge, and effectively communicate your results
 **Summative assessment:**
-- Week 7 documentation of solo project showing data compilation, analysis, and geoscientific importance
+- Week 8 documentation and presentation of solo project showing data compilation, analysis, and geoscientific importance
 
 **Formative assessment:**
 - Week 1 reflection on 557 project (i.e., What went well, what would you change? What could be better given more skills?)
-- Week 4 discussion about interpreting clusters (how many, what do they mean, etc.)
-- Week 6 concept map for solo project
+- Week 1 concept map for final solo project 
+- Week 5 synchronous discussion of jamboard
 
 ### 2. Create a python package for earth-resource data analysis
 **Summative assessments:**
@@ -39,45 +39,46 @@ After successful completion of the course, learners will be able to:
 
 #### Subthemes:
 - Installing python, pip/conda, environments, IDEs, CLIs (command-line-interface)
-  - Formative assessment: Week 1 and 2 exercises and scaffolded notebooks
-- Scripts vs. functions
+  - Formative assessment: Week 1 and 2 exercises
+- Scripts vs. functions and object-oriented programming
   - Formative assessments:
+    - Week 2 create a function
     - Week 2 quiz, discussion (when is it worth it to function?), scaffolded notebooks
-    - Week 4 implementation of functions rather than scripts into your package
   - Documentation
-    - Formative assessment: Week 4 documentation and demo creation for package
-- Object-oriented programming
-  - Formative assessment: Week 2 notebooks
+    - Formative assessment: Week 2 package reading quiz
 
 ### 3. Construct python code to retrieve earth-resource data using APIs (application programming interfaces) and web-scraping algorithms
 **Summative assessments:**
-- Week 3 scaffolded notebooks testing knowledge of APIs and web-scraping
-- Week 3 crowd-sourced list of websites that can be scraped
+- Week 3 dataset creation that tests knowledge of APIs and web-scraping
 
 #### Subtheme:
 - Web-scraping ethics
-  - Formative assessment: Week 3 reflection
+  - Formative assessment: Week 3 quiz on ethics
   - What websites can be scraped?
-    - Formative assessment: Week 3 live meeting discussion of website design for scraping
+    - Formative assessment: Week 3 crowd-sourced list of websites that can be scraped
 
 ### 4. Develop and implement unsupervised machine-learning models for earth-resource data
 **Summative assessments:**
-- Week 4 notebooks on unsupervised ML techniques (using XRF data)
+- Week 4 notebook on unsupervised ML techniques (cluster family)
 
 ### 5. Develop and implement (i.e., test-and-train) supervised machine-learning models for earth-resource data
 **Summative assessments:**
-- Week 5 notebooks on supervised ML techniques
+- Week 5 notebook on supervised ML techniques
 
 ### 6. Analyze and critique machine-learning results for earth-resource data
 **Summative assessments:**
-- Week 6 essay on reproducibility
-- Week 6 find good and bad ML examples to make a crowd-sourced list
+- Week 6 test on best practices (including mutliple choice and an essay)
+
+**Formative assessments:**
+- Week 6 find good and bad ML examples (with a short essay) to make a crowd-sourced list
 
 #### Subthemes:
-- How fancy does your ML need to be?
-  - Formative assessment: Week 6 discussion on supervised ML architectures, and when 80% is good enough
-- Machine-learning ethics
-  - Formative assessment: Week 5 discussion on ML ethics and when it goes wrong (e.g., facial recognition)
+- Reproducibiilty
+- Quality application of ML
+- Does your ML stink?
+  - Formative assessment: Week 6 quiz on ML stink article
+- Week 4 unsession about state of the art data analysis in earth-resource assessment
+- Week 6 reflection from the Week 4 unsession results
 
 ---
 
