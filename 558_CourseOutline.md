@@ -52,10 +52,13 @@ After successful completion of the course, learners will be able to:
 - Week 3 dataset creation that tests knowledge of APIs and web-scraping
 
 #### Subtheme:
+- APIs and requests
+  - Formative assessment: Week 3 quizzes on APIs, requests, and selenium
 - Web-scraping ethics
   - Formative assessment: Week 3 quiz on ethics
-  - What websites can be scraped?
-    - Formative assessment: Week 3 crowd-sourced list of websites that can be scraped
+- What websites can be scraped? 
+  - Formative assessment: Week 3 crowd-sourced list of websites that can be scraped
+
 
 ### 4. Develop and implement unsupervised machine-learning models for earth-resource data
 **Summative assessments:**
