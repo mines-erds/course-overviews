@@ -118,7 +118,7 @@ https://transform2020.sched.com
 ## Mining data
 - https://gis.colorado.gov/dnrviewer/Index.html?viewer=drms mining permit data
 - https://omf.readthedocs.io/en/latest/ open mining format
-
+- miningpy https://miningpy.readthedocs.io/en/latest/index.html
 ## Geochronology
 - detritalpy https://onlinelibrary.wiley.com/doi/full/10.1002/dep2.45
 - mixture modeling code
@@ -158,6 +158,7 @@ https://transform2020.sched.com
 - hydrology and climatology data for watershed analysis https://hydrodata.readthedocs.io/en/latest/
 - USGS data, with notebooks https://twitter.com/hydrobeth/status/1263961044680138753
 - water model, rivers, weathwer stuff here http://gallery.pangeo.io/repos/rsignell-usgs/esip-gallery/
+- Lake level dataset and API https://github.com/ESIPFed/LakePy
 
 ## Geochem, oceanography, paleoclimate
 - a few datasets and notebooks here https://github.com/danielbabin
@@ -253,6 +254,8 @@ https://transform2020.sched.com
 - 2D interp https://stackoverflow.com/questions/37872171/how-can-i-perform-two-dimensional-interpolation-using-scipy/37872172#37872172
 - pandas merging https://stackoverflow.com/questions/53645882/pandas-merging-101/53645883#53645883
 - petrophysics notebooks https://github.com/andymcdgeo/Petrophysics-Python-Series
+- dealing with text https://towardsdatascience.com/cleaning-text-data-with-python-a7ded0f5d799
+- uncertainty https://github.com/RichardScottOZ/Geoscience-Data-Quality-for-Machine-Learning
 
 # remote sensing
 - https://content.sciendo.com/downloadpdf/journals/pcr/50/2/article-p61.pdf
