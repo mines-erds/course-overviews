@@ -101,6 +101,7 @@ https://transform2020.sched.com
   - article in Nature https://www.nature.com/articles/d41586-020-01366-w
     - popular news article https://www.washingtonpost.com/science/rock-samples-arent-archived-or-shared-they-need-to-be-geologists-warn-pointing-to-a-reproducibility-crisis/2020/05/15/aa858e06-953c-11ea-91d7-cf4423d47683_story.html
 - https://mirageoscience.com/automated-lithology-relogging
+- mining drillhole descriptions NLP https://github.com/Loop3D/dh2loop
 
 ## Grain size
 - SediNet
@@ -119,6 +120,8 @@ https://transform2020.sched.com
 - https://gis.colorado.gov/dnrviewer/Index.html?viewer=drms mining permit data
 - https://omf.readthedocs.io/en/latest/ open mining format
 - miningpy https://miningpy.readthedocs.io/en/latest/index.html
+- mining drillhole descriptions NLP https://github.com/Loop3D/dh2loop
+
 ## Geochronology
 - detritalpy https://onlinelibrary.wiley.com/doi/full/10.1002/dep2.45
 - mixture modeling code
