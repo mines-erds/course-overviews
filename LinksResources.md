@@ -90,6 +90,7 @@ https://transform2020.sched.com
   - https://www.pygimli.org Geophysical Inversion Modeling Library
 - other I/O
   - segy data and open-d-tect, petrel, etc. https://github.com/agile-geoscience/gio/tree/master/notebooks
+- scrape texas well logs https://hallau.world/post/lftp-all-the-things/
 
 ## Core data
 - corebreakout https://github.com/rgmyr/corebreakout
@@ -187,6 +188,7 @@ https://transform2020.sched.com
 - ESPIN course https://github.com/csdms/espin/tree/main/lessons/python
 - huge list of things https://github.com/amitness/learning
 - 170+ exercises in python https://link.springer.com/book/10.1007%2F978-3-319-14240-1
+- big course list and roadmap https://github.com/therealsreehari/Learn-Datascience-For-Free
 
 ## theory and examples
 - nice thought and code examples https://medium.com/better-programming/9-skills-that-separate-a-beginner-from-an-intermediate-python-programmer-8bbde735c246
@@ -240,9 +242,10 @@ https://transform2020.sched.com
 
 # to add to 557
 - https://www.firstpythonnotebook.org
-- colorbars
+- colorbars and viz
   - end the rainbow stuff
   - https://mycarta.wordpress.com/2020/09/17/busting-bad-colormaps-with-python-and-panel/
+  - https://policyviz.com/2021/02/08/five-charts-youve-never-used-but-should/
 - well profiles and planning https://well-profile.readthedocs.io/en/latest/
 - ML diagram https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
 - reservoir engineering stuff https://github.com/yohanesnuwara#-tutorials-and-courses
