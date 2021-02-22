@@ -241,6 +241,11 @@ https://transform2020.sched.com
 - CNN viz - https://www.cs.ryerson.ca/~aharley/vis/conv/flat.html
 
 # to add to 557
+- pandas week
+  - embed code for tweet <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Why is it called a Data Science Bootcamp and not Pandas Express?</p>&mdash; Seth Rosen 🇺🇸 (@sethrosen) <a href="https://twitter.com/sethrosen/status/1360659611007782915?ref_src=twsrc%5Etfw">February 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+- add alerts to notebooks https://getbootstrap.com/docs/4.0/components/alerts/
+- metric system https://twitter.com/brianklaas/status/1137059735868493826?s=20 (not trying to be political)
 - https://www.firstpythonnotebook.org
 - colorbars and viz
   - end the rainbow stuff
