@@ -243,11 +243,12 @@ https://transform2020.sched.com
 # to add to 557
 - pandas week
   - embed code for tweet <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Why is it called a Data Science Bootcamp and not Pandas Express?</p>&mdash; Seth Rosen 🇺🇸 (@sethrosen) <a href="https://twitter.com/sethrosen/status/1360659611007782915?ref_src=twsrc%5Etfw">February 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+- stats page https://twitter.com/cbalsalobre/status/1370310429629632512?s=11
 - add alerts to notebooks https://getbootstrap.com/docs/4.0/components/alerts/
 - metric system https://twitter.com/brianklaas/status/1137059735868493826?s=20 (not trying to be political)
 - https://www.firstpythonnotebook.org
 - colorbars and viz
+  - thread about color https://twitter.com/lisacrost/status/1371847162427015171?s=11
   - end the rainbow stuff
   - https://mycarta.wordpress.com/2020/09/17/busting-bad-colormaps-with-python-and-panel/
   - https://policyviz.com/2021/02/08/five-charts-youve-never-used-but-should/
@@ -268,6 +269,8 @@ https://transform2020.sched.com
 - dealing with text https://towardsdatascience.com/cleaning-text-data-with-python-a7ded0f5d799
 - uncertainty https://github.com/RichardScottOZ/Geoscience-Data-Quality-for-Machine-Learning
 
+# to add to 558
+- simple web scraping for SPE data https://www.linkedin.com/pulse/reading-wells-from-spe-data-repository-alfonso-r-reyes/
 # remote sensing
 - https://content.sciendo.com/downloadpdf/journals/pcr/50/2/article-p61.pdf
 - geospatial https://agilescientific.com/blog/x-lines-of-python-static-basemaps
