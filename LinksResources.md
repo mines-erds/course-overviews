@@ -32,6 +32,7 @@ This is a messy document, but has lots of good info. Will be updated irregularly
   - New Mexico https://github.com/jessepisel/New-Mexico-Oil-Conservation-Division
   - Colorado https://github.com/jessepisel/cogcc_scraping_python
 - CSDMS portal https://csdms.colorado.edu/wiki/Labs_portal
+- https://github.com/ddempsey/python_for_geoscientists
 
 ### Standards
 - omf
