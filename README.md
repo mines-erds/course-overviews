@@ -35,8 +35,6 @@ Data science is a vitally important skill, particularly when paired with deep do
     - MATH 530 	Statistical Methods I
     - EBGN 525	Business Analytics
 
-1. test
-
 
 ## FAQ
 - Are all the courses online, or are there in-person options?
