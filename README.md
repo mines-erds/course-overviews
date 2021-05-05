@@ -43,9 +43,9 @@ Data science is a vitally important skill, particularly when paired with deep do
   - Each course is 8 weeks long, with a time commitment of about 15 hours per week
 - Can I work at my job while completing the certificate?
    - Absoluately! That is the idea behind asynchronous learning - you learn at your own pace, when you have time. If you can spare 15 hours a week for 8 weeks at a time (e.g., by not Netflixing :wink:), then you can complete the certificate!  
-- How much time will this certificate take? 
-   - Ideally, one year (see below). However, the elective option may not be offered in the semester that you require. However, you may be able to take the elective concurrently with another course, itf approved by the professor(s) teaching the courses. 
-- Can I complete the certificate in two semesters? 
+- How much time will this certificate take?
+   - Ideally, one year (see below). However, the elective option may not be offered in the semester that you require. However, you may be able to take the elective concurrently with another course, if approved by the professor(s) teaching the courses.
+- Can I complete the certificate in two semesters?
    - Ideally, you can complete the certificate in one year, with the following schedule:
       - Fall 1st online session (August - October) **DSCI 403**
       - Fall 2nd online session (October - December) **GEOL 557**
