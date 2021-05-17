@@ -272,6 +272,7 @@ https://transform2020.sched.com
 
 # to add to 558
 - simple web scraping for SPE data https://www.linkedin.com/pulse/reading-wells-from-spe-data-repository-alfonso-r-reyes/
+- ML checklist https://docs.google.com/document/d/1I5yZLgeMu21Iu5n_9J0Wrlc5Tqwaq7JrZ_aoZivNwPA/edit?usp=sharing 
 # remote sensing
 - https://content.sciendo.com/downloadpdf/journals/pcr/50/2/article-p61.pdf
 - geospatial https://agilescientific.com/blog/x-lines-of-python-static-basemaps
