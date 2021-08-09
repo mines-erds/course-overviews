@@ -275,6 +275,8 @@ https://transform2020.sched.com
 - ML checklist https://docs.google.com/document/d/1I5yZLgeMu21Iu5n_9J0Wrlc5Tqwaq7JrZ_aoZivNwPA/edit?usp=sharing
 - 70 years of ML https://arxiv.org/abs/2006.13311
 - ML examples https://www.notion.so/Research-Material-ebf3eeda00cd44bda787d0ade9dc8a4a 
+- ML course https://github.com/rentruewang/learning-machine
+
 # remote sensing
 - https://content.sciendo.com/downloadpdf/journals/pcr/50/2/article-p61.pdf
 - geospatial https://agilescientific.com/blog/x-lines-of-python-static-basemaps
