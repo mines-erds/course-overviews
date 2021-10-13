@@ -77,6 +77,7 @@ https://transform2020.sched.com
 - well data
   - lasio
   - welly
+  - tutorials by Andy McDonald https://www.youtube.com/channel/UCn1O_4_ApzbYwrsUdRoMmOg
   - check out this log 'imputer' (Didn't Ross make one too?)
     - https://github.com/mycarta/predict/blob/master/Geoscience_ML_notebook_1.ipynb and https://github.com/mycarta/predict/blob/master/Geoscience_ML_notebook_6.ipynb
   - wellpathpy https://pypi.org/project/wellpathpy/
