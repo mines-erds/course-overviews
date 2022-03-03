@@ -1,3 +1,5 @@
+![](erds_logo_textpath.svg)
+
 # "Earth Resource Data Science" graduate certificate at Colorado School of Mines.
 
 The Earth Resource Data Science graduate certificate is a new (as of 2020) offering at Colorado School of Mines, and will consist of four courses (12 credit hours) that can also be included as coursework towards an M.S. degree at Mines.
