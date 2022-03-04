@@ -1,4 +1,4 @@
-![image](erds_logo_textpath.svg | width=200)
+<img src="erds_logo_textpath.svg" width="200">
 
 # "Earth Resource Data Science" graduate certificate at Colorado School of Mines.
 
