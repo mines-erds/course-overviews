@@ -1,4 +1,4 @@
-<img src="erds_logo_textpath.svg" width="400">
+<img src="erds_logo_textpath.svg" width="400" title="Thanks to Matt Bauer for the logo!">
 
 # "Earth Resource Data Science" graduate certificate at Colorado School of Mines.
 
