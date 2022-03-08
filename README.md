@@ -1,8 +1,8 @@
 ## Courses
 ### Mandatory courses (in this order):
 1. DSCI 403 	Introduction to Data Science
-1. GEOL 557 	Earth Resource Data Science I – Fundamentals
-1. GEOL 558 	Earth Resource Data Science II – Applications and Machine-Learning
+1. [GEOL 557 	Earth Resource Data Science I – Fundamentals](https://github.com/mines-erds/course-overviews/blob/master/557_CourseOutline.md)
+1. [GEOL 558 	Earth Resource Data Science II – Applications and Machine-Learning](https://github.com/mines-erds/course-overviews/blob/master/558_CourseOutline.md)
 1. Elective (choose from one of the following):
   - Geospatial focus:
     - GEGN 575	Applications of Geographic Information Systems
