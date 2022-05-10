@@ -286,3 +286,8 @@ https://transform2020.sched.com
 - blog https://joemorrison.medium.com
 - make GIF from sat imagery https://geemap.org/notebooks/52_cartoee_gif/
 - temporal volcano data - see thread on twitter https://twitter.com/ragnarheidar/status/1345398250661150729?s=11
+
+# 2022 unorganized
+- https://www.linkedin.com/posts/aziz-nasuti-63062825_database-petrophysics-geophysics-activity-6924400819941322756-blsM/?utm_source=linkedin_share&utm_medium=ios_app
+- https://twitter.com/kwinkunks/status/1522632970825342989?s=21&t=WIPeUQaYQXFfQHFzsk8lVg
+- https://twitter.com/netl_doe/status/1522652508220493825?s=21&t=WIPeUQaYQXFfQHFzsk8lVg
