@@ -1,0 +1,27 @@
+name: 557-standard
+channels:
+ - conda-forge
+dependencies:
+  # Required by JupyterLab
+  - python=3
+  - nb_conda_kernels
+  - ipykernel
+  # User requested packages
+  - numpy=1.19.5
+  - matplotlib
+  - seaborn
+  - plotly
+  - scipy
+  - pandas<1.1.0
+  - geopandas
+  - cartopy
+  - scikit-learn
+  - pip
+  - earthpy
+  - folium
+  - metpy
+  - siphon
+  - python-ternary 
+  - xarray
+  - ipywidgets
+  - python-awips
